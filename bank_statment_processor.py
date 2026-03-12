@@ -41,68 +41,6 @@ category_map = {
     "Vacations / Travel": ["Travel", "Lodging", "Food", "Entertainment", "Souvenirs", "Other"]
 }
 
-# # Function to categorize a single description using Ollama
-# def categorize_transaction_cli(description):
-#     if pd.isna(description) or description.strip() == "":
-#         return {"main_category": "Other", "sub_category": "Other"}
-
-#     prompt = f"""
-#         You are a financial transaction categorizer.
-
-#         Main categories:
-#         Housing, Transportation, Loans / Credit, Insurance, Taxes,
-#         Savings / Investments, Food / Dining, Entertainment,
-#         Personal Care / Health, Education, Gifts & Donations, Vacations / Travel
-
-#         Subcategories:
-#         Use the relevant subcategory from the main category (for example, Mortgage/Rent under Housing).
-
-#         Always respond ONLY in JSON format like:
-#         {{"main_category": "...", "sub_category": "..."}}
-
-#         Examples:
-#         Transaction description: "Rent payment for August"
-#         JSON: {{"main_category": "Housing", "sub_category": "Mortgage/Rent"}}
-
-#         Transaction description: "Bought groceries at Walmart"
-#         JSON: {{"main_category": "Food / Dining", "sub_category": "Groceries"}}
-
-#         Transaction description: "Monthly credit card payment"
-#         JSON: {{"main_category": "Loans / Credit", "sub_category": "Credit Card"}}
-
-#         Now categorize this transaction description:
-#         "{description}"
-#     """
-
-#     try:
-#         result = subprocess.run(
-#             [ollama_path, "chat", "mistral", "--prompt", prompt],
-#             capture_output=True,
-#             text=True,
-#             timeout=15
-#         )
-
-#        # Print raw output for debugging
-#         print(f"\n💡 Raw Ollama output for '{description}':\n{result.stdout}")
-
-#         # Extract JSON using regex
-#         match = re.search(r'\{.*\}', result.stdout, re.DOTALL)
-#         if match:
-#             return json.loads(match.group())
-#         else:
-#             return {"main_category": "Other", "sub_category": "Other"}
-
-#     except Exception as e:
-#         print(f"⚠️ Error categorizing '{description}': {e}")
-#         return {"main_category": "Other", "sub_category": "Other"}
-
-# # Helper to batch categorize multiple descriptions
-# def categorize_descriptions_batch(descriptions):
-#     results = []
-#     for desc in descriptions:
-#         results.append(categorize_transaction_cli(desc))
-#     return results
-
 # List to hold all banks
 all_banks = []
 
@@ -189,11 +127,6 @@ for bank_folder in bank_folders:
         else:
             df["type"] = np.where(df["amount"] > 0, "credit", "debit")
 
-        # # Batch categorize descriptions
-        # category_results = categorize_descriptions_batch(df["description"].tolist())
-        # df["main_category"] = [r["main_category"] for r in category_results]
-        # df["sub_category"] = [r["sub_category"] for r in category_results]
-
         bank_dfs.append(df)
 
     # Combine all accounts for this bank
@@ -220,48 +153,3 @@ final_df = clean_and_categorize(combined)
 final_df.to_csv("all_banks_final_categorized.csv", index=False)
 
 print("✅ Done! Final cleaned and categorized CSV saved as 'all_banks_final_categorized.csv'.")
-
-
-
-
-
-
-
-
-
-# # Read the bank statement CSV files
-# def read_bank_statement(file_path):
-#     try:
-#         df = pd.read_csv(file_path)
-#         return df
-#     except Exception as e:
-#         print(f"Error reading the file: {e}")
-#         return None
-    
-# # Clean and preprocess the data
-# def clean_data(df):
-#     # Example cleaning steps
-#     df.dropna(inplace=True)  # Remove missing values
-#     df['Date'] = pd.to_datetime(df['Date'])  # Convert Date column to datetime
-#     return df
-
-# # Analyze the transactions
-# def analyze_transactions(df):
-#     # Example analysis: Calculate total income and expenses
-#     total_income = df[df['Amount'] > 0]['Amount'].sum()
-#     total_expenses = df[df['Amount'] < 0]['Amount'].sum()
-#     return total_income, total_expenses
-
-# # Generate a summary report
-# def generate_summary_report(total_income, total_expenses):
-#     report = f"Total Income: ${total_income:.2f}\nTotal Expenses: ${total_expenses:.2f}"
-#     return report
-
-# # Main function to process the bank statement
-# def process_bank_statement(file_path):
-#     df = read_bank_statement(file_path)
-#     if df is not None:
-#         df = clean_data(df)
-#         total_income, total_expenses = analyze_transactions(df)
-#         report = generate_summary_report(total_income, total_expenses)
-#         print(report)

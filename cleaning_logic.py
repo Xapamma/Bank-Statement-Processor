@@ -80,6 +80,10 @@ sub_category_map = {
     "Walmart Supercenter": "Groceries",
     "Costco Wholesale": "Groceries",
     "Macey's": "Groceries",
+    "Jacksons Food Stores": "Groceries",
+    "Aldi Nord": "Groceries",
+    "Volker's Bakery": "Groceries",
+    "Life Starfish": "Groceries",
     "McDonald's": "Fast Food",
     "Chick-fil-A": "Fast Food",
     "Taco Bell": "Fast Food",
@@ -92,17 +96,132 @@ sub_category_map = {
     "Cold Stone Creamery": "Fast Food",
     "Brookers Ice Cream": "Fast Food",
     "Popbite Bakery": "Fast Food",
+    "Backwerk": "Fast Food",
+    "Burger King Sot": "Fast Food",
+    "Carl's Jr.": "Fast Food",
+    "Chipotle": "Fast Food",
+    "Del Taco": "Fast Food",
+    "Noodles And Company": "Fast Food",
+    "Papa John's": "Fast Food",
+    "Papa Murphy's Ut Olo": "Fast Food",
+    "Py Johnny Rockets": "Fast Food",
+    "Wiener Feinbackerei": "Fast Food",
+    "Yogurtland Ut": "Fast Food",
     "Cafe Zupas": "Restaurants/Dining",
+    "Cheesecake": "Restaurants/Dining",
+    "Golden Corral": "Restaurants/Dining",
+    "Ristorante Calice Doro": "Restaurants/Dining",
+    "Texas Roadhouse": "Restaurants/Dining",
+    "Rewe Markt Gmbh": "Groceries",
+    "Landbaeckerei Schmidt": "Fast Food",
+    "Le Crobag De": "Fast Food",
+    "Chocoladefabriken Lindt": "Fast Food",
+    "Confiserie Felicitas": "Fast Food",
+    "Kamps Berlin": "Fast Food",
+    "Milk & Cookies": "Fast Food",
+    "Nielsens Frozen Custar": "Fast Food",
+    "Roxberry Juice Co.": "Fast Food",
+    "Sq Chromis Bakery": "Fast Food",
+    "Willy Dany Restaurantb": "Fast Food",
+    "Dolce Freddo Gmbh": "Fast Food",
+    "Leatherby'S Family Cream": "Fast Food",
+    "Fabulous Freddy's": "Fast Food",
+    "Tstbrookers - Provo": "Fast Food",
 
-    # --- Transportation ---
+    # --- Automotive & Fuel ---
     "Costco Gas": "Fuel",
     "Maverik": "Fuel",
     "Shell": "Fuel",
     "Chevron": "Fuel",
+    "Bear River Insurance": "Insurance",
     "Jiffy Lube": "Maintenance",
     "DMV": "Maintenance",
+    "Slc Airport Parking": "Maintenance",
+    "Salt Lake City Airport Parking": "Maintenance",
+    "Autozone": "Auto Parts",
+    "Zephyr Lot": "Maintenance",
 
-    # --- Savings / Investments ---
+    # --- Health & Wellness ---
+    "Oak Hills Pharmacy": "Pharmacy",
+    "Walgreens": "Pharmacy",
+    "Crosspointe Dental": "Medical",
+    "Bath & Body Works": "Personal Care",
+    "Hearts Nail Spa": "Personal Care",
+    "Rossmann": "Personal Care",
+    "Victoria'S Secret": "Personal Care",
+    "Spccity-Apotheken Dresde": "Pharmacy",
+    "Sq Winters Custom Hair D": "Personal Care",
+    "Sq Tie One On": "Personal Care",
+    
+    # --- Travel & Lodging ---
+    "Delta Air Baggage Fee": "Travel & Commute",
+    "Klm Airline": "Airfare",
+    "Cotflt": "Airfare",
+    "Flughafen Berlin Brand": "Travel & Commute",
+    "Grandma Becky Payment": "Lodging",
+    "Arcotel Hafencity Dresden": "Lodging",
+    "Elaya Ht. Leipzig City": "Lodging",
+    "Hotel Johann Berlin Recep": "Lodging",
+    "Cothtl": "Lodging",
+    "Areas Roissy": "Travel & Commute",
+    "Hms Host International": "Travel & Commute",
+    "Mopla Bewegt": "Travel & Commute",
+
+    # --- Shopping & Supplies ---
+    "Amazon": "General Retail",
+    "Ross": "General Retail",
+    "Barnes & Noble": "General Retail",
+    "Dick'S Sporting Goods": "General Retail",
+    "Downeast": "Clothing",
+    "Jcpenney": "Clothing",
+    "Maurices": "Clothing",
+    "Spirit Halloween": "Clothing",
+    "Home Depot": "Home Improvement",
+    "Hobby Lobby": "Hobbies",
+    "Sweetwater-Recordstore-Ja": "Hobbies",
+    "Enticon Shops": "General Retail",
+    "Post Mart": "General Retail",
+    "Saturn Electro-Handels": "General Retail",
+    "Tricked Out Accessories U": "General Retail",
+    "Famous Footwear": "Clothing",
+    "Shoeman Enterprise": "Clothing",
+    "Bm Weihnachtsland K": "General Retail",
+    "Fye University Place": "General Retail",
+    "Springville Di": "General Retail",
+
+    # --- Housing & Bills ---
+    "T-Mobile": "Phone",
+    "Cbtutah County Clerk": "Service Fees",
+    "Cbtsvc Fee Utah Cnty": "Service Fees",
+    "Google Services": "Service Fees",
+    "Visa Service Fee": "Service Fees",
+    "Capital One Member Fee": "Service Fees",
+    "Hrb Online Tax Product": "Service Fees",
+    "Sl.Nord Vpncom": "Service Fees",
+    "Ut Hunt/Fish Lic. Onli": "Service Fees",
+    
+    # --- Gifts & Donations ---
+    "Church Donations": "Tithing",
+
+    # --- Education ---
+    "BYU (Campus Services)": "Education",
+    "Ebook Academy": "Education",
+
+    # --- Entertainment ---
+    "Steam (Gaming)": "Gaming",
+    "Fandango/Vudu": "Streaming/Movies",
+    "Cinemark Boxcon": "Streaming/Movies",
+    "Cinemark Online": "Streaming/Movies",
+    "Lava Hot Springs": "Recreation",
+    "Dancefitme Fun": "Recreation",
+    "Lagoon Rfm": "Recreation",
+    "Lagoon Tic-Ag": "Recreation",
+    "Sp Shopcornbellys": "Recreation",
+    "Espn": "Streaming/Movies",
+    "Provo City Cntr Temple": "Recreation",
+    "Voelkerschlachtdenkmal Le": "Recreation",
+
+    # --- Savings & Investments ---
     "Interest Earned": "Dividends",
     "Dividend Income": "Dividends",
     "Investment Income": "Dividends",
@@ -111,54 +230,25 @@ sub_category_map = {
     # --- Income ---
     "Payroll Deposit": "Paychecks",
     "BYU Refund": "Refunds",
-    "Youth Engagement Promo": "Other Income",
     "Apple Services": "Refunds",
     "Credit-Travel Reward": "CC Rewards",
-
-    # --- Shopping (The "Other" items) ---
-    "Amazon": "General Retail",
-    "Ross": "General Retail",
-    "Bath & Body Works": "Personal Care",
-    "Home Depot": "Home Improvement",
-
-    # --- Entertainment & Recreation ---
-    "Steam (Gaming)": "Gaming",
-    "Fandango/Vudu": "Streaming/Movies",
-    "Lava Hot Springs": "Recreation",
-    "Dancefitme Fun": "Recreation",
-
-    # --- Gifts & Donations ---
-    "Church Donations": "Tithing",
-    
-    # --- Health & Education ---
-    "Oak Hills Pharmacy": "Medical",
-    "Crosspointe Dental": "Medical",
-    "BYU (Campus Services)": "Education",
-    "Ebook Academy": "Education",
-
-    # --- Housing / Utilities ---
-    "T-Mobile": "Phone",
-    "Google Services": "Other",
-
-    # --- Health & Services (Falls to General Spending) ---
-    "Bear River Insurance": "Insurance",
-    "Visa Service Fee": "Other",
-    "Life Starfish": "Other",
-    "Ouelessebougou Alliance": "Other",
-    "Grandma Becky Payment": "Other",
+    "Youth Engagement Promo": "Other Income",
 }
 
 # --- 3. CATEGORY HIERARCHY ---
 category_hierarchy = {
-    "Housing": ["Mortgage/Rent", "Utilities", "Phone", "Cable/Internet"],
     "Food / Dining": ["Groceries", "Restaurants/Dining", "Fast Food"],
-    "Transportation": ["Fuel", "Insurance", "Maintenance"],
+    "Automotive & Fuel": ["Fuel", "Insurance", "Maintenance", "Auto Parts"],
+    "Health & Wellness": ["Medical", "Personal Care", "Pharmacy"],
+    "Travel & Lodging": ["Airfare", "Lodging", "Travel & Commute"],
+    "Shopping & Supplies": ["General Retail", "Home Improvement", "Hobbies", "Clothing"], 
+    "Housing & Bills": ["Mortgage/Rent", "Phone", "Cable/Internet", "Service Fees", "Utilities"],
     "Gifts & Donations": ["Tithing", "Gift"],
-    "Savings / Investments": ["Dividends", "Investments"],
-    "Income": ["Paychecks", "Refunds", "CC Rewards"],
-    "Shopping": ["General Retail", "Home Improvement", "Personal Care"], 
-    "Entertainment": ["Gaming", "Streaming/Movies", "Recreation"],        
-    "Health & Services": ["Medical", "Education", "Service Fees"]         
+    "Education": ["Education"],
+    "Entertainment": ["Gaming", "Streaming/Movies", "Recreation"],
+    "Savings & Investments": ["Dividends", "Investments"],
+    "Income": ["Paychecks", "Refunds", "CC Rewards", "Other Income"],
+    "Miscellaneous": ["Fees & Charges", "Other Services"]         
 }
 
 # Connects sub to main title
@@ -207,10 +297,13 @@ def clean_and_categorize(df):
     df[['description', 'main_category', 'sub_category']] = df.apply(process_row, axis=1)
     
     # Filter Internal Noise (Transfers/Roundups)
-    noise_list = ["transfer to sofi", "to checking", "angel funding", "roundup", "home banking transfer", "pymt", "payment", "north capital", "internal transfer"]
+    noise_list = ["transfer to sofi", "to checking", "angel funding", "roundup", "home banking transfer", "pymt", "payment to", "north capital", "internal transfer"]
     df = df[~df['description'].str.lower().str.contains('|'.join(noise_list), na=False)]
 
     # Ensure description is Title Case for final output
     df['description'] = df['description'].str.title()
+
+    # 2. Specifically fix the lowercase 's' after apostrophes
+    df['description'] = df['description'].str.replace(r"'S\b", "'s", regex=True)
     
     return df
