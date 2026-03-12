@@ -1,0 +1,455 @@
+date,description,amount,balance,bank,account,main_category,sub_category
+2025-01-03,Salary/Regular Income from Goldenwest Credit Union,632.09,3602.31,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-01-17,Salary/Regular Income from Goldenwest Credit Union,682.91,4285.22,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-01-21,Deposit S KERBY REIM FOR TRAINING MILEAGE,769.16,5054.38,goldenwest,checking,Food / Dining,Restaurants/Dining
+2025-01-31,Walmart,-198.23,4856.15,goldenwest,checking,Insurance,Health
+2025-01-31,Deposit Dividend Annual Percentage Yield Earned 6.21% from 01/01/25 through 01/31/25,0.26,50.92,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-01-31,Deposit Dividend Annual Percentage Yield Earned 0.05% from 01/01/25 through 01/31/25,0.18,5469.89,goldenwest,checking,Personal Care / Health,Medicine/Drugs
+2025-01-31,Salary/Regular Income from Goldenwest Credit Union,613.56,5469.71,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-02-01,Deposit RoundUp Deposit,0.77,51.69,goldenwest,credit,Savings / Investments,House Down Payment
+2025-02-01,Withdrawal RoundUp Withdraw,-0.77,5469.12,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-02-02,Payment to T-Mobile,-11.16,5457.96,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-02-03,Deposit RoundUp Deposit,0.84,52.53,goldenwest,credit,Savings / Investments,House Down Payment
+2025-02-03,Withdrawal RoundUp Withdraw,-0.84,5457.12,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-02-11,Costco,26.77,5483.89,goldenwest,checking,Food / Dining,Fast Food
+2025-02-12,Walmart,-244.25,5238.87,goldenwest,checking,Insurance,Health
+2025-02-12,Withdrawal RoundUp Withdraw,-0.77,5483.12,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-02-12,Deposit RoundUp Deposit,0.77,53.3,goldenwest,credit,Savings / Investments,House Down Payment
+2025-02-13,Deposit RoundUp Deposit,0.75,54.05,goldenwest,credit,Savings / Investments,House Down Payment
+2025-02-13,Maverik,-49.24,5188.88,goldenwest,checking,Entertainment,Travel
+2025-02-13,Withdrawal RoundUp Withdraw,-0.75,5238.12,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-02-14,Deposit S KERBY REIM FOR TRAINING MILEAGE,114.8,6422.85,goldenwest,checking,Food / Dining,Restaurants/Dining
+2025-02-14,Salary/Regular Income from Goldenwest Credit Union,1119.93,6308.81,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-02-14,Withdrawal RoundUp Withdraw,-0.76,6308.05,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-02-14,Deposit RoundUp Deposit,0.76,54.81,goldenwest,credit,Savings / Investments,House Down Payment
+2025-02-28,Deposit Dividend Annual Percentage Yield Earned 6.23% from 02/01/25 through 02/28/25,0.25,55.06,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-02-28,Salary/Regular Income from Goldenwest Credit Union,627.36,7050.21,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-02-28,Deposit Dividend Annual Percentage Yield Earned 0.05% from 02/01/25 through 02/28/25,0.23,7050.44,goldenwest,checking,Personal Care / Health,Medicine/Drugs
+2025-03-03,Walmart,-37.52,7012.92,goldenwest,checking,Insurance,Health
+2025-03-03,Walmart,-51.15,6961.77,goldenwest,checking,Insurance,Health
+2025-03-04,Taco Bell,-19.02,6941.42,goldenwest,checking,Taxes,State
+2025-03-04,Deposit RoundUp Deposit,1.33,56.39,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-04,Withdrawal RoundUp Withdraw,-1.33,6960.44,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-05,Deposit RoundUp Deposit,0.98,57.37,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-05,Withdrawal RoundUp Withdraw,-0.98,6940.44,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-06,Withdrawal #XX0480 OAK HILLS PHARMACY PROVO UT Card 4143,-23.01,6917.43,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-03-07,Ross Stores,-21.3,6793.51,goldenwest,checking,Food / Dining,Groceries
+2025-03-07,Withdrawal RoundUp Withdraw,-0.99,6916.44,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-07,Withdrawal PAYROLL WITHDRAW,-101.63,6814.81,goldenwest,checking,Loans / Credit,Credit Card
+2025-03-07,Deposit RoundUp Deposit,0.99,58.36,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-08,Payment to T-Mobile,-27.9,6765.61,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-03-08,Withdrawal RoundUp Withdraw,-0.7,6764.91,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-08,Walmart,-66.34,6698.57,goldenwest,checking,Insurance,Health
+2025-03-08,Deposit RoundUp Deposit,0.7,59.06,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-09,Withdrawal RoundUp Withdraw,-0.66,6697.91,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-09,Carl's Jr.,-22.5,6675.41,goldenwest,checking,Taxes,Local
+2025-03-09,Deposit RoundUp Deposit,0.66,59.72,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-10,Deposit RoundUp Deposit,0.5,60.22,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-10,Withdrawal RoundUp Withdraw,-0.5,6674.91,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-10,Bath & Body Works,-46.76,6575.86,goldenwest,checking,Food / Dining,Fast Food
+2025-03-10,Victoria's Secret,-45.32,6530.54,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-10,Fabulous Freddy's,-12.83,6517.71,goldenwest,checking,Gifts & Donations,Fast Offerings
+2025-03-10,JCPenney,-41.35,6476.36,goldenwest,checking,Transportation,Licensing
+2025-03-10,Dick's Sporting Goods,-32.01,6444.35,goldenwest,checking,Transportation,Licensing
+2025-03-10,Barnes & Noble,-52.29,6622.62,goldenwest,checking,Transportation,Maintenance
+2025-03-11,Walmart,-55.25,6385.66,goldenwest,checking,Insurance,Health
+2025-03-11,Deposit RoundUp Deposit,3.44,63.66,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-11,Withdrawal RoundUp Withdraw,-3.44,6440.91,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-12,Withdrawal RoundUp Withdraw,-0.75,6384.91,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-12,Deposit RoundUp Deposit,0.75,64.41,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-12,Famous Footwear,-98.0,6265.91,goldenwest,checking,Loans / Credit,House Loan
+2025-03-12,Taco Bell,-21.0,6363.91,goldenwest,checking,Taxes,State
+2025-03-13,Panda Express,-26.4,6125.59,goldenwest,checking,Housing,Maintenance/Repairs
+2025-03-13,Withdrawal RED CLIFFS BOBA TEA & CO ST. GEORGE UT Date XX 5812 Card 4143,-9.06,6116.53,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-13,Downeast,-72.93,6179.74,goldenwest,checking,Housing,Phone
+2025-03-13,Downeast,-27.75,6151.99,goldenwest,checking,Housing,Phone
+2025-03-13,Chick-fil-A,-13.24,6252.67,goldenwest,checking,Transportation,Vehicle Payments
+2025-03-14,Salary/Regular Income from Goldenwest Credit Union,564.52,6681.05,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-14,Withdrawal RoundUp Withdraw,-2.62,6678.43,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-14,Taco Bell,-13.0,6665.43,goldenwest,checking,Taxes,State
+2025-03-14,Deposit RoundUp Deposit,2.62,67.03,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-15,Walmart,-22.28,6643.15,goldenwest,checking,Insurance,Health
+2025-03-15,Maverik,-49.01,6594.14,goldenwest,checking,Entertainment,Travel
+2025-03-16,Deposit RoundUp Deposit,1.71,68.74,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-16,Withdrawal RoundUp Withdraw,-1.71,6592.43,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-19,Walmart,-135.57,6456.86,goldenwest,checking,Insurance,Health
+2025-03-20,Withdrawal RoundUp Withdraw,-0.43,6456.43,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-20,Deposit RoundUp Deposit,0.43,69.17,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-23,Taco Bell,-24.0,6432.43,goldenwest,checking,Taxes,State
+2025-03-25,Withdrawal Home Banking Transfer To Share 0004,-4000.0,2432.43,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-03-25,Maverik,-48.71,2383.72,goldenwest,checking,Entertainment,Travel
+2025-03-25,Deposit Home Banking Transfer From Share 0090,4000.0,4000.0,goldenwest,credit,Savings / Investments,Transfer to Savings
+2025-03-26,Subway,-15.45,2367.98,goldenwest,checking,Transportation,Insurance
+2025-03-26,Withdrawal RoundUp Withdraw,-0.29,2383.43,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-26,Deposit RoundUp Deposit,0.29,69.46,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-27,Withdrawal #XX9725 OAK HILLS PHARMACY PROVO UT Card 4143,-23.01,2344.42,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-03-27,Deposit RoundUp Deposit,0.55,70.01,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-27,Withdrawal RoundUp Withdraw,-0.55,2367.43,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-28,Salary/Regular Income from Goldenwest Credit Union,588.64,2933.06,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-28,Withdrawal RoundUp Withdraw,-0.99,2932.07,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-28,Deposit RoundUp Deposit,0.99,71.0,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-29,Costco,-175.29,2650.3,goldenwest,checking,Food / Dining,Fast Food
+2025-03-29,Walmart,-106.48,2825.59,goldenwest,checking,Insurance,Health
+2025-03-30,Deposit RoundUp Deposit,1.23,72.23,goldenwest,credit,Savings / Investments,House Down Payment
+2025-03-30,Withdrawal RoundUp Withdraw,-1.23,2649.07,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-03-31,Withdrawal GDP*CROSSPOINTE DENTAL IN OREM UT Date XX 8021 Card 4143,-158.0,2491.07,goldenwest,checking,Housing,Maintenance/Repairs
+2025-03-31,Deposit Dividend Annual Percentage Yield Earned 0.05% from 03/01/25 through 03/31/25,0.24,2491.31,goldenwest,checking,Personal Care / Health,Medicine/Drugs
+2025-03-31,Deposit Dividend Annual Percentage Yield Earned 1.01% from 03/25/25 through 03/31/25,0.77,4000.77,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-03-31,Deposit Dividend Annual Percentage Yield Earned 6.14% from 03/01/25 through 03/31/25,0.33,72.56,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-04-01,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX5065 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,-320.0,1966.31,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-01,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX5065 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,-205.0,2286.31,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-01,Walmart,-160.31,1806.0,goldenwest,checking,Insurance,Health
+2025-04-02,Deposit RoundUp Deposit,0.69,73.25,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-02,Withdrawal RoundUp Withdraw,-0.69,1805.31,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-04,Ross Stores,-33.96,1594.75,goldenwest,checking,Food / Dining,Groceries
+2025-04-04,"Robinhood Securities, Llc",-150.0,1655.31,goldenwest,checking,Food / Dining,Groceries
+2025-04-04,Hobby Lobby,-26.6,1628.71,goldenwest,checking,Personal Care / Health,Health Club
+2025-04-05,Withdrawal RoundUp Withdraw,-0.44,1594.31,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-05,Taco Bell,-16.0,1578.31,goldenwest,checking,Taxes,State
+2025-04-05,Deposit RoundUp Deposit,0.44,73.69,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-06,"Robinhood Securities, Llc",-1.01,1577.3,goldenwest,checking,Food / Dining,Groceries
+2025-04-06,"Robinhood Securities, Llc",-1.01,1576.29,goldenwest,checking,Food / Dining,Groceries
+2025-04-06,"Robinhood Securities, Llc",-1.01,1575.28,goldenwest,checking,Food / Dining,Groceries
+2025-04-06,"Robinhood Securities, Llc",-1.01,1573.26,goldenwest,checking,Food / Dining,Groceries
+2025-04-06,"Robinhood Securities, Llc",-1.01,1574.27,goldenwest,checking,Food / Dining,Groceries
+2025-04-07,"Robinhood Securities, Llc",-1.01,1562.25,goldenwest,checking,Food / Dining,Groceries
+2025-04-07,"Robinhood Securities, Llc",-1.01,1564.27,goldenwest,checking,Food / Dining,Groceries
+2025-04-07,"Robinhood Securities, Llc",-1.01,1565.28,goldenwest,checking,Food / Dining,Groceries
+2025-04-07,"Robinhood Securities, Llc",-1.01,1566.29,goldenwest,checking,Food / Dining,Groceries
+2025-04-07,Transfer to Sofi Bank,-1.01,1567.3,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-04-07,Deposit RoundUp Deposit,4.95,78.64,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-07,Withdrawal RoundUp Withdraw,-4.95,1568.31,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-07,Maverik,-49.92,1512.33,goldenwest,checking,Entertainment,Travel
+2025-04-07,"Robinhood Securities, Llc",-1.01,1563.26,goldenwest,checking,Food / Dining,Groceries
+2025-04-08,Robinhood,-500.0,3485.77,goldenwest,credit,Vacations / Travel,Food
+2025-04-08,"Robinhood Securities, Llc",-1.01,1478.39,goldenwest,checking,Food / Dining,Groceries
+2025-04-08,"Robinhood Securities, Llc",-1.01,1477.38,goldenwest,checking,Food / Dining,Groceries
+2025-04-08,"Robinhood Securities, Llc",-1.01,1476.37,goldenwest,checking,Food / Dining,Groceries
+2025-04-08,"Robinhood Securities, Llc",-1.01,1475.36,goldenwest,checking,Food / Dining,Groceries
+2025-04-08,"Robinhood Securities, Llc",-1.01,1474.35,goldenwest,checking,Food / Dining,Groceries
+2025-04-08,Robinhood,-15.0,3985.77,goldenwest,credit,Vacations / Travel,Food
+2025-04-08,Payment to T-Mobile,-27.9,1484.43,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-04-08,Withdrawal RoundUp Withdraw,-5.03,1479.4,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-08,Deposit RoundUp Deposit,5.03,83.67,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-09,"Robinhood Securities, Llc",-1.01,1466.37,goldenwest,checking,Food / Dining,Groceries
+2025-04-09,Deposit RoundUp Deposit,4.95,88.62,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-09,Withdrawal RoundUp Withdraw,-4.95,1469.4,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-09,"Robinhood Securities, Llc",-1.01,1468.39,goldenwest,checking,Food / Dining,Groceries
+2025-04-09,"Robinhood Securities, Llc",-1.01,1467.38,goldenwest,checking,Food / Dining,Groceries
+2025-04-09,Recurring Withdrawal Card Fee VISA INTERNATIONAL SERVICE ASSESSMENT Date Card 4143,-0.37,1426.98,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-09,"Robinhood Securities, Llc",-1.01,1465.36,goldenwest,checking,Food / Dining,Groceries
+2025-04-09,"Robinhood Securities, Llc",-1.01,1464.35,goldenwest,checking,Food / Dining,Groceries
+2025-04-09,Recurring Withdrawal EBOOK ACCADEMY LONDON GB Date XX 5977 Card 4143,-37.0,1427.35,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-10,"Robinhood Securities, Llc",-1.01,1419.0,goldenwest,checking,Food / Dining,Groceries
+2025-04-10,"Robinhood Securities, Llc",-1.01,1420.01,goldenwest,checking,Food / Dining,Groceries
+2025-04-10,"Robinhood Securities, Llc",-1.01,1421.02,goldenwest,checking,Food / Dining,Groceries
+2025-04-10,Withdrawal RoundUp Withdraw,-4.95,1422.03,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-10,Roxberry Juice Co.,-26.43,1390.55,goldenwest,checking,Food / Dining,Groceries
+2025-04-10,"Robinhood Securities, Llc",-1.01,1417.99,goldenwest,checking,Food / Dining,Groceries
+2025-04-10,Deposit RoundUp Deposit,4.95,93.57,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-10,"Robinhood Securities, Llc",-1.01,1416.98,goldenwest,checking,Food / Dining,Groceries
+2025-04-11,Salary/Regular Income from Goldenwest Credit Union,533.19,1923.74,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-11,Withdrawal RoundUp Withdraw,-5.52,1918.22,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-11,Taco Bell,-15.83,1902.39,goldenwest,checking,Taxes,State
+2025-04-11,Deposit RoundUp Deposit,5.52,99.09,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-11,Robinhood,-25.0,3460.77,goldenwest,credit,Vacations / Travel,Food
+2025-04-11,Robinhood,-40.0,3420.77,goldenwest,credit,Vacations / Travel,Food
+2025-04-11,Robinhood,-324.9,3095.87,goldenwest,credit,Vacations / Travel,Food
+2025-04-12,"Robinhood Securities, Llc",-1.01,1901.38,goldenwest,checking,Food / Dining,Groceries
+2025-04-12,"Robinhood Securities, Llc",-1.01,1900.37,goldenwest,checking,Food / Dining,Groceries
+2025-04-12,"Robinhood Securities, Llc",-1.01,1899.36,goldenwest,checking,Food / Dining,Groceries
+2025-04-12,"Robinhood Securities, Llc",-1.01,1898.35,goldenwest,checking,Food / Dining,Groceries
+2025-04-12,"Robinhood Securities, Llc",-1.01,1897.34,goldenwest,checking,Food / Dining,Groceries
+2025-04-12,Deposit RoundUp Deposit,0.17,99.26,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-12,The Home Depot,-70.32,1826.85,goldenwest,checking,Savings / Investments,Retirement
+2025-04-12,Withdrawal RoundUp Withdraw,-0.17,1897.17,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-13,"Robinhood Securities, Llc",-1.01,1823.82,goldenwest,checking,Food / Dining,Groceries
+2025-04-13,Deposit RoundUp Deposit,5.63,104.89,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-13,"Robinhood Securities, Llc",-1.01,1825.84,goldenwest,checking,Food / Dining,Groceries
+2025-04-13,"Robinhood Securities, Llc",-1.01,1824.83,goldenwest,checking,Food / Dining,Groceries
+2025-04-13,"Robinhood Securities, Llc",-1.01,1822.81,goldenwest,checking,Food / Dining,Groceries
+2025-04-13,"Robinhood Securities, Llc",-1.01,1821.8,goldenwest,checking,Food / Dining,Groceries
+2025-04-13,Withdrawal RoundUp Withdraw,-5.63,1816.17,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-14,Deposit RoundUp Deposit,4.95,109.84,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-14,Withdrawal RoundUp Withdraw,-4.95,1811.22,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-15,Walmart,-15.47,1039.92,goldenwest,checking,Insurance,Health
+2025-04-15,Payment to Perks,-227.77,1055.39,goldenwest,checking,Transportation,Vehicle Payments
+2025-04-15,Withdrawal #XX5691 OAK HILLS PHARMACY PROVO UT Card 4143,-23.01,1283.16,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-04-15,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2000S86U01 CO: LIFE STARFISH NAME: Savanna Kerby,-500.0,1306.17,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-04-15,"Robinhood Securities, Llc",-1.01,1806.17,goldenwest,checking,Food / Dining,Groceries
+2025-04-15,"Robinhood Securities, Llc",-1.01,1807.18,goldenwest,checking,Food / Dining,Groceries
+2025-04-15,"Robinhood Securities, Llc",-1.01,1809.2,goldenwest,checking,Food / Dining,Groceries
+2025-04-15,"Robinhood Securities, Llc",-1.01,1810.21,goldenwest,checking,Food / Dining,Groceries
+2025-04-15,Robinhood,-40.0,3055.87,goldenwest,credit,Vacations / Travel,Food
+2025-04-15,"Robinhood Securities, Llc",-1.01,1808.19,goldenwest,checking,Food / Dining,Groceries
+2025-04-16,Deposit RoundUp Deposit,6.7,116.54,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-16,Withdrawal RoundUp Withdraw,-6.7,1033.22,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-16,Payment to Perks,-64.47,968.75,goldenwest,checking,Transportation,Vehicle Payments
+2025-04-17,"Robinhood Securities, Llc",-1.01,961.15,goldenwest,checking,Food / Dining,Groceries
+2025-04-17,"Robinhood Securities, Llc",-1.01,962.16,goldenwest,checking,Food / Dining,Groceries
+2025-04-17,Withdrawal RoundUp Withdraw,-0.53,963.17,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-17,"Robinhood Securities, Llc",-1.01,963.7,goldenwest,checking,Food / Dining,Groceries
+2025-04-17,"Robinhood Securities, Llc",-1.01,967.74,goldenwest,checking,Food / Dining,Groceries
+2025-04-17,"Robinhood Securities, Llc",-1.01,965.72,goldenwest,checking,Food / Dining,Groceries
+2025-04-17,"Robinhood Securities, Llc",-1.01,966.73,goldenwest,checking,Food / Dining,Groceries
+2025-04-17,Deposit RoundUp Deposit,0.53,117.07,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-17,"Robinhood Securities, Llc",-1.01,964.71,goldenwest,checking,Food / Dining,Groceries
+2025-04-17,"Robinhood Securities, Llc",-1.01,959.13,goldenwest,checking,Food / Dining,Groceries
+2025-04-17,"Robinhood Securities, Llc",-1.01,960.14,goldenwest,checking,Food / Dining,Groceries
+2025-04-17,"Robinhood Securities, Llc",-1.01,958.12,goldenwest,checking,Food / Dining,Groceries
+2025-04-18,Withdrawal RoundUp Withdraw,-9.9,948.22,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-18,Deposit RoundUp Deposit,9.9,126.97,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-20,"Robinhood Securities, Llc",-1.01,947.21,goldenwest,checking,Food / Dining,Groceries
+2025-04-20,"Robinhood Securities, Llc",-1.01,946.2,goldenwest,checking,Food / Dining,Groceries
+2025-04-20,"Robinhood Securities, Llc",-1.01,945.19,goldenwest,checking,Food / Dining,Groceries
+2025-04-20,"Robinhood Securities, Llc",-1.01,944.18,goldenwest,checking,Food / Dining,Groceries
+2025-04-20,"Robinhood Securities, Llc",-1.01,943.17,goldenwest,checking,Food / Dining,Groceries
+2025-04-21,Deposit RoundUp Deposit,4.95,131.92,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-21,Walmart,-3.67,740.5,goldenwest,checking,Insurance,Health
+2025-04-21,"Robinhood Securities, Llc",-1.01,744.17,goldenwest,checking,Food / Dining,Groceries
+2025-04-21,"Robinhood Securities, Llc",-1.01,745.18,goldenwest,checking,Food / Dining,Groceries
+2025-04-21,"Robinhood Securities, Llc",-1.01,747.2,goldenwest,checking,Food / Dining,Groceries
+2025-04-21,"Robinhood Securities, Llc",-1.01,748.21,goldenwest,checking,Food / Dining,Groceries
+2025-04-21,Withdrawal RoundUp Withdraw,-4.95,749.22,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-21,Payment to Bear River Mutual,-189.0,754.17,goldenwest,checking,Housing,Cable/Internet
+2025-04-21,"Robinhood Securities, Llc",-1.01,746.19,goldenwest,checking,Food / Dining,Groceries
+2025-04-21,Robinhood,-1.01,3054.86,goldenwest,credit,Vacations / Travel,Food
+2025-04-22,Withdrawal RoundUp Withdraw,-5.28,735.22,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-22,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2000S86U01 CO: LIFE STARFISH NAME: Savanna Kerby,-500.0,235.22,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-04-22,Deposit RoundUp Deposit,5.28,137.2,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-23,"Robinhood Securities, Llc",-1.01,234.21,goldenwest,checking,Food / Dining,Groceries
+2025-04-23,"Robinhood Securities, Llc",-1.01,231.18,goldenwest,checking,Food / Dining,Groceries
+2025-04-23,"Robinhood Securities, Llc",-1.01,232.19,goldenwest,checking,Food / Dining,Groceries
+2025-04-23,"Robinhood Securities, Llc",-1.01,233.2,goldenwest,checking,Food / Dining,Groceries
+2025-04-23,"Robinhood Securities, Llc",-1.01,230.17,goldenwest,checking,Food / Dining,Groceries
+2025-04-24,Withdrawal RoundUp Withdraw,-4.95,225.22,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-24,Withdrawal Overdrawn ACH In the amount $500.00 LIFE STARFISH,-22.0,203.22,goldenwest,checking,Housing,Maintenance/Repairs
+2025-04-24,Deposit RoundUp Deposit,4.95,142.15,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-25,Salary/Regular Income from Goldenwest Credit Union,661.69,864.91,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-26,"Robinhood Securities, Llc",-1.01,863.9,goldenwest,checking,Food / Dining,Groceries
+2025-04-26,"Robinhood Securities, Llc",-1.01,862.89,goldenwest,checking,Food / Dining,Groceries
+2025-04-26,"Robinhood Securities, Llc",-1.01,861.88,goldenwest,checking,Food / Dining,Groceries
+2025-04-26,"Robinhood Securities, Llc",-1.01,860.87,goldenwest,checking,Food / Dining,Groceries
+2025-04-27,Withdrawal Home Banking Transfer To Share 0090,-1000.0,2054.86,goldenwest,credit,Savings / Investments,Transfer to Savings
+2025-04-27,Deposit RoundUp Deposit,3.96,146.11,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-27,Recurring Withdrawal #XX8257 GOOGLE *Dancefitme Fun XX-3987 CA Card 4143,-21.48,1834.42,goldenwest,checking,Housing,Maintenance/Repairs
+2025-04-27,Deposit Home Banking Transfer From Share 0004,1000.0,1855.9,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-04-27,Withdrawal RoundUp Withdraw,-3.96,855.9,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-27,"Robinhood Securities, Llc",-1.01,859.86,goldenwest,checking,Food / Dining,Groceries
+2025-04-28,Withdrawal RoundUp Withdraw,-0.99,1833.43,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-28,Deposit RoundUp Deposit,0.99,147.1,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-28,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX0001S86U01 CO: LIFE STARFISH NAME: Savanna Kerby,-500.0,1328.38,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-04-28,"Robinhood Securities, Llc",-1.01,1828.38,goldenwest,checking,Food / Dining,Groceries
+2025-04-28,"Robinhood Securities, Llc",-1.01,1829.39,goldenwest,checking,Food / Dining,Groceries
+2025-04-28,"Robinhood Securities, Llc",-1.01,1831.41,goldenwest,checking,Food / Dining,Groceries
+2025-04-28,"Robinhood Securities, Llc",-1.01,1832.42,goldenwest,checking,Food / Dining,Groceries
+2025-04-28,"Robinhood Securities, Llc",-1.01,1830.4,goldenwest,checking,Food / Dining,Groceries
+2025-04-29,Withdrawal RoundUp Withdraw,-4.95,1323.43,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-04-29,Deposit RoundUp Deposit,4.95,152.05,goldenwest,credit,Savings / Investments,House Down Payment
+2025-04-30,Deposit Dividend Annual Percentage Yield Earned 6.16% from 04/01/25 through 04/30/25,0.55,152.6,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-04-30,Deposit Dividend Annual Percentage Yield Earned 0.05% from 04/01/25 through 04/30/25,0.05,1323.48,goldenwest,checking,Personal Care / Health,Medicine/Drugs
+2025-04-30,Deposit Dividend Annual Percentage Yield Earned 1.00% from 04/01/25 through 04/30/25,2.62,2057.48,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-05-01,Withdrawal GDP*CROSSPOINTE DENTAL IN OREM UT Date XX 8021 Card 4143,-360.0,963.48,goldenwest,checking,Housing,Maintenance/Repairs
+2025-05-04,Jacksons Food Stores,-11.31,952.17,goldenwest,checking,Food / Dining,Fast Food
+2025-05-05,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",-158.0,794.17,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-05,Withdrawal RoundUp Withdraw,-0.69,793.48,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-05,Cold Stone Creamery,-12.97,780.51,goldenwest,checking,Personal Care / Health,Discretionary
+2025-05-05,Deposit RoundUp Deposit,0.69,153.29,goldenwest,credit,Savings / Investments,House Down Payment
+2025-05-06,Withdrawal RoundUp Withdraw,-0.03,780.48,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-06,Deposit RoundUp Deposit,0.03,153.32,goldenwest,credit,Savings / Investments,House Down Payment
+2025-05-07,Costco,-92.41,635.09,goldenwest,checking,Food / Dining,Fast Food
+2025-05-07,Costco,-7.53,627.56,goldenwest,checking,Food / Dining,Fast Food
+2025-05-07,Costco Gas Stations,-52.98,727.5,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-08,Payment to T-Mobile,-27.9,599.66,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-05-08,Deposit RoundUp Deposit,1.08,154.4,goldenwest,credit,Savings / Investments,House Down Payment
+2025-05-08,Withdrawal RoundUp Withdraw,-1.08,598.58,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-09,Salary/Regular Income from Goldenwest Credit Union,643.93,1242.51,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-10,Deposit Promo Deposit Youth Engagement Smart Money,100.0,254.4,goldenwest,credit,Savings / Investments,House Down Payment
+2025-05-15,Withdrawal #XX4240 SQ *CHROMIS BAKERY SQUARE OREM UT Card 4143,-6.0,1236.51,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-15,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX4128S86U01 CO: LIFE STARFISH NAME: Savanna Kerby,-400.0,836.51,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-05-15,Withdrawal SHOEMAN ENTERPRISE ONE PROVO UT Date XX 5970 Card 4143,-16.12,820.39,goldenwest,checking,Housing,Cable/Internet
+2025-05-16,Withdrawal RoundUp Withdraw,-0.88,819.51,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-16,Deposit RoundUp Deposit,0.88,255.28,goldenwest,credit,Savings / Investments,House Down Payment
+2025-05-16,Withdrawal,-40.0,779.51,goldenwest,checking,Taxes,Federal
+2025-05-19,Payment to Bear River Mutual,-189.0,590.51,goldenwest,checking,Housing,Cable/Internet
+2025-05-19,Withdrawal #XX0720 OAK HILLS PHARMACY PROVO UT Card 4143,-23.01,567.5,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-05-20,Withdrawal Home Banking Transfer To Share 0090,-1000.0,1057.48,goldenwest,credit,Savings / Investments,Transfer to Savings
+2025-05-20,Withdrawal RoundUp Withdraw,-0.99,566.51,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-20,Deposit Home Banking Transfer From Share 0004,1000.0,1566.51,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-05-20,Deposit RoundUp Deposit,0.99,256.27,goldenwest,credit,Savings / Investments,House Down Payment
+2025-05-21,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2001S86U01 CO: LIFE STARFISH NAME: Savanna Kerby,-200.0,1366.51,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-05-22,Payment to Perks,-515.0,851.51,goldenwest,checking,Transportation,Vehicle Payments
+2025-05-23,Salary/Regular Income from Goldenwest Credit Union,718.78,1570.29,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-25,Withdrawal TST*BROOKERS - PROVO - J Provo UT Date 05/24/25 XX 5814 Card 4143,-13.55,1556.74,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-26,Withdrawal #XX x6072 WEST JORDAN UT Card 4143,-52.49,1503.8,goldenwest,checking,Loans / Credit,Credit Card
+2025-05-26,Deposit RoundUp Deposit,0.45,256.72,goldenwest,credit,Savings / Investments,House Down Payment
+2025-05-26,Withdrawal RoundUp Withdraw,-0.45,1556.29,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-27,Deposit RoundUp Deposit,0.51,257.23,goldenwest,credit,Savings / Investments,House Down Payment
+2025-05-27,Withdrawal RoundUp Withdraw,-0.51,1503.29,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-27,Fandango At Home,-16.11,1487.18,goldenwest,checking,Transportation,Maintenance
+2025-05-28,Ross Stores,-89.11,997.18,goldenwest,checking,Food / Dining,Groceries
+2025-05-28,Deposit RoundUp Deposit,0.89,258.12,goldenwest,credit,Savings / Investments,House Down Payment
+2025-05-28,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2000S86U01 CO: LIFE STARFISH NAME: Savanna Kerby,-400.0,1086.29,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-05-28,Withdrawal RoundUp Withdraw,-0.89,1486.29,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-29,Withdrawal RoundUp Withdraw,-0.89,857.13,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-29,Withdrawal #XX3405 SQ *POPBITE SQUARE PROVO UT Card 4143,-8.52,858.02,goldenwest,checking,Housing,Maintenance/Repairs
+2025-05-29,Withdrawal OUELESSEBOUGOUALLIANCE XX6254 UT Date 05/29/25 XX 8398 Card 4143,-5.0,866.54,goldenwest,checking,Housing,Maintenance/Repairs
+2025-05-29,Taco Bell,-17.3,818.48,goldenwest,checking,Taxes,State
+2025-05-29,Walmart,-125.64,871.54,goldenwest,checking,Insurance,Health
+2025-05-29,Deposit RoundUp Deposit,0.89,259.01,goldenwest,credit,Savings / Investments,House Down Payment
+2025-05-29,"Withdrawal PP*HANSEN WORKSHOP, LLC LINDON UT Date XX 5999 Card 4143",-8.6,848.53,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-05-29,Volker's Bakery,-12.75,835.78,goldenwest,checking,Entertainment,Movies/Theater
+2025-05-30,Deposit RoundUp Deposit,2.19,261.2,goldenwest,credit,Savings / Investments,House Down Payment
+2025-05-30,Withdrawal RoundUp Withdraw,-2.19,816.29,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-05-31,Walgreens,-114.37,701.92,goldenwest,checking,Housing,Mortgage/Rent
+2025-05-31,Deposit Dividend Annual Percentage Yield Earned 0.05% from 05/01/25 through 05/31/25,0.04,564.17,goldenwest,checking,Personal Care / Health,Medicine/Drugs
+2025-05-31,Payment to T-Mobile,-11.16,690.76,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-05-31,Deposit Dividend Annual Percentage Yield Earned 6.15% from 05/01/25 through 05/31/25,1.15,262.35,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-05-31,Hobby Lobby,-126.63,564.13,goldenwest,checking,Personal Care / Health,Health Club
+2025-05-31,Deposit Dividend Annual Percentage Yield Earned 1.01% from 05/01/25 through 05/31/25,1.42,1058.9,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-06-01,Deposit RoundUp Deposit,1.84,264.19,goldenwest,credit,Savings / Investments,House Down Payment
+2025-06-01,Withdrawal RoundUp Withdraw,-1.84,562.33,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-06-04,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",-158.0,404.33,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-06-05,Costco Gas Stations,-50.2,180.62,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-06-05,Costco,-124.5,230.82,goldenwest,checking,Food / Dining,Fast Food
+2025-06-05,Hobby Lobby,-49.01,355.32,goldenwest,checking,Personal Care / Health,Health Club
+2025-06-06,Deposit RoundUp Deposit,2.29,266.48,goldenwest,credit,Savings / Investments,House Down Payment
+2025-06-06,Salary/Regular Income from Goldenwest Credit Union,766.59,947.21,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-06-06,Withdrawal RoundUp Withdraw,-2.29,944.92,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-06-06,Hobby Lobby,-11.25,933.67,goldenwest,checking,Personal Care / Health,Health Club
+2025-06-07,Withdrawal RoundUp Withdraw,-0.75,932.92,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-06-07,Deposit RoundUp Deposit,0.75,267.23,goldenwest,credit,Savings / Investments,House Down Payment
+2025-06-08,Payment to T-Mobile,-27.9,905.02,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-06-14,Walmart,-71.31,833.71,goldenwest,checking,Insurance,Health
+2025-06-15,Withdrawal RoundUp Withdraw,-0.69,833.02,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-06-15,Deposit RoundUp Deposit,0.69,267.92,goldenwest,credit,Savings / Investments,House Down Payment
+2025-06-16,Withdrawal #XX9073 OAK HILLS PHARMACY PROVO UT Card 4143,-23.01,810.01,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-06-17,Deposit RoundUp Deposit,0.99,268.91,goldenwest,credit,Savings / Investments,House Down Payment
+2025-06-17,Withdrawal RoundUp Withdraw,-0.99,809.02,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-06-18,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",-170.0,639.02,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-06-19,Maurices,-9.67,629.35,goldenwest,checking,Transportation,Insurance
+2025-06-20,Payment to Bear River Mutual,-188.0,1156.86,goldenwest,checking,Housing,Cable/Internet
+2025-06-20,Salary/Regular Income from Goldenwest Credit Union,736.01,1344.86,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-06-20,McDonald's,-20.5,608.85,goldenwest,checking,Taxes,Local
+2025-06-20,Deposit RoundUp Deposit,0.33,269.24,goldenwest,credit,Savings / Investments,House Down Payment
+2025-06-20,Withdrawal RoundUp Withdraw,-0.33,1156.53,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-06-21,Deposit RoundUp Deposit,0.5,269.74,goldenwest,credit,Savings / Investments,House Down Payment
+2025-06-21,Withdrawal RoundUp Withdraw,-0.5,1156.03,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-06-23,Walmart,-14.42,1141.61,goldenwest,checking,Insurance,Health
+2025-06-24,Deposit RoundUp Deposit,0.58,270.32,goldenwest,credit,Savings / Investments,House Down Payment
+2025-06-24,Withdrawal RoundUp Withdraw,-0.58,1141.03,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-06-24,Withdrawal,-0.02,1141.01,goldenwest,checking,Taxes,Federal
+2025-06-30,Deposit Dividend Annual Percentage Yield Earned 6.02% from 06/01/25 through 06/30/25,1.29,271.61,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-06-30,Deposit Dividend Annual Percentage Yield Earned 0.05% from 06/01/25 through 06/30/25,0.04,1141.05,goldenwest,checking,Personal Care / Health,Medicine/Drugs
+2025-06-30,Deposit Dividend Annual Percentage Yield Earned 1.00% from 06/01/25 through 06/30/25,0.87,1059.77,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-07-03,Salary/Regular Income from Goldenwest Credit Union,808.4,1949.45,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-07-03,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",-158.0,1791.45,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-07-03,Byu Creamery,-5.08,1786.37,goldenwest,checking,Personal Care / Health,Discretionary
+2025-07-04,Withdrawal RoundUp Withdraw,-0.92,1785.45,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-07-04,Deposit RoundUp Deposit,0.92,272.53,goldenwest,credit,Savings / Investments,House Down Payment
+2025-07-05,Withdrawal #XX7883 SQ *PORTNEUF RAPIDS TUBE SQUARE LAVA HOT SPRI ID Card 4143,-7.75,1777.7,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-07-06,Withdrawal RoundUp Withdraw,-0.25,1777.45,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-07-06,Deposit RoundUp Deposit,0.25,272.78,goldenwest,credit,Savings / Investments,House Down Payment
+2025-07-07,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2000S86U01 CO: LIFE STARFISH NAME: Savanna Kerby,-300.0,1477.45,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-07-08,Payment to T-Mobile,-27.95,1449.5,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-07-08,Nielsen's Frozen Custard,-7.57,1441.93,goldenwest,checking,Personal Care / Health,Discretionary
+2025-07-08,Withdrawal Bill Paid-GRANDMA BECKY Conf #1,-60.0,1381.93,goldenwest,checking,Vacations / Travel,Entertainment
+2025-07-09,Withdrawal RoundUp Withdraw,-0.43,1381.5,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-07-09,Deposit RoundUp Deposit,0.43,273.21,goldenwest,credit,Savings / Investments,House Down Payment
+2025-07-10,Walmart,-32.04,1349.46,goldenwest,checking,Insurance,Health
+2025-07-11,Costco,-74.28,1218.73,goldenwest,checking,Food / Dining,Fast Food
+2025-07-11,Costco Gas Stations,-55.49,1293.01,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-07-11,Withdrawal RoundUp Withdraw,-0.96,1348.5,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-07-11,Deposit RoundUp Deposit,0.96,274.17,goldenwest,credit,Savings / Investments,House Down Payment
+2025-07-12,Withdrawal RoundUp Withdraw,-1.23,1217.5,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-07-12,Deposit RoundUp Deposit,1.23,275.4,goldenwest,credit,Savings / Investments,House Down Payment
+2025-07-17,Salt Lake City Airport Parking,-2.0,1215.5,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-07-18,Salary/Regular Income from Goldenwest Credit Union,761.81,1977.31,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-07-21,Payment to Bear River Mutual,-186.38,1790.93,goldenwest,checking,Housing,Cable/Internet
+2025-07-31,Deposit Dividend Annual Percentage Yield Earned 1.00% from 07/01/25 through 07/31/25,0.9,1060.67,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-07-31,Salary/Regular Income from Goldenwest Credit Union,749.01,2539.94,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-07-31,Deposit Dividend Annual Percentage Yield Earned 0.05% from 07/01/25 through 07/31/25,0.07,2540.01,goldenwest,checking,Personal Care / Health,Medicine/Drugs
+2025-07-31,Deposit Dividend Annual Percentage Yield Earned 5.99% from 07/01/25 through 07/31/25,1.36,276.76,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-08-07,"Deposit Transfer From CUMMARD,COOPER XX Share 0090",1.0,2541.01,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-08-15,Withdrawal Home Banking Transfer To Share 0090 For Germany!,-1000.0,60.67,goldenwest,credit,Savings / Investments,Transfer to Savings
+2025-08-15,Salary/Regular Income from Goldenwest Credit Union,793.46,3334.47,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-08-15,Deposit Home Banking Transfer From Share 0004 For Germany!,1000.0,4334.47,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-08-19,Payment to Bear River Mutual,-179.0,4155.47,goldenwest,checking,Housing,Cable/Internet
+2025-08-19,Payment to Capital One,-1246.93,2908.54,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-08-27,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1370 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,-248.0,2660.54,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-08-28,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1326 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,-131.0,2529.54,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-08-28,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1304 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,-167.0,2362.54,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-08-29,Withdrawal ACH Angel Funding TYPE: VAS Portal ID: XX4992 CO: Angel Funding NAME: Savanna Kerby-Savanna,-484.0,2373.46,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-08-29,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1573 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,-152.0,2857.46,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-08-29,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1573 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,-135.0,3009.46,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-08-29,Salary/Regular Income from Goldenwest Credit Union,781.92,3144.46,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-08-31,Deposit Dividend Annual Percentage Yield Earned 1.02% from 08/01/25 through 08/31/25,0.44,61.11,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-08-31,Deposit Dividend Annual Percentage Yield Earned 0.05% from 08/01/25 through 08/31/25,0.12,2373.58,goldenwest,checking,Personal Care / Health,Medicine/Drugs
+2025-08-31,Deposit Dividend Annual Percentage Yield Earned 5.99% from 08/01/25 through 08/31/25,1.37,278.13,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-09-05,Withdrawal,-15.0,2358.58,goldenwest,checking,Taxes,Federal
+2025-09-06,Withdrawal Adjustment Credit Voucher BRIGHAM YOUNG UNIVERSI PROVO UT Date XX 5942 Card 4143,27.99,2386.57,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-09-07,Withdrawal RoundUp Withdraw,-0.99,2385.58,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-09-07,Deposit RoundUp Deposit,0.99,279.12,goldenwest,credit,Savings / Investments,House Down Payment
+2025-09-10,Withdrawal Adjustment Credit Voucher BRIGHAM YOUNG UNIVERSI PROVO UT Date XX 5942 Card 4143,46.99,2432.57,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-09-11,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",-172.0,2260.57,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-09-11,Withdrawal RoundUp Withdraw,-0.99,2259.58,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-09-11,Deposit ACH North Capital TYPE: ACH PAYMTS ID: XX6349 CO: North Capital,484.0,2743.58,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-09-11,Deposit RoundUp Deposit,0.99,280.11,goldenwest,credit,Savings / Investments,House Down Payment
+2025-09-12,Salary/Regular Income from Goldenwest Credit Union,757.04,3500.62,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-09-16,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX7143 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,-173.0,3327.62,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-09-18,Payment to Capital One,-2717.4,610.22,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-09-19,Payment to Bear River Mutual,-179.0,406.22,goldenwest,checking,Housing,Cable/Internet
+2025-09-19,Cougar Cash,-25.0,585.22,goldenwest,checking,Vacations / Travel,Souvenirs
+2025-09-23,Salem High School,-36.4,369.82,goldenwest,checking,Personal Care / Health,Health Club
+2025-09-24,Deposit RoundUp Deposit,0.6,280.71,goldenwest,credit,Savings / Investments,House Down Payment
+2025-09-24,Withdrawal RoundUp Withdraw,-0.6,369.22,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-09-26,Salary/Regular Income from Goldenwest Credit Union,623.58,992.8,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-09-26,Cougar Cash,-25.0,967.8,goldenwest,checking,Vacations / Travel,Souvenirs
+2025-09-30,Deposit Dividend Annual Percentage Yield Earned 1.00% from 09/01/25 through 09/30/25,0.05,61.16,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-09-30,Deposit Dividend Annual Percentage Yield Earned 0.05% from 09/01/25 through 09/30/25,0.07,967.87,goldenwest,checking,Personal Care / Health,Medicine/Drugs
+2025-09-30,Deposit Dividend Annual Percentage Yield Earned 5.99% from 09/01/25 through 09/30/25,1.34,282.05,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-10-01,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",-202.0,765.87,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-10-03,Cougar Cash,-25.0,740.87,goldenwest,checking,Vacations / Travel,Souvenirs
+2025-10-08,Fandango At Home,-10.73,730.14,goldenwest,checking,Transportation,Maintenance
+2025-10-09,Withdrawal RoundUp Withdraw,-0.27,729.87,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-10-09,Deposit RoundUp Deposit,0.27,282.32,goldenwest,credit,Savings / Investments,House Down Payment
+2025-10-10,Salary/Regular Income from Goldenwest Credit Union,607.08,1336.95,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-10-16,"Withdrawal ACH BYU TYPE: CougarCash ID: ******7280 CO: BYU NAME: KERBY, SAVANNA BROOKE",-25.0,1311.95,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-10-18,Deposit Promo Deposit Youth Engagement Promo 1 Year Reward,100.0,382.32,goldenwest,credit,Savings / Investments,House Down Payment
+2025-10-20,Withdrawal ACH Bear River TYPE: Ins. Paymt ID: ******4580 DATA: Insurance CO: Bear River,-179.0,1132.95,goldenwest,checking,Housing,Maintenance/Repairs
+2025-10-20,Payment to Capital One,-682.13,450.82,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-10-21,"Withdrawal ACH BYU TYPE: CougarCash ID: ******7280 CO: BYU NAME: KERBY, SAVANNA BROOKE",-25.0,425.82,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-10-24,Salary/Regular Income from Goldenwest Credit Union,640.37,1066.19,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-10-28,Cougar Cash,-25.0,1041.19,goldenwest,checking,Vacations / Travel,Souvenirs
+2025-10-30,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",-177.0,864.19,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-10-31,Deposit Dividend Annual Percentage Yield Earned 0.97% from 10/01/25 through 10/31/25,0.05,61.21,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-10-31,Cougar Cash,-25.0,839.19,goldenwest,checking,Vacations / Travel,Souvenirs
+2025-10-31,Deposit Dividend Annual Percentage Yield Earned 5.98% from 10/01/25 through 10/31/25,1.62,383.94,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-10-31,Deposit Dividend Annual Percentage Yield Earned 0.05% from 10/01/25 through 10/31/25,0.04,839.23,goldenwest,checking,Personal Care / Health,Medicine/Drugs
+2025-11-05,Cougar Cash,-25.0,814.23,goldenwest,checking,Vacations / Travel,Souvenirs
+2025-11-07,Salary/Regular Income from Goldenwest Credit Union,626.51,1440.74,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-11-13,Cougar Cash,-25.0,1415.74,goldenwest,checking,Vacations / Travel,Souvenirs
+2025-11-17,Payment to Capital One,-500.0,915.74,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-11-18,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX5586 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,-150.0,765.74,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-11-19,Payment to Bear River Mutual,-178.0,587.74,goldenwest,checking,Housing,Cable/Internet
+2025-11-21,Salary/Regular Income from Goldenwest Credit Union,622.01,1209.75,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-11-25,Cougar Cash,-25.0,1184.75,goldenwest,checking,Vacations / Travel,Souvenirs
+2025-11-26,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",-172.0,1012.75,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-11-30,Deposit Dividend Annual Percentage Yield Earned 1.00% from 11/01/25 through 11/30/25,0.05,61.26,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-11-30,Deposit Dividend Annual Percentage Yield Earned 0.05% from 11/01/25 through 11/30/25,0.05,1012.8,goldenwest,checking,Personal Care / Health,Medicine/Drugs
+2025-11-30,Deposit Dividend Annual Percentage Yield Earned 5.99% from 11/01/25 through 11/30/25,1.84,385.78,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-12-04,Payment to Capital One,-700.0,374.06,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-12-04,Deposit Home Banking Transfer From Share 0004,61.26,1074.06,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-12-04,Withdrawal Home Banking Transfer To Share 0090,-61.26,0.0,goldenwest,credit,Savings / Investments,Transfer to Savings
+2025-12-05,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX2000 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,-150.0,702.79,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-12-05,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX2000 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,-140.0,852.79,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-12-05,Salary/Regular Income from Goldenwest Credit Union,618.73,992.79,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-12-05,Payment to Capital One,-300.93,401.86,goldenwest,checking,Savings / Investments,Transfer to Savings
+2025-12-10,Cougar Cash,-25.0,376.86,goldenwest,checking,Vacations / Travel,Souvenirs
+2025-12-19,Payment to Bear River Mutual,-178.0,747.86,goldenwest,checking,Housing,Cable/Internet
+2025-12-19,Salary/Regular Income from Goldenwest Credit Union,549.0,925.86,goldenwest,checking,Entertainment,Outdoor Recreation
+2025-12-29,Amazon Deposit,3.9,751.76,goldenwest,checking,Entertainment,Games
+2025-12-31,Deposit Dividend Annual Percentage Yield Earned 5.99% from 12/01/25 through 12/31/25,1.91,387.69,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-12-31,Rewards from Golden,20.05,407.74,goldenwest,credit,Food / Dining,Fast Food
+2025-12-31,Deposit Dividend Annual Percentage Yield Earned 2.00% from 12/01/25 through 12/31/25,0.01,0.01,goldenwest,credit,Personal Care / Health,Medicine/Drugs
+2025-12-31,Deposit Dividend Annual Percentage Yield Earned 0.04% from 12/01/25 through 12/31/25,0.02,751.78,goldenwest,checking,Personal Care / Health,Medicine/Drugs
