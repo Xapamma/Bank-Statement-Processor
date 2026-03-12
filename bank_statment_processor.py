@@ -14,7 +14,7 @@ ollama_path = r"C:\Users\Savanna\AppData\Local\Programs\Ollama\ollama.exe"
 
 # Known banks and account types
 known_banks = ["goldenwest", "chase", "wellsfargo", "amex"]
-account_types = ["checking", "savings", "credit", "loan", "investment"]
+account_types = ["checking", "savings", "credit card", "imm"]
 
 # Optimized categories
 category_map = {
@@ -32,46 +32,67 @@ category_map = {
     "Vacations / Travel": ["Travel", "Lodging", "Food", "Entertainment", "Souvenirs", "Other"]
 }
 
-# Function to categorize a single description using Ollama
-def categorize_transaction_cli(description):
-    if pd.isna(description) or description.strip() == "":
-        return {"main_category": "Other", "sub_category": "Other"}
+# # Function to categorize a single description using Ollama
+# def categorize_transaction_cli(description):
+#     if pd.isna(description) or description.strip() == "":
+#         return {"main_category": "Other", "sub_category": "Other"}
 
-    prompt = f"""
-You are categorizing a bank transaction. Here are the main categories and subcategories:
-{category_map}
+#     prompt = f"""
+#         You are a financial transaction categorizer.
 
-Transaction description: "{description}"
+#         Main categories:
+#         Housing, Transportation, Loans / Credit, Insurance, Taxes,
+#         Savings / Investments, Food / Dining, Entertainment,
+#         Personal Care / Health, Education, Gifts & Donations, Vacations / Travel
 
-Respond only with JSON like:
-{{"main_category": "...", "sub_category": "..."}}
-"""
+#         Subcategories:
+#         Use the relevant subcategory from the main category (for example, Mortgage/Rent under Housing).
 
-    try:
-        result = subprocess.run(
-            [ollama_path, "chat", "mistral", "--prompt", prompt],
-            capture_output=True,
-            text=True,
-            timeout=15
-        )
+#         Always respond ONLY in JSON format like:
+#         {{"main_category": "...", "sub_category": "..."}}
 
-        # Extract JSON using regex
-        match = re.search(r'\{.*\}', result.stdout, re.DOTALL)
-        if match:
-            return json.loads(match.group())
-        else:
-            return {"main_category": "Other", "sub_category": "Other"}
+#         Examples:
+#         Transaction description: "Rent payment for August"
+#         JSON: {{"main_category": "Housing", "sub_category": "Mortgage/Rent"}}
 
-    except Exception as e:
-        print(f"⚠️ Error categorizing '{description}': {e}")
-        return {"main_category": "Other", "sub_category": "Other"}
+#         Transaction description: "Bought groceries at Walmart"
+#         JSON: {{"main_category": "Food / Dining", "sub_category": "Groceries"}}
 
-# Helper to batch categorize multiple descriptions
-def categorize_descriptions_batch(descriptions):
-    results = []
-    for desc in descriptions:
-        results.append(categorize_transaction_cli(desc))
-    return results
+#         Transaction description: "Monthly credit card payment"
+#         JSON: {{"main_category": "Loans / Credit", "sub_category": "Credit Card"}}
+
+#         Now categorize this transaction description:
+#         "{description}"
+#     """
+
+#     try:
+#         result = subprocess.run(
+#             [ollama_path, "chat", "mistral", "--prompt", prompt],
+#             capture_output=True,
+#             text=True,
+#             timeout=15
+#         )
+
+#        # Print raw output for debugging
+#         print(f"\n💡 Raw Ollama output for '{description}':\n{result.stdout}")
+
+#         # Extract JSON using regex
+#         match = re.search(r'\{.*\}', result.stdout, re.DOTALL)
+#         if match:
+#             return json.loads(match.group())
+#         else:
+#             return {"main_category": "Other", "sub_category": "Other"}
+
+#     except Exception as e:
+#         print(f"⚠️ Error categorizing '{description}': {e}")
+#         return {"main_category": "Other", "sub_category": "Other"}
+
+# # Helper to batch categorize multiple descriptions
+# def categorize_descriptions_batch(descriptions):
+#     results = []
+#     for desc in descriptions:
+#         results.append(categorize_transaction_cli(desc))
+#     return results
 
 # List to hold all banks
 all_banks = []
@@ -100,17 +121,32 @@ for bank_folder in bank_folders:
         if bank_name == "goldenwest":
             df = df.rename(columns={
                 "transaction date": "date",
-                "posting date": "date",
                 "description": "description",
                 "amount": "amount",
-                "balance": "balance"
             })
-        elif bank_name == "chase":
+        elif bank_name == "capital one":
             df = df.rename(columns={
-                "date": "date",
-                "details": "description",
-                "credits/debits": "amount",
-                "running balance": "balance"
+                "transaction date": "date",     # Transaction date     
+                "description": "description",   # Merchant / transaction name
+                "amount": "amount",             # Amount (positive = charge, negative = payment)
+            })
+            df["type"] = pd.melt(
+                id_vars=[c for c in df.columns if c not in ["Debit", "Credit"]],
+                value_vars=["Debit", "Credit"],
+                var_name="type",
+                value_name="mmount"
+            ).dropna(subset=["amount"])
+    
+
+            
+
+        elif bank_name == "sofi":
+            # Typical SoFi CSV export columns
+            df = df.rename(columns={
+                "date" : "date",
+                "merchant": "description",      # Merchant / transaction name
+                "amount": "amount",             # Amount
+                "running_balance": "balance"    # Running balance
             })
 
         # Convert date column
@@ -126,6 +162,11 @@ for bank_folder in bank_folders:
             .astype(float)
         )
 
+        # Add a "type" column based on the amount
+        if account_name == "credit":
+            df["amount"] = df["amount"] * -1  # Make all amounts reverse for credit card accounts
+        df["type"] = df["amount"].apply(lambda x: "debit" if x > 0 else "credit")
+
         # Fuzzy match account type from filename
         filename_lower = os.path.basename(file).lower()
         match_result = process.extractOne(filename_lower, account_types, scorer=fuzz.ratio)
@@ -134,10 +175,10 @@ for bank_folder in bank_folders:
         df["bank"] = bank_name
         df["account"] = account_name
 
-        # Batch categorize descriptions
-        category_results = categorize_descriptions_batch(df["description"].tolist())
-        df["main_category"] = [r["main_category"] for r in category_results]
-        df["sub_category"] = [r["sub_category"] for r in category_results]
+        # # Batch categorize descriptions
+        # category_results = categorize_descriptions_batch(df["description"].tolist())
+        # df["main_category"] = [r["main_category"] for r in category_results]
+        # df["sub_category"] = [r["sub_category"] for r in category_results]
 
         bank_dfs.append(df)
 
