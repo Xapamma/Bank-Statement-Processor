@@ -1,789 +1,587 @@
-date,description,type,amount,main_category,sub_category,bank,account
-2025-01-02,To Checking - 6818,debit,-5.3,,,sofi,savings
-2025-01-03,Salary/Regular Income from Goldenwest Credit Union,credit,632.09,,,goldenwest,checking
-2025-01-04,To Checking - 6818,debit,-64.6,,,sofi,savings
-2025-01-04,To Checking - 6818,debit,-30.99,,,sofi,savings
-2025-01-07,BYU,debit,-60.0,,,sofi,savings
-2025-01-08,To Checking - 6818,debit,-47.65,,,sofi,savings
-2025-01-08,To Checking - 6818,debit,-161.16,,,sofi,savings
-2025-01-10,To Checking - 6818,debit,-37.88,,,sofi,savings
-2025-01-10,Brigham Young Un,credit,353.0,,,sofi,savings
-2025-01-10,To Checking - 6818,debit,-6.38,,,sofi,savings
-2025-01-12,To Checking - 6818,debit,-28.15,,,sofi,savings
-2025-01-13,To Checking - 6818,debit,-134.35,,,sofi,savings
-2025-01-14,BYU,debit,-158.0,,,sofi,savings
-2025-01-16,To Checking - 6818,debit,-64.34,,,sofi,savings
-2025-01-17,Salary/Regular Income from Goldenwest Credit Union,credit,682.91,,,goldenwest,checking
-2025-01-19,To Checking - 6818,debit,-9.97,,,sofi,savings
-2025-01-20,To Checking - 6818,debit,-58.44,,,sofi,savings
-2025-01-21,To Checking - 6818,debit,-75.0,,,sofi,savings
-2025-01-21,To Checking - 6818,debit,-50.21,,,sofi,savings
-2025-01-21,Deposit S KERBY REIM FOR TRAINING MILEAGE,credit,769.16,,,goldenwest,checking
-2025-01-21,Bear River,debit,-189.34,,,sofi,savings
-2025-01-22,To Checking - 6818,debit,-16.08,,,sofi,savings
-2025-01-27,To Checking - 6818,debit,-92.35,,,sofi,savings
-2025-01-28,To Checking - 6818,debit,-6.92,,,sofi,savings
-2025-01-28,To Checking - 6818,debit,-53.02,,,sofi,savings
-2025-01-28,BYU,debit,-281.9,,,sofi,savings
-2025-01-29,Ch JesusChrist,debit,-185.0,,,sofi,savings
-2025-01-29,Ch JesusChrist,debit,-145.0,,,sofi,savings
-2025-01-31,Interest earned,credit,15.49,,,sofi,savings
-2025-01-31,Deposit Dividend Annual Percentage Yield Earned 6.21% from 01/01/25 through 01/31/25,credit,0.26,,,goldenwest,gold account
-2025-01-31,Deposit Dividend Annual Percentage Yield Earned 0.05% from 01/01/25 through 01/31/25,credit,0.18,,,goldenwest,checking
-2025-01-31,Salary/Regular Income from Goldenwest Credit Union,credit,613.56,,,goldenwest,checking
-2025-01-31,Walmart,debit,-198.23,,,goldenwest,checking
-2025-02-01,Deposit RoundUp Deposit,credit,0.77,,,goldenwest,gold account
-2025-02-01,Withdrawal RoundUp Withdraw,debit,-0.77,,,goldenwest,checking
-2025-02-02,Payment to T-Mobile,debit,-11.16,,,goldenwest,checking
-2025-02-03,Deposit RoundUp Deposit,credit,0.84,,,goldenwest,gold account
-2025-02-03,Withdrawal RoundUp Withdraw,debit,-0.84,,,goldenwest,checking
-2025-02-04,To Checking - 6818,debit,-52.96,,,sofi,savings
-2025-02-06,To Checking - 6818,debit,-1319.43,,,sofi,savings
-2025-02-09,To Checking - 6818,debit,-9.65,,,sofi,savings
-2025-02-10,To Checking - 6818,debit,-134.32,,,sofi,savings
-2025-02-10,To Checking - 6818,debit,-23.01,,,sofi,savings
-2025-02-10,To Checking - 6818,debit,-183.66,,,sofi,savings
-2025-02-11,To Checking - 6818,debit,-13.95,,,sofi,savings
-2025-02-11,Costco,credit,26.77,,,goldenwest,checking
-2025-02-12,BYU,debit,-163.0,,,sofi,savings
-2025-02-12,Deposit RoundUp Deposit,credit,0.77,,,goldenwest,gold account
-2025-02-12,Walmart,debit,-244.25,,,goldenwest,checking
-2025-02-12,Withdrawal RoundUp Withdraw,debit,-0.77,,,goldenwest,checking
-2025-02-13,Deposit RoundUp Deposit,credit,0.75,,,goldenwest,gold account
-2025-02-13,Withdrawal RoundUp Withdraw,debit,-0.75,,,goldenwest,checking
-2025-02-13,Maverik,debit,-49.24,,,goldenwest,checking
-2025-02-14,Salary/Regular Income from Goldenwest Credit Union,credit,1119.93,,,goldenwest,checking
-2025-02-14,Withdrawal RoundUp Withdraw,debit,-0.76,,,goldenwest,checking
-2025-02-14,Deposit S KERBY REIM FOR TRAINING MILEAGE,credit,114.8,,,goldenwest,checking
-2025-02-14,Deposit RoundUp Deposit,credit,0.76,,,goldenwest,gold account
-2025-02-16,To Checking - 6818,debit,-7.03,,,sofi,savings
-2025-02-18,To Checking - 6818,debit,-12.44,,,sofi,savings
-2025-02-19,Bear River,debit,-189.0,,,sofi,savings
-2025-02-20,To Checking - 6818,debit,-5.73,,,sofi,savings
-2025-02-22,To Checking - 6818,debit,-22.0,,,sofi,savings
-2025-02-23,To Checking - 6818,debit,-26.94,,,sofi,savings
-2025-02-24,To Checking - 6818,debit,-47.83,,,sofi,savings
-2025-02-24,To Checking - 6818,debit,-469.06,,,sofi,savings
-2025-02-26,To Checking - 6818,debit,-48.83,,,sofi,savings
-2025-02-26,To Checking - 6818,debit,-192.5,,,sofi,savings
-2025-02-28,Interest earned,credit,5.62,,,sofi,savings
-2025-02-28,Salary/Regular Income from Goldenwest Credit Union,credit,627.36,,,goldenwest,checking
-2025-02-28,Deposit Dividend Annual Percentage Yield Earned 6.23% from 02/01/25 through 02/28/25,credit,0.25,,,goldenwest,gold account
-2025-02-28,Deposit Dividend Annual Percentage Yield Earned 0.05% from 02/01/25 through 02/28/25,credit,0.23,,,goldenwest,checking
-2025-03-01,To Checking - 6818,debit,-209.79,,,sofi,savings
-2025-03-01,To Checking - 6818,debit,-78.56,,,sofi,savings
-2025-03-03,To Checking - 6818,debit,-13.03,,,sofi,savings
-2025-03-03,Walmart,debit,-51.15,,,goldenwest,checking
-2025-03-03,Walmart,debit,-37.52,,,goldenwest,checking
-2025-03-04,Withdrawal RoundUp Withdraw,debit,-1.33,,,goldenwest,checking
-2025-03-04,Taco Bell,debit,-19.02,,,goldenwest,checking
-2025-03-04,Deposit RoundUp Deposit,credit,1.33,,,goldenwest,gold account
-2025-03-05,Deposit RoundUp Deposit,credit,0.98,,,goldenwest,gold account
-2025-03-05,Withdrawal RoundUp Withdraw,debit,-0.98,,,goldenwest,checking
-2025-03-06,Withdrawal #XX0480 OAK HILLS PHARMACY PROVO UT Card 4143,debit,-23.01,,,goldenwest,checking
-2025-03-07,Deposit RoundUp Deposit,credit,0.99,,,goldenwest,gold account
-2025-03-07,Withdrawal PAYROLL WITHDRAW,debit,-101.63,,,goldenwest,checking
-2025-03-07,Ross Stores,debit,-21.3,,,goldenwest,checking
-2025-03-07,Withdrawal RoundUp Withdraw,debit,-0.99,,,goldenwest,checking
-2025-03-08,Deposit RoundUp Deposit,credit,0.7,,,goldenwest,gold account
-2025-03-08,Payment to T-Mobile,debit,-27.9,,,goldenwest,checking
-2025-03-08,Withdrawal RoundUp Withdraw,debit,-0.7,,,goldenwest,checking
-2025-03-08,Walmart,debit,-66.34,,,goldenwest,checking
-2025-03-09,Carl's Jr.,debit,-22.5,,,goldenwest,checking
-2025-03-09,Withdrawal RoundUp Withdraw,debit,-0.66,,,goldenwest,checking
-2025-03-09,Deposit RoundUp Deposit,credit,0.66,,,goldenwest,gold account
-2025-03-10,Dick's Sporting Goods,debit,-32.01,,,goldenwest,checking
-2025-03-10,Barnes & Noble,debit,-52.29,,,goldenwest,checking
-2025-03-10,Bath & Body Works,debit,-46.76,,,goldenwest,checking
-2025-03-10,Victoria's Secret,debit,-45.32,,,goldenwest,checking
-2025-03-10,Deposit RoundUp Deposit,credit,0.5,,,goldenwest,gold account
-2025-03-10,Fabulous Freddy's,debit,-12.83,,,goldenwest,checking
-2025-03-10,JCPenney,debit,-41.35,,,goldenwest,checking
-2025-03-10,Withdrawal RoundUp Withdraw,debit,-0.5,,,goldenwest,checking
-2025-03-11,Deposit RoundUp Deposit,credit,3.44,,,goldenwest,gold account
-2025-03-11,Withdrawal RoundUp Withdraw,debit,-3.44,,,goldenwest,checking
-2025-03-11,Walmart,debit,-55.25,,,goldenwest,checking
-2025-03-12,Deposit RoundUp Deposit,credit,0.75,,,goldenwest,gold account
-2025-03-12,Withdrawal RoundUp Withdraw,debit,-0.75,,,goldenwest,checking
-2025-03-12,Famous Footwear,debit,-98.0,,,goldenwest,checking
-2025-03-12,Taco Bell,debit,-21.0,,,goldenwest,checking
-2025-03-13,Downeast,debit,-72.93,,,goldenwest,checking
-2025-03-13,Downeast,debit,-27.75,,,goldenwest,checking
-2025-03-13,Panda Express,debit,-26.4,,,goldenwest,checking
-2025-03-13,Withdrawal RED CLIFFS BOBA TEA & CO ST. GEORGE UT Date XX 5812 Card 4143,debit,-9.06,,,goldenwest,checking
-2025-03-13,Chick-fil-A,debit,-13.24,,,goldenwest,checking
-2025-03-14,Taco Bell,debit,-13.0,,,goldenwest,checking
-2025-03-14,Deposit RoundUp Deposit,credit,2.62,,,goldenwest,gold account
-2025-03-14,Salary/Regular Income from Goldenwest Credit Union,credit,564.52,,,goldenwest,checking
-2025-03-14,Withdrawal RoundUp Withdraw,debit,-2.62,,,goldenwest,checking
-2025-03-15,Walmart,debit,-22.28,,,goldenwest,checking
-2025-03-15,Maverik,debit,-49.01,,,goldenwest,checking
-2025-03-16,Deposit RoundUp Deposit,credit,1.71,,,goldenwest,gold account
-2025-03-16,Withdrawal RoundUp Withdraw,debit,-1.71,,,goldenwest,checking
-2025-03-17,To Checking - 6818,debit,-38.67,,,sofi,savings
-2025-03-19,Walmart,debit,-135.57,,,goldenwest,checking
-2025-03-19,Bear River,debit,-189.0,,,sofi,savings
-2025-03-20,Deposit RoundUp Deposit,credit,0.43,,,goldenwest,gold account
-2025-03-20,Withdrawal RoundUp Withdraw,debit,-0.43,,,goldenwest,checking
-2025-03-23,Taco Bell,debit,-24.0,,,goldenwest,checking
-2025-03-25,Maverik,debit,-48.71,,,goldenwest,checking
-2025-03-25,Withdrawal Home Banking Transfer To Share 0004,debit,-4000.0,,,goldenwest,checking
-2025-03-25,Deposit Home Banking Transfer From Share 0090,credit,4000.0,,,goldenwest,money market
-2025-03-26,BYU,debit,-173.0,,,sofi,savings
-2025-03-26,To Checking - 6818,debit,-15.0,,,sofi,savings
-2025-03-26,Deposit RoundUp Deposit,credit,0.29,,,goldenwest,gold account
-2025-03-26,Withdrawal RoundUp Withdraw,debit,-0.29,,,goldenwest,checking
-2025-03-26,Subway,debit,-15.45,,,goldenwest,checking
-2025-03-27,Deposit RoundUp Deposit,credit,0.55,,,goldenwest,gold account
-2025-03-27,Withdrawal #XX9725 OAK HILLS PHARMACY PROVO UT Card 4143,debit,-23.01,,,goldenwest,checking
-2025-03-27,Withdrawal RoundUp Withdraw,debit,-0.55,,,goldenwest,checking
-2025-03-28,Withdrawal RoundUp Withdraw,debit,-0.99,,,goldenwest,checking
-2025-03-28,Salary/Regular Income from Goldenwest Credit Union,credit,588.64,,,goldenwest,checking
-2025-03-28,Deposit RoundUp Deposit,credit,0.99,,,goldenwest,gold account
-2025-03-29,Walmart,debit,-106.48,,,goldenwest,checking
-2025-03-29,Costco,debit,-175.29,,,goldenwest,checking
-2025-03-30,Deposit RoundUp Deposit,credit,1.23,,,goldenwest,gold account
-2025-03-30,Withdrawal RoundUp Withdraw,debit,-1.23,,,goldenwest,checking
-2025-03-31,Deposit Dividend Annual Percentage Yield Earned 6.14% from 03/01/25 through 03/31/25,credit,0.33,,,goldenwest,gold account
-2025-03-31,Withdrawal GDP*CROSSPOINTE DENTAL IN OREM UT Date XX 8021 Card 4143,debit,-158.0,,,goldenwest,checking
-2025-03-31,Deposit Dividend Annual Percentage Yield Earned 0.05% from 03/01/25 through 03/31/25,credit,0.24,,,goldenwest,checking
-2025-03-31,Deposit Dividend Annual Percentage Yield Earned 1.01% from 03/25/25 through 03/31/25,credit,0.77,,,goldenwest,money market
-2025-03-31,Interest earned,credit,0.25,,,sofi,savings
-2025-04-01,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX5065 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,debit,-205.0,,,goldenwest,checking
-2025-04-01,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX5065 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,debit,-320.0,,,goldenwest,checking
-2025-04-01,Walmart,debit,-160.31,,,goldenwest,checking
-2025-04-02,Deposit RoundUp Deposit,credit,0.69,,,goldenwest,gold account
-2025-04-02,Withdrawal RoundUp Withdraw,debit,-0.69,,,goldenwest,checking
-2025-04-04,Hobby Lobby,debit,-26.6,,,goldenwest,checking
-2025-04-04,Ross Stores,debit,-33.96,,,goldenwest,checking
-2025-04-04,"Robinhood Securities, Llc",debit,-150.0,,,goldenwest,checking
-2025-04-05,Deposit RoundUp Deposit,credit,0.44,,,goldenwest,gold account
-2025-04-05,Taco Bell,debit,-16.0,,,goldenwest,checking
-2025-04-05,Withdrawal RoundUp Withdraw,debit,-0.44,,,goldenwest,checking
-2025-04-06,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-06,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-06,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-06,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-06,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-07,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-07,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-07,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-07,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-07,Transfer to Sofi Bank,debit,-1.01,,,goldenwest,checking
-2025-04-07,Withdrawal RoundUp Withdraw,debit,-4.95,,,goldenwest,checking
-2025-04-07,Deposit RoundUp Deposit,credit,4.95,,,goldenwest,gold account
-2025-04-07,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-07,Maverik,debit,-49.92,,,goldenwest,checking
-2025-04-08,Payment to T-Mobile,debit,-27.9,,,goldenwest,checking
-2025-04-08,Withdrawal RoundUp Withdraw,debit,-5.03,,,goldenwest,checking
-2025-04-08,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-08,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-08,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-08,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-08,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-08,Robinhood,debit,-15.0,,,goldenwest,money market
-2025-04-08,Robinhood,debit,-500.0,,,goldenwest,money market
-2025-04-08,Deposit RoundUp Deposit,credit,5.03,,,goldenwest,gold account
-2025-04-09,Recurring Withdrawal Card Fee VISA INTERNATIONAL SERVICE ASSESSMENT Date Card 4143,debit,-0.37,,,goldenwest,checking
-2025-04-09,Deposit RoundUp Deposit,credit,4.95,,,goldenwest,gold account
-2025-04-09,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-09,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-09,Recurring Withdrawal EBOOK ACCADEMY LONDON GB Date XX 5977 Card 4143,debit,-37.0,,,goldenwest,checking
-2025-04-09,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-09,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-09,Withdrawal RoundUp Withdraw,debit,-4.95,,,goldenwest,checking
-2025-04-09,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-10,Withdrawal RoundUp Withdraw,debit,-4.95,,,goldenwest,checking
-2025-04-10,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-10,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-10,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-10,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-10,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-10,Roxberry Juice Co.,debit,-26.43,,,goldenwest,checking
-2025-04-10,Deposit RoundUp Deposit,credit,4.95,,,goldenwest,gold account
-2025-04-11,Taco Bell,debit,-15.83,,,goldenwest,checking
-2025-04-11,Robinhood,debit,-40.0,,,goldenwest,money market
-2025-04-11,Salary/Regular Income from Goldenwest Credit Union,credit,533.19,,,goldenwest,checking
-2025-04-11,Withdrawal RoundUp Withdraw,debit,-5.52,,,goldenwest,checking
-2025-04-11,Robinhood,debit,-25.0,,,goldenwest,money market
-2025-04-11,Deposit RoundUp Deposit,credit,5.52,,,goldenwest,gold account
-2025-04-11,Robinhood,debit,-324.9,,,goldenwest,money market
-2025-04-12,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-12,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-12,The Home Depot,debit,-70.32,,,goldenwest,checking
-2025-04-12,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-12,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-12,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-12,Deposit RoundUp Deposit,credit,0.17,,,goldenwest,gold account
-2025-04-12,Withdrawal RoundUp Withdraw,debit,-0.17,,,goldenwest,checking
-2025-04-13,Deposit RoundUp Deposit,credit,5.63,,,goldenwest,gold account
-2025-04-13,Withdrawal RoundUp Withdraw,debit,-5.63,,,goldenwest,checking
-2025-04-13,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-13,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-13,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-13,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-13,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-14,Deposit RoundUp Deposit,credit,4.95,,,goldenwest,gold account
-2025-04-14,Withdrawal RoundUp Withdraw,debit,-4.95,,,goldenwest,checking
-2025-04-15,Robinhood,debit,-40.0,,,goldenwest,money market
-2025-04-15,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-15,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-15,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-15,Walmart,debit,-15.47,,,goldenwest,checking
-2025-04-15,Payment to Perks,debit,-227.77,,,goldenwest,checking
-2025-04-15,Withdrawal #XX5691 OAK HILLS PHARMACY PROVO UT Card 4143,debit,-23.01,,,goldenwest,checking
-2025-04-15,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2000S86U01 CO: LIFE STARFISH NAME: Savanna Kerby,debit,-500.0,,,goldenwest,checking
-2025-04-15,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-15,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-16,Payment to Perks,debit,-64.47,,,goldenwest,checking
-2025-04-16,Withdrawal RoundUp Withdraw,debit,-6.7,,,goldenwest,checking
-2025-04-16,Deposit RoundUp Deposit,credit,6.7,,,goldenwest,gold account
-2025-04-17,Deposit RoundUp Deposit,credit,0.53,,,goldenwest,gold account
-2025-04-17,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-17,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-17,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-17,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-17,Withdrawal RoundUp Withdraw,debit,-0.53,,,goldenwest,checking
-2025-04-17,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-17,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-17,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-17,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-17,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-17,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-18,Withdrawal RoundUp Withdraw,debit,-9.9,,,goldenwest,checking
-2025-04-18,Deposit RoundUp Deposit,credit,9.9,,,goldenwest,gold account
-2025-04-20,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-20,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-20,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-20,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-20,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-21,Payment to Bear River Mutual,debit,-189.0,,,goldenwest,checking
-2025-04-21,Robinhood,debit,-1.01,,,goldenwest,money market
-2025-04-21,Walmart,debit,-3.67,,,goldenwest,checking
-2025-04-21,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-21,Deposit RoundUp Deposit,credit,4.95,,,goldenwest,gold account
-2025-04-21,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-21,Withdrawal RoundUp Withdraw,debit,-4.95,,,goldenwest,checking
-2025-04-21,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-21,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-21,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-22,Withdrawal RoundUp Withdraw,debit,-5.28,,,goldenwest,checking
-2025-04-22,Deposit RoundUp Deposit,credit,5.28,,,goldenwest,gold account
-2025-04-22,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2000S86U01 CO: LIFE STARFISH NAME: Savanna Kerby,debit,-500.0,,,goldenwest,checking
-2025-04-23,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-23,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-23,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-23,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-23,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-24,Withdrawal RoundUp Withdraw,debit,-4.95,,,goldenwest,checking
-2025-04-24,Withdrawal Overdrawn ACH In the amount $500.00 LIFE STARFISH,debit,-22.0,,,goldenwest,checking
-2025-04-24,Deposit RoundUp Deposit,credit,4.95,,,goldenwest,gold account
-2025-04-25,Salary/Regular Income from Goldenwest Credit Union,credit,661.69,,,goldenwest,checking
-2025-04-26,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-26,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-26,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-26,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-27,Deposit Home Banking Transfer From Share 0004,credit,1000.0,,,goldenwest,checking
-2025-04-27,Deposit RoundUp Deposit,credit,3.96,,,goldenwest,gold account
-2025-04-27,Withdrawal Home Banking Transfer To Share 0090,debit,-1000.0,,,goldenwest,money market
-2025-04-27,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-27,Withdrawal RoundUp Withdraw,debit,-3.96,,,goldenwest,checking
-2025-04-27,Recurring Withdrawal #XX8257 GOOGLE *Dancefitme Fun XX-3987 CA Card 4143,debit,-21.48,,,goldenwest,checking
-2025-04-28,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-28,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-28,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-28,Deposit RoundUp Deposit,credit,0.99,,,goldenwest,gold account
-2025-04-28,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-28,Withdrawal RoundUp Withdraw,debit,-0.99,,,goldenwest,checking
-2025-04-28,"Robinhood Securities, Llc",debit,-1.01,,,goldenwest,checking
-2025-04-28,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX0001S86U01 CO: LIFE STARFISH NAME: Savanna Kerby,debit,-500.0,,,goldenwest,checking
-2025-04-29,Deposit RoundUp Deposit,credit,4.95,,,goldenwest,gold account
-2025-04-29,Withdrawal RoundUp Withdraw,debit,-4.95,,,goldenwest,checking
-2025-04-30,Interest earned,credit,0.01,,,sofi,savings
-2025-04-30,Deposit Dividend Annual Percentage Yield Earned 1.00% from 04/01/25 through 04/30/25,credit,2.62,,,goldenwest,money market
-2025-04-30,Deposit Dividend Annual Percentage Yield Earned 0.05% from 04/01/25 through 04/30/25,credit,0.05,,,goldenwest,checking
-2025-04-30,Deposit Dividend Annual Percentage Yield Earned 6.16% from 04/01/25 through 04/30/25,credit,0.55,,,goldenwest,gold account
-2025-05-01,Withdrawal GDP*CROSSPOINTE DENTAL IN OREM UT Date XX 8021 Card 4143,debit,-360.0,,,goldenwest,checking
-2025-05-04,Jacksons Food Stores,debit,-11.31,,,goldenwest,checking
-2025-05-05,Deposit RoundUp Deposit,credit,0.69,,,goldenwest,gold account
-2025-05-05,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",debit,-158.0,,,goldenwest,checking
-2025-05-05,Withdrawal RoundUp Withdraw,debit,-0.69,,,goldenwest,checking
-2025-05-05,Cold Stone Creamery,debit,-12.97,,,goldenwest,checking
-2025-05-06,Deposit RoundUp Deposit,credit,0.03,,,goldenwest,gold account
-2025-05-06,Withdrawal RoundUp Withdraw,debit,-0.03,,,goldenwest,checking
-2025-05-07,Costco,debit,-92.41,,,goldenwest,checking
-2025-05-07,Costco,debit,-7.53,,,goldenwest,checking
-2025-05-07,Costco Gas Stations,debit,-52.98,,,goldenwest,checking
-2025-05-08,Deposit RoundUp Deposit,credit,1.08,,,goldenwest,gold account
-2025-05-08,Payment to T-Mobile,debit,-27.9,,,goldenwest,checking
-2025-05-08,Withdrawal RoundUp Withdraw,debit,-1.08,,,goldenwest,checking
-2025-05-09,Salary/Regular Income from Goldenwest Credit Union,credit,643.93,,,goldenwest,checking
-2025-05-10,Deposit Promo Deposit Youth Engagement Smart Money,credit,100.0,,,goldenwest,gold account
-2025-05-15,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX4128S86U01 CO: LIFE STARFISH NAME: Savanna Kerby,debit,-400.0,,,goldenwest,checking
-2025-05-15,Withdrawal #XX4240 SQ *CHROMIS BAKERY SQUARE OREM UT Card 4143,debit,-6.0,,,goldenwest,checking
-2025-05-15,Withdrawal SHOEMAN ENTERPRISE ONE PROVO UT Date XX 5970 Card 4143,debit,-16.12,,,goldenwest,checking
-2025-05-16,Withdrawal RoundUp Withdraw,debit,-0.88,,,goldenwest,checking
-2025-05-16,Withdrawal,debit,-40.0,,,goldenwest,checking
-2025-05-16,Deposit RoundUp Deposit,credit,0.88,,,goldenwest,gold account
-2025-05-19,Payment to Bear River Mutual,debit,-189.0,,,goldenwest,checking
-2025-05-19,Withdrawal #XX0720 OAK HILLS PHARMACY PROVO UT Card 4143,debit,-23.01,,,goldenwest,checking
-2025-05-20,Withdrawal Home Banking Transfer To Share 0090,debit,-1000.0,,,goldenwest,money market
-2025-05-20,Deposit RoundUp Deposit,credit,0.99,,,goldenwest,gold account
-2025-05-20,Deposit Home Banking Transfer From Share 0004,credit,1000.0,,,goldenwest,checking
-2025-05-20,Withdrawal RoundUp Withdraw,debit,-0.99,,,goldenwest,checking
-2025-05-21,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2001S86U01 CO: LIFE STARFISH NAME: Savanna Kerby,debit,-200.0,,,goldenwest,checking
-2025-05-22,Payment to Perks,debit,-515.0,,,goldenwest,checking
-2025-05-23,Salary/Regular Income from Goldenwest Credit Union,credit,718.78,,,goldenwest,checking
-2025-05-25,Withdrawal TST*BROOKERS - PROVO - J Provo UT Date 05/24/25 XX 5814 Card 4143,debit,-13.55,,,goldenwest,checking
-2025-05-26,Deposit RoundUp Deposit,credit,0.45,,,goldenwest,gold account
-2025-05-26,Withdrawal #XX x6072 WEST JORDAN UT Card 4143,debit,-52.49,,,goldenwest,checking
-2025-05-26,Withdrawal RoundUp Withdraw,debit,-0.45,,,goldenwest,checking
-2025-05-27,Fandango At Home,debit,-16.11,,,goldenwest,checking
-2025-05-27,Withdrawal RoundUp Withdraw,debit,-0.51,,,goldenwest,checking
-2025-05-27,Deposit RoundUp Deposit,credit,0.51,,,goldenwest,gold account
-2025-05-28,Ross Stores,debit,-89.11,,,goldenwest,checking
-2025-05-28,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2000S86U01 CO: LIFE STARFISH NAME: Savanna Kerby,debit,-400.0,,,goldenwest,checking
-2025-05-28,Withdrawal RoundUp Withdraw,debit,-0.89,,,goldenwest,checking
-2025-05-28,Deposit RoundUp Deposit,credit,0.89,,,goldenwest,gold account
-2025-05-29,Deposit RoundUp Deposit,credit,0.89,,,goldenwest,gold account
-2025-05-29,Walmart,debit,-125.64,,,goldenwest,checking
-2025-05-29,Withdrawal OUELESSEBOUGOUALLIANCE XX6254 UT Date 05/29/25 XX 8398 Card 4143,debit,-5.0,,,goldenwest,checking
-2025-05-29,Withdrawal #XX3405 SQ *POPBITE SQUARE PROVO UT Card 4143,debit,-8.52,,,goldenwest,checking
-2025-05-29,Withdrawal RoundUp Withdraw,debit,-0.89,,,goldenwest,checking
-2025-05-29,"Withdrawal PP*HANSEN WORKSHOP, LLC LINDON UT Date XX 5999 Card 4143",debit,-8.6,,,goldenwest,checking
-2025-05-29,Volker's Bakery,debit,-12.75,,,goldenwest,checking
-2025-05-29,Taco Bell,debit,-17.3,,,goldenwest,checking
-2025-05-30,Withdrawal RoundUp Withdraw,debit,-2.19,,,goldenwest,checking
-2025-05-30,Deposit RoundUp Deposit,credit,2.19,,,goldenwest,gold account
-2025-05-31,Interest earned,credit,0.01,,,sofi,savings
-2025-05-31,Deposit Dividend Annual Percentage Yield Earned 6.15% from 05/01/25 through 05/31/25,credit,1.15,,,goldenwest,gold account
-2025-05-31,Deposit Dividend Annual Percentage Yield Earned 1.01% from 05/01/25 through 05/31/25,credit,1.42,,,goldenwest,money market
-2025-05-31,Payment to T-Mobile,debit,-11.16,,,goldenwest,checking
-2025-05-31,Hobby Lobby,debit,-126.63,,,goldenwest,checking
-2025-05-31,Deposit Dividend Annual Percentage Yield Earned 0.05% from 05/01/25 through 05/31/25,credit,0.04,,,goldenwest,checking
-2025-05-31,Walgreens,debit,-114.37,,,goldenwest,checking
-2025-06-01,Withdrawal RoundUp Withdraw,debit,-1.84,,,goldenwest,checking
-2025-06-01,Deposit RoundUp Deposit,credit,1.84,,,goldenwest,gold account
-2025-06-04,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",debit,-158.0,,,goldenwest,checking
-2025-06-05,Costco,debit,-124.5,,,goldenwest,checking
-2025-06-05,Costco Gas Stations,debit,-50.2,,,goldenwest,checking
-2025-06-05,Hobby Lobby,debit,-49.01,,,goldenwest,checking
-2025-06-06,Hobby Lobby,debit,-11.25,,,goldenwest,checking
-2025-06-06,Withdrawal RoundUp Withdraw,debit,-2.29,,,goldenwest,checking
-2025-06-06,Salary/Regular Income from Goldenwest Credit Union,credit,766.59,,,goldenwest,checking
-2025-06-06,Deposit RoundUp Deposit,credit,2.29,,,goldenwest,gold account
-2025-06-07,Withdrawal RoundUp Withdraw,debit,-0.75,,,goldenwest,checking
-2025-06-07,Deposit RoundUp Deposit,credit,0.75,,,goldenwest,gold account
-2025-06-08,Payment to T-Mobile,debit,-27.9,,,goldenwest,checking
-2025-06-14,Walmart,debit,-71.31,,,goldenwest,checking
-2025-06-15,Deposit RoundUp Deposit,credit,0.69,,,goldenwest,gold account
-2025-06-15,Withdrawal RoundUp Withdraw,debit,-0.69,,,goldenwest,checking
-2025-06-16,Withdrawal #XX9073 OAK HILLS PHARMACY PROVO UT Card 4143,debit,-23.01,,,goldenwest,checking
-2025-06-17,Deposit RoundUp Deposit,credit,0.99,,,goldenwest,gold account
-2025-06-17,Withdrawal RoundUp Withdraw,debit,-0.99,,,goldenwest,checking
-2025-06-18,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",debit,-170.0,,,goldenwest,checking
-2025-06-19,Maurices,debit,-9.67,,,goldenwest,checking
-2025-06-20,Deposit RoundUp Deposit,credit,0.33,,,goldenwest,gold account
-2025-06-20,Salary/Regular Income from Goldenwest Credit Union,credit,736.01,,,goldenwest,checking
-2025-06-20,Payment to Bear River Mutual,debit,-188.0,,,goldenwest,checking
-2025-06-20,Withdrawal RoundUp Withdraw,debit,-0.33,,,goldenwest,checking
-2025-06-20,McDonald's,debit,-20.5,,,goldenwest,checking
-2025-06-21,Withdrawal RoundUp Withdraw,debit,-0.5,,,goldenwest,checking
-2025-06-21,Deposit RoundUp Deposit,credit,0.5,,,goldenwest,gold account
-2025-06-23,Walmart,debit,-14.42,,,goldenwest,checking
-2025-06-24,Withdrawal RoundUp Withdraw,debit,-0.58,,,goldenwest,checking
-2025-06-24,Withdrawal,debit,-0.02,,,goldenwest,checking
-2025-06-24,Deposit RoundUp Deposit,credit,0.58,,,goldenwest,gold account
-2025-06-30,Deposit Dividend Annual Percentage Yield Earned 1.00% from 06/01/25 through 06/30/25,credit,0.87,,,goldenwest,money market
-2025-06-30,Deposit Dividend Annual Percentage Yield Earned 0.05% from 06/01/25 through 06/30/25,credit,0.04,,,goldenwest,checking
-2025-06-30,Deposit Dividend Annual Percentage Yield Earned 6.02% from 06/01/25 through 06/30/25,credit,1.29,,,goldenwest,gold account
-2025-06-30,Interest earned,credit,0.01,,,sofi,savings
-2025-07-03,Byu Creamery,debit,-5.08,,,goldenwest,checking
-2025-07-03,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",debit,-158.0,,,goldenwest,checking
-2025-07-03,Salary/Regular Income from Goldenwest Credit Union,credit,808.4,,,goldenwest,checking
-2025-07-04,Withdrawal RoundUp Withdraw,debit,-0.92,,,goldenwest,checking
-2025-07-04,Deposit RoundUp Deposit,credit,0.92,,,goldenwest,gold account
-2025-07-05,Withdrawal #XX7883 SQ *PORTNEUF RAPIDS TUBE SQUARE LAVA HOT SPRI ID Card 4143,debit,-7.75,,,goldenwest,checking
-2025-07-06,Deposit RoundUp Deposit,credit,0.25,,,goldenwest,gold account
-2025-07-06,Withdrawal RoundUp Withdraw,debit,-0.25,,,goldenwest,checking
-2025-07-07,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2000S86U01 CO: LIFE STARFISH NAME: Savanna Kerby,debit,-300.0,,,goldenwest,checking
-2025-07-08,Withdrawal Bill Paid-GRANDMA BECKY Conf #1,debit,-60.0,,,goldenwest,checking
-2025-07-08,Nielsen's Frozen Custard,debit,-7.57,,,goldenwest,checking
-2025-07-08,Payment to T-Mobile,debit,-27.95,,,goldenwest,checking
-2025-07-09,Deposit RoundUp Deposit,credit,0.43,,,goldenwest,gold account
-2025-07-09,Withdrawal RoundUp Withdraw,debit,-0.43,,,goldenwest,checking
-2025-07-10,WALMART.COM 8009256278,debit,-187.3,,,capital one,credit card
-2025-07-10,Walmart,debit,-32.04,,,goldenwest,checking
-2025-07-11,Costco Gas Stations,debit,-55.49,,,goldenwest,checking
-2025-07-11,Costco,debit,-74.28,,,goldenwest,checking
-2025-07-11,CAPITAL ONE MEMBER FEE,debit,-395.0,,,capital one,credit card
-2025-07-11,CHEESECAKE OREM,debit,-104.44,,,capital one,credit card
-2025-07-11,Deposit RoundUp Deposit,credit,0.96,,,goldenwest,gold account
-2025-07-11,Withdrawal RoundUp Withdraw,debit,-0.96,,,goldenwest,checking
-2025-07-12,Withdrawal RoundUp Withdraw,debit,-1.23,,,goldenwest,checking
-2025-07-12,LAGOON  RFM,debit,-34.3,,,capital one,credit card
-2025-07-12,LAGOON TIC-AG,debit,-20.0,,,capital one,credit card
-2025-07-12,LAGOON  RFM,debit,-15.0,,,capital one,credit card
-2025-07-12,LAGOON  RFM,debit,-5.0,,,capital one,credit card
-2025-07-12,MAVERIK #757,debit,-8.86,,,capital one,credit card
-2025-07-12,Deposit RoundUp Deposit,credit,1.23,,,goldenwest,gold account
-2025-07-14,MCDONALD'S F13504,debit,-12.63,,,capital one,credit card
-2025-07-14,OAK HILLS PHARMACY,debit,-23.01,,,capital one,credit card
-2025-07-14,MAVERIK #757,debit,-3.96,,,capital one,credit card
-2025-07-16,SLC AIRPORT PARKING,debit,-10.0,,,capital one,credit card
-2025-07-17,YOGURTLAND UT 102,debit,-6.1,,,capital one,credit card
-2025-07-17,Salt Lake City Airport Parking,debit,-2.0,,,goldenwest,checking
-2025-07-18,Home Depot Riverton,debit,-2.4,,,capital one,credit card
-2025-07-18,MCDONALD'S F13504,debit,-19.52,,,capital one,credit card
-2025-07-18,Salary/Regular Income from Goldenwest Credit Union,credit,761.81,,,goldenwest,checking
-2025-07-19,Home Depot Riverton,debit,-2.4,,,capital one,credit card
-2025-07-19,WM SUPERCENTER #3620,debit,-45.17,,,capital one,credit card
-2025-07-20,WM SUPERCENTER #1768,debit,-57.21,,,capital one,credit card
-2025-07-21,WAL-MART #1768,debit,-35.01,,,capital one,credit card
-2025-07-21,Payment to Bear River Mutual,debit,-186.38,,,goldenwest,checking
-2025-07-21,COSTCO WHSE #1118,debit,-127.7,,,capital one,credit card
-2025-07-21,COSTCO GAS #1118,debit,-45.68,,,capital one,credit card
-2025-07-21,WALMART.COM 8009256278,debit,-86.24,,,capital one,credit card
-2025-07-22,MAVERIK #757,debit,-4.6,,,capital one,credit card
-2025-07-22,PY *JOHNNY ROCKETS  604,debit,-8.71,,,capital one,credit card
-2025-07-24,UT HUNT/FISH LIC. ONLI,debit,-39.86,,,capital one,credit card
-2025-07-26,WM SUPERCENTER #1768,debit,-162.4,,,capital one,credit card
-2025-07-27,GOOGLE *minimalist pho,debit,-30.22,,,capital one,credit card
-2025-07-28,MAVERIK #757,debit,-4.6,,,capital one,credit card
-2025-07-30,TMOBILE*PREPAID WEB,debit,-11.18,,,capital one,credit card
-2025-07-31,Interest earned,credit,0.01,,,sofi,savings
-2025-07-31,Home Depot Riverton,debit,-2.4,,,capital one,credit card
-2025-07-31,COSTCO GAS #1118,debit,-51.04,,,capital one,credit card
-2025-07-31,Home Depot Riverton,debit,-2.4,,,capital one,credit card
-2025-07-31,Deposit Dividend Annual Percentage Yield Earned 5.99% from 07/01/25 through 07/31/25,credit,1.36,,,goldenwest,gold account
-2025-07-31,MCDONALD'S F13504,debit,-14.14,,,capital one,credit card
-2025-07-31,Deposit Dividend Annual Percentage Yield Earned 0.05% from 07/01/25 through 07/31/25,credit,0.07,,,goldenwest,checking
-2025-07-31,Salary/Regular Income from Goldenwest Credit Union,credit,749.01,,,goldenwest,checking
-2025-07-31,Deposit Dividend Annual Percentage Yield Earned 1.00% from 07/01/25 through 07/31/25,credit,0.9,,,goldenwest,money market
-2025-08-01,CINEMARK 1041 BOXCON,debit,-4.18,,,capital one,credit card
-2025-08-01,CHEVRON 0209539,debit,-54.47,,,capital one,credit card
-2025-08-01,PROVO CITY CNTR TEMPLE,debit,-3.0,,,capital one,credit card
-2025-08-01,Home Depot Riverton,debit,-2.4,,,capital one,credit card
-2025-08-01,CAFE ZUPAS - LEHI,debit,-14.94,,,capital one,credit card
-2025-08-01,MAVERIK #757,debit,-4.6,,,capital one,credit card
-2025-08-04,Home Depot Riverton,debit,-2.4,,,capital one,credit card
-2025-08-04,Utah Career Center,debit,-1.3,,,capital one,credit card
-2025-08-04,MAVERIK #757,debit,-5.78,,,capital one,credit card
-2025-08-05,WAL-MART #1768,debit,-98.08,,,capital one,credit card
-2025-08-06,BRIGHAM YOUNG UNIV WEB,debit,-238.65,,,capital one,credit card
-2025-08-07,TMOBILE*PREPD AUTOPY,debit,-27.95,,,capital one,credit card
-2025-08-07,"Deposit Transfer From CUMMARD,COOPER XX Share 0090",credit,1.0,,,goldenwest,checking
-2025-08-09,FYE UNIVERSITY PLACE -,debit,-107.43,,,capital one,credit card
-2025-08-09,TEXAS ROADHOUSE #2284,debit,-65.26,,,capital one,credit card
-2025-08-12,COSTCO GAS #1118,debit,-46.08,,,capital one,credit card
-2025-08-12,COSTCO WHSE #1118,debit,-188.8,,,capital one,credit card
-2025-08-12,Home Depot Riverton,debit,-1.4,,,capital one,credit card
-2025-08-12,WAL-MART 3620 GAS  SE2,debit,-47.09,,,capital one,credit card
-2025-08-13,Home Depot Riverton,debit,-1.4,,,capital one,credit card
-2025-08-13,WAL-MART #1768,debit,-147.24,,,capital one,credit card
-2025-08-14,PANDA EXPRESS #1588,debit,-15.51,,,capital one,credit card
-2025-08-14,LEATHERBY'S FAMILY CREAM,debit,-23.28,,,capital one,credit card
-2025-08-15,Salary/Regular Income from Goldenwest Credit Union,credit,793.46,,,goldenwest,checking
-2025-08-15,Deposit Home Banking Transfer From Share 0004 For Germany!,credit,1000.0,,,goldenwest,checking
-2025-08-15,Withdrawal Home Banking Transfer To Share 0090 For Germany!,debit,-1000.0,,,goldenwest,money market
-2025-08-16,COT*FLT,debit,-1100.11,,,capital one,credit card
-2025-08-17,CAPITAL ONE AUTOPAY PYMT,credit,1246.93,,,capital one,credit card
-2025-08-19,Payment to Bear River Mutual,debit,-179.0,,,goldenwest,checking
-2025-08-19,Home Depot Riverton,debit,-2.4,,,capital one,credit card
-2025-08-19,Payment to Capital One,debit,-1246.93,,,goldenwest,checking
-2025-08-20,TACO BELL 030457,debit,-21.0,,,capital one,credit card
-2025-08-20,Home Depot Riverton,debit,-2.4,,,capital one,credit card
-2025-08-21,CBT*UTAH COUNTY CLERK,debit,-45.0,,,capital one,credit card
-2025-08-21,MCDONALD'S F13504,debit,-13.22,,,capital one,credit card
-2025-08-21,WM SUPERCENTER #3620,debit,-46.35,,,capital one,credit card
-2025-08-21,CBT*SVC FEE UTAH CNTY,debit,-1.5,,,capital one,credit card
-2025-08-22,TRICKED OUT ACCESSORIES U,debit,-85.81,,,capital one,credit card
-2025-08-22,MAVERIK #757,debit,-4.6,,,capital one,credit card
-2025-08-22,SQ *TIE ONE ON,debit,-52.63,,,capital one,credit card
-2025-08-23,WAL-MART #1768,debit,-116.33,,,capital one,credit card
-2025-08-25,Utah Career Center,debit,-1.65,,,capital one,credit card
-2025-08-27,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1370 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,debit,-248.0,,,goldenwest,checking
-2025-08-27,COSTCO WHSE #1118,debit,-147.37,,,capital one,credit card
-2025-08-27,SQ *WINTERS CUSTOM HAIR D,debit,-66.0,,,capital one,credit card
-2025-08-27,COSTCO GAS #1118,debit,-54.95,,,capital one,credit card
-2025-08-28,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1304 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,debit,-167.0,,,goldenwest,checking
-2025-08-28,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1326 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,debit,-131.0,,,goldenwest,checking
-2025-08-29,Withdrawal ACH Angel Funding TYPE: VAS Portal ID: XX4992 CO: Angel Funding NAME: Savanna Kerby-Savanna,debit,-484.0,,,goldenwest,checking
-2025-08-29,BYU STORE,debit,-202.98,,,capital one,credit card
-2025-08-29,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1573 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,debit,-152.0,,,goldenwest,checking
-2025-08-29,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1573 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,debit,-135.0,,,goldenwest,checking
-2025-08-29,Salary/Regular Income from Goldenwest Credit Union,credit,781.92,,,goldenwest,checking
-2025-08-31,Interest earned,credit,0.01,,,sofi,savings
-2025-08-31,WM SUPERCENTER #3620,debit,-48.34,,,capital one,credit card
-2025-08-31,Deposit Dividend Annual Percentage Yield Earned 1.02% from 08/01/25 through 08/31/25,credit,0.44,,,goldenwest,money market
-2025-08-31,Deposit Dividend Annual Percentage Yield Earned 0.05% from 08/01/25 through 08/31/25,credit,0.12,,,goldenwest,checking
-2025-08-31,Deposit Dividend Annual Percentage Yield Earned 5.99% from 08/01/25 through 08/31/25,credit,1.37,,,goldenwest,gold account
-2025-08-31,CREDIT-TRAVEL REWARD,credit,823.08,,,capital one,credit card
-2025-09-01,MAVERIK #757,debit,-3.96,,,capital one,credit card
-2025-09-02,WM SUPERCENTER #1768,debit,-45.13,,,capital one,credit card
-2025-09-03,BRIGHAM YOUNG UNIV WEB,debit,-60.0,,,capital one,credit card
-2025-09-03,BRIGHAM YOUNG UNIVERSI,debit,-42.98,,,capital one,credit card
-2025-09-04,BYU STUDENT ID CENTER,debit,-10.0,,,capital one,credit card
-2025-09-04,THE HOME DEPOT #8566,debit,-32.58,,,capital one,credit card
-2025-09-05,BYU Refund,credit,254.0,,,sofi,savings
-2025-09-05,Withdrawal,debit,-15.0,,,goldenwest,checking
-2025-09-06,COSTCO GAS #1118,debit,-45.07,,,capital one,credit card
-2025-09-06,Withdrawal Adjustment Credit Voucher BRIGHAM YOUNG UNIVERSI PROVO UT Date XX 5942 Card 4143,credit,27.99,,,goldenwest,checking
-2025-09-07,Withdrawal RoundUp Withdraw,debit,-0.99,,,goldenwest,checking
-2025-09-07,TMOBILE*PREPD AUTOPY,debit,-27.95,,,capital one,credit card
-2025-09-07,Deposit RoundUp Deposit,credit,0.99,,,goldenwest,gold account
-2025-09-09,BRIGHAM YOUNG UNIVERSI,debit,-2.89,,,capital one,credit card
-2025-09-10,DOMINO'S 9105,debit,-36.83,,,capital one,credit card
-2025-09-10,WM SUPERCENTER #3620,debit,-48.47,,,capital one,credit card
-2025-09-10,Withdrawal Adjustment Credit Voucher BRIGHAM YOUNG UNIVERSI PROVO UT Date XX 5942 Card 4143,credit,46.99,,,goldenwest,checking
-2025-09-11,Deposit RoundUp Deposit,credit,0.99,,,goldenwest,gold account
-2025-09-11,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",debit,-172.0,,,goldenwest,checking
-2025-09-11,Withdrawal RoundUp Withdraw,debit,-0.99,,,goldenwest,checking
-2025-09-11,Deposit ACH North Capital TYPE: ACH PAYMTS ID: XX6349 CO: North Capital,credit,484.0,,,goldenwest,checking
-2025-09-12,Salary/Regular Income from Goldenwest Credit Union,credit,757.04,,,goldenwest,checking
-2025-09-12,AMAZON MKTPL*S63R36W93,debit,-16.11,,,capital one,credit card
-2025-09-15,WAL-MART #1768,debit,-43.2,,,capital one,credit card
-2025-09-15,MCDONALD'S F13504,debit,-20.01,,,capital one,credit card
-2025-09-15,MCDONALD'S F13504,debit,-3.3,,,capital one,credit card
-2025-09-15,MILK & COOKIES,debit,-5.95,,,capital one,credit card
-2025-09-15,BYU WSC COUGAR EXPRESS,debit,-4.0,,,capital one,credit card
-2025-09-16,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX7143 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,debit,-173.0,,,goldenwest,checking
-2025-09-16,SP THE CHARLIE KIRK SH,debit,-44.85,,,capital one,credit card
-2025-09-17,COSTCO WHSE #1118,debit,-146.77,,,capital one,credit card
-2025-09-17,COSTCO GAS #1118,debit,-51.42,,,capital one,credit card
-2025-09-17,CAPITAL ONE AUTOPAY PYMT,credit,2717.4,,,capital one,credit card
-2025-09-18,Payment to Capital One,debit,-2717.4,,,goldenwest,checking
-2025-09-18,TACO BELL 030725,debit,-25.87,,,capital one,credit card
-2025-09-19,Payment to Bear River Mutual,debit,-179.0,,,goldenwest,checking
-2025-09-19,Cougar Cash,debit,-25.0,,,goldenwest,checking
-2025-09-19,NIELSENS FROZEN CUSTAR,debit,-8.87,,,capital one,credit card
-2025-09-20,MAVERIK #757,debit,-50.97,,,capital one,credit card
-2025-09-22,GDP*CROSSPOINTE DENTAL IN,debit,-85.0,,,capital one,credit card
-2025-09-22,MAVERIK #757,debit,-1.82,,,capital one,credit card
-2025-09-23,Salem High School,debit,-36.4,,,goldenwest,checking
-2025-09-24,TACO BELL 025393,debit,-16.76,,,capital one,credit card
-2025-09-24,Withdrawal RoundUp Withdraw,debit,-0.6,,,goldenwest,checking
-2025-09-24,Deposit RoundUp Deposit,credit,0.6,,,goldenwest,gold account
-2025-09-26,Cougar Cash,debit,-25.0,,,goldenwest,checking
-2025-09-26,Salary/Regular Income from Goldenwest Credit Union,credit,623.58,,,goldenwest,checking
-2025-09-27,WM SUPERCENTER #1768,debit,-98.49,,,capital one,credit card
-2025-09-29,MAVERIK #757,debit,-16.57,,,capital one,credit card
-2025-09-30,Interest earned,credit,0.71,,,sofi,savings
-2025-09-30,Deposit Dividend Annual Percentage Yield Earned 0.05% from 09/01/25 through 09/30/25,credit,0.07,,,goldenwest,checking
-2025-09-30,Deposit Dividend Annual Percentage Yield Earned 5.99% from 09/01/25 through 09/30/25,credit,1.34,,,goldenwest,gold account
-2025-09-30,Deposit Dividend Annual Percentage Yield Earned 1.00% from 09/01/25 through 09/30/25,credit,0.05,,,goldenwest,money market
-2025-10-01,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",debit,-202.0,,,goldenwest,checking
-2025-10-01,BYU LIBRARY CAFE,debit,-3.7,,,capital one,credit card
-2025-10-02,MAVERIK #757,debit,-55.89,,,capital one,credit card
-2025-10-02,GOLDEN CORRAL 0741,debit,-50.42,,,capital one,credit card
-2025-10-02,GDP*CROSSPOINTE DENTAL IN,debit,-105.0,,,capital one,credit card
-2025-10-02,WM SUPERCENTER #1768,debit,-81.56,,,capital one,credit card
-2025-10-03,UTAH-DMV RENEWAL EXPRE,debit,-93.5,,,capital one,credit card
-2025-10-03,COSTCO GAS #1118,debit,-55.45,,,capital one,credit card
-2025-10-03,Cougar Cash,debit,-25.0,,,goldenwest,checking
-2025-10-04,DEL TACO #1099,debit,-24.55,,,capital one,credit card
-2025-10-06,WAL-MART #1768,debit,-237.97,,,capital one,credit card
-2025-10-07,TMOBILE*PREPD AUTOPY,debit,-27.95,,,capital one,credit card
-2025-10-08,Fandango At Home,debit,-10.73,,,goldenwest,checking
-2025-10-09,Withdrawal RoundUp Withdraw,debit,-0.27,,,goldenwest,checking
-2025-10-09,Deposit RoundUp Deposit,credit,0.27,,,goldenwest,gold account
-2025-10-10,BYU LIBRARY CAFE,debit,-7.52,,,capital one,credit card
-2025-10-10,Salary/Regular Income from Goldenwest Credit Union,credit,607.08,,,goldenwest,checking
-2025-10-10,PAPA JOHN'S #1283,debit,-25.14,,,capital one,credit card
-2025-10-14,COSTCO GAS #1118,debit,-55.87,,,capital one,credit card
-2025-10-14,WM SUPERCENTER #1768,debit,-41.17,,,capital one,credit card
-2025-10-14,STEAMGAMES.COM 4259522985,debit,-3.21,,,capital one,credit card
-2025-10-16,"Withdrawal ACH BYU TYPE: CougarCash ID: ******7280 CO: BYU NAME: KERBY, SAVANNA BROOKE",debit,-25.0,,,goldenwest,checking
-2025-10-16,MCDONALD'S F13504,debit,-14.75,,,capital one,credit card
-2025-10-17,CAPITAL ONE AUTOPAY PYMT,credit,682.13,,,capital one,credit card
-2025-10-18,WM SUPERCENTER #1768,debit,-134.67,,,capital one,credit card
-2025-10-18,Deposit Promo Deposit Youth Engagement Promo 1 Year Reward,credit,100.0,,,goldenwest,gold account
-2025-10-20,Withdrawal ACH Bear River TYPE: Ins. Paymt ID: ******4580 DATA: Insurance CO: Bear River,debit,-179.0,,,goldenwest,checking
-2025-10-20,Payment to Capital One,debit,-682.13,,,goldenwest,checking
-2025-10-20,MAVERIK #757,debit,-53.86,,,capital one,credit card
-2025-10-21,"Withdrawal ACH BYU TYPE: CougarCash ID: ******7280 CO: BYU NAME: KERBY, SAVANNA BROOKE",debit,-25.0,,,goldenwest,checking
-2025-10-22,CREDIT-TRAVEL REWARD,credit,41.27,,,capital one,credit card
-2025-10-23,BYU CREAMERY ON NINTH,debit,-5.14,,,capital one,credit card
-2025-10-24,Salary/Regular Income from Goldenwest Credit Union,credit,640.37,,,goldenwest,checking
-2025-10-24,MAVERIK #757,debit,-55.37,,,capital one,credit card
-2025-10-24,MCDONALD'S F32093,debit,-5.18,,,capital one,credit card
-2025-10-24,SP SHOPCORNBELLYS,debit,-73.85,,,capital one,credit card
-2025-10-24,THE HOME DEPOT #8566,debit,-1.05,,,capital one,credit card
-2025-10-25,WM SUPERCENTER #1768,debit,-165.62,,,capital one,credit card
-2025-10-25,SP SHOPCORNBELLYS,debit,-15.16,,,capital one,credit card
-2025-10-25,ROSS STORES #751,debit,-67.36,,,capital one,credit card
-2025-10-25,SPRINGVILLE DI,debit,-52.25,,,capital one,credit card
-2025-10-26,JIFFY LUBE #2892,debit,-470.51,,,capital one,credit card
-2025-10-28,Cougar Cash,debit,-25.0,,,goldenwest,checking
-2025-10-29,ZEPHYR LOT,debit,-12.0,,,capital one,credit card
-2025-10-29,MAVERIK #757,debit,-3.95,,,capital one,credit card
-2025-10-29,WM SUPERCENTER #3620,debit,-39.39,,,capital one,credit card
-2025-10-30,WE GEEK TOGETHER,debit,-30.03,,,capital one,credit card
-2025-10-30,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",debit,-177.0,,,goldenwest,checking
-2025-10-31,SPIRIT HALLOWEEN 60356,debit,-19.0,,,capital one,credit card
-2025-10-31,Deposit Dividend Annual Percentage Yield Earned 5.98% from 10/01/25 through 10/31/25,credit,1.62,,,goldenwest,gold account
-2025-10-31,Cougar Cash,debit,-25.0,,,goldenwest,checking
-2025-10-31,Interest earned,credit,0.84,,,sofi,savings
-2025-10-31,Deposit Dividend Annual Percentage Yield Earned 0.97% from 10/01/25 through 10/31/25,credit,0.05,,,goldenwest,money market
-2025-10-31,TACO BELL 025393,debit,-15.03,,,capital one,credit card
-2025-10-31,Deposit Dividend Annual Percentage Yield Earned 0.05% from 10/01/25 through 10/31/25,credit,0.04,,,goldenwest,checking
-2025-11-01,WAL-MART #1768,debit,-89.82,,,capital one,credit card
-2025-11-01,Google Fandango at Ho,debit,-5.37,,,capital one,credit card
-2025-11-01,PAPA JOHN'S #1283,debit,-39.8,,,capital one,credit card
-2025-11-02,ESPN,debit,-32.21,,,capital one,credit card
-2025-11-03,WM SUPERCENTER #1768,debit,-117.38,,,capital one,credit card
-2025-11-03,MAVERIK #757,debit,-3.95,,,capital one,credit card
-2025-11-04,TACO BELL 033174,debit,-25.87,,,capital one,credit card
-2025-11-05,MAVERIK #757,debit,-52.02,,,capital one,credit card
-2025-11-05,Cougar Cash,debit,-25.0,,,goldenwest,checking
-2025-11-07,TMOBILE*PREPD AUTOPY,debit,-27.95,,,capital one,credit card
-2025-11-07,Salary/Regular Income from Goldenwest Credit Union,credit,626.51,,,goldenwest,checking
-2025-11-07,MCDONALD'S F13504,debit,-19.2,,,capital one,credit card
-2025-11-08,WM SUPERCENTER #3620,debit,-49.47,,,capital one,credit card
-2025-11-08,TACO BELL 030457,debit,-18.15,,,capital one,credit card
-2025-11-11,COT*HTL,debit,-662.69,,,capital one,credit card
-2025-11-11,MCDONALD'S F13504,debit,-9.11,,,capital one,credit card
-2025-11-11,COT*HTL,debit,-111.22,,,capital one,credit card
-2025-11-12,COSTCO WHSE #1118,debit,-262.89,,,capital one,credit card
-2025-11-13,Cougar Cash,debit,-25.0,,,goldenwest,checking
-2025-11-14,CREDIT-TRAVEL REWARD,credit,82.83,,,capital one,credit card
-2025-11-14,CAPITAL ONE MOBILE PYMT,credit,500.0,,,capital one,credit card
-2025-11-16,AUTOZONE #6900,credit,23.64,,,capital one,credit card
-2025-11-16,AUTOZONE #6900,debit,-254.65,,,capital one,credit card
-2025-11-17,CAPITAL ONE AUTOPAY PYMT,credit,749.55,,,capital one,credit card
-2025-11-17,Payment to Capital One,debit,-500.0,,,goldenwest,checking
-2025-11-17,COSTCO GAS #1118,debit,-49.78,,,capital one,credit card
-2025-11-18,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX5586 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,debit,-150.0,,,goldenwest,checking
-2025-11-19,Payment to Bear River Mutual,debit,-178.0,,,goldenwest,checking
-2025-11-19,WM SUPERCENTER #1768,debit,-91.91,,,capital one,credit card
-2025-11-19,SQ *WINTERS CUSTOM HAIR D,debit,-66.0,,,capital one,credit card
-2025-11-19,PANDA EXPRESS #1588,debit,-16.51,,,capital one,credit card
-2025-11-21,Salary/Regular Income from Goldenwest Credit Union,credit,622.01,,,goldenwest,checking
-2025-11-21,ROSS STORES #751,debit,-118.17,,,capital one,credit card
-2025-11-21,PAPA MURPHY'S UT019 OLO,debit,-35.31,,,capital one,credit card
-2025-11-21,Home Depot Riverton,debit,-1.4,,,capital one,credit card
-2025-11-21,WAL-MART #3620,debit,-3.54,,,capital one,credit card
-2025-11-21,WM SUPERCENTER #3620,debit,-47.64,,,capital one,credit card
-2025-11-24,WAL-MART #1768,debit,-26.41,,,capital one,credit card
-2025-11-24,DELTA AIR   Baggage Fee,debit,-75.0,,,capital one,credit card
-2025-11-25,SLC PANDA EXPRESS 6231365,debit,-21.35,,,capital one,credit card
-2025-11-25,Cougar Cash,debit,-25.0,,,goldenwest,checking
-2025-11-25,CREDIT-TRAVEL REWARD,credit,13.23,,,capital one,credit card
-2025-11-25,MOPLA BEWEGT,debit,-67.0,,,capital one,credit card
-2025-11-25,MOPLA BEWEGT,debit,-67.0,,,capital one,credit card
-2025-11-26,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE",debit,-172.0,,,goldenwest,checking
-2025-11-26,Hotel Johann Berlin Recep,debit,-140.13,,,capital one,credit card
-2025-11-26,SATURN ELECTRO-HANDELS,debit,-22.57,,,capital one,credit card
-2025-11-26,SATURN ELECTRO-HANDELS,debit,-1.15,,,capital one,credit card
-2025-11-26,RISTORANTE CALICE DORO,debit,-17.38,,,capital one,credit card
-2025-11-26,AREAS ROISSY    2191712,debit,-10.37,,,capital one,credit card
-2025-11-27,by Salti GmbH,debit,-34.81,,,capital one,credit card
-2025-11-27,Wiener Feinbackerei 146,debit,-4.41,,,capital one,credit card
-2025-11-27,MCDONALDS 00866,debit,-20.16,,,capital one,credit card
-2025-11-27,REWE Markt GmbH-ZwNL Ost,debit,-1.5,,,capital one,credit card
-2025-11-27,REWE Markt GmbH-ZwNL Ost,debit,-3.92,,,capital one,credit card
-2025-11-27,ELAYA HT. LEIPZIG CITY,debit,-3.76,,,capital one,credit card
-2025-11-28,ARCOTEL Hafencity Dresden,debit,-31.51,,,capital one,credit card
-2025-11-28,Voelkerschlachtdenkmal Le,debit,-30.2,,,capital one,credit card
-2025-11-28,Voelkerschlachtdenkmal Le,debit,-37.52,,,capital one,credit card
-2025-11-28,Rossmann 2771,debit,-29.33,,,capital one,credit card
-2025-11-28,Dolce Freddo GmbH,debit,-6.62,,,capital one,credit card
-2025-11-28,ALDI NORD,debit,-12.13,,,capital one,credit card
-2025-11-29,SumUp  *Gastro   Veran,debit,-5.81,,,capital one,credit card
-2025-11-29,Rossmann 2775,debit,-1.38,,,capital one,credit card
-2025-11-29,WILLY DANY RESTAURANTB,debit,-5.81,,,capital one,credit card
-2025-11-29,BURGER KING 7988 SOT,debit,-18.55,,,capital one,credit card
-2025-11-29,SPC*City-Apotheken Dresde,debit,-10.21,,,capital one,credit card
-2025-11-29,Sweetwater-Recordstore-Ja,debit,-46.38,,,capital one,credit card
-2025-11-29,BM Weihnachtsland K,debit,-30.13,,,capital one,credit card
-2025-11-29,LE CROBAG DE60070000,debit,-5.22,,,capital one,credit card
-2025-11-29,LE CROBAG DE60070000,debit,-9.52,,,capital one,credit card
-2025-11-30,Rossmann 464,debit,-13.49,,,capital one,credit card
-2025-11-30,Deposit Dividend Annual Percentage Yield Earned 5.99% from 11/01/25 through 11/30/25,credit,1.84,,,goldenwest,gold account
-2025-11-30,Deposit Dividend Annual Percentage Yield Earned 1.00% from 11/01/25 through 11/30/25,credit,0.05,,,goldenwest,money market
-2025-11-30,COT*HTL,debit,-68.55,,,capital one,credit card
-2025-11-30,Interest earned,credit,0.79,,,sofi,savings
-2025-11-30,"ING. RADEK LUKA,POD SPEJ",debit,-8.13,,,capital one,credit card
-2025-11-30,Erzgebirgspraesente GbR,debit,-68.5,,,capital one,credit card
-2025-11-30,SumUp  *oergon design - J,debit,-22.06,,,capital one,credit card
-2025-11-30,SumUp  *Frank s Rustik,debit,-9.29,,,capital one,credit card
-2025-11-30,ABUZER CALISKAN,debit,-16.25,,,capital one,credit card
-2025-11-30,Deposit Dividend Annual Percentage Yield Earned 0.05% from 11/01/25 through 11/30/25,credit,0.05,,,goldenwest,checking
-2025-12-01,Backwerk 337,debit,-4.53,,,capital one,credit card
-2025-12-01,Chocoladefabriken Lindt,debit,-35.49,,,capital one,credit card
-2025-12-01,United Dresden GmbH,debit,-15.66,,,capital one,credit card
-2025-12-01,LANDBAECKEREI SCHMIDT,debit,-7.71,,,capital one,credit card
-2025-12-01,MCDONALDS 01723,debit,-11.61,,,capital one,credit card
-2025-12-01,NYX*GttGVendingGmbH,debit,-8.13,,,capital one,credit card
-2025-12-01,CONFISERIE FELICITAS,debit,-11.61,,,capital one,credit card
-2025-12-01,KAMPS BERLIN 501034 1,debit,-3.08,,,capital one,credit card
-2025-12-01,MOPLA BEWEGT,debit,-67.34,,,capital one,credit card
-2025-12-01,MCPAPER DRESDEN 5244 1,debit,-48.7,,,capital one,credit card
-2025-12-01,SumUp  *Danke - TK Fa. R.,debit,-150.87,,,capital one,credit card
-2025-12-01,MOPLA BEWEGT,debit,-67.34,,,capital one,credit card
-2025-12-02,Enticon Shops,debit,-17.42,,,capital one,credit card
-2025-12-02,SL.NORD* VPNCOM,debit,-85.86,,,capital one,credit card
-2025-12-02,KLM AIRLINE 0744125092311,debit,-81.57,,,capital one,credit card
-2025-12-02,Shop 5/ Schengen Fashion,debit,-26.51,,,capital one,credit card
-2025-12-02,FLUGHAFEN BERLIN BRAND,debit,-16.31,,,capital one,credit card
-2025-12-02,HMS Host International,debit,-3.5,,,capital one,credit card
-2025-12-02,ESPN,debit,-32.21,,,capital one,credit card
-2025-12-03,WAL-MART #1768,debit,-203.32,,,capital one,credit card
-2025-12-04,CREDIT-TRAVEL REWARD,credit,24.55,,,capital one,credit card
-2025-12-04,CAPITAL ONE ONLINE PYMT,credit,700.0,,,capital one,credit card
-2025-12-04,Withdrawal Home Banking Transfer To Share 0090,debit,-61.26,,,goldenwest,money market
-2025-12-04,Payment to Capital One,debit,-700.0,,,goldenwest,checking
-2025-12-04,Deposit Home Banking Transfer From Share 0004,credit,61.26,,,goldenwest,checking
-2025-12-05,Salary/Regular Income from Goldenwest Credit Union,credit,618.73,,,goldenwest,checking
-2025-12-05,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX2000 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,debit,-140.0,,,goldenwest,checking
-2025-12-05,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX2000 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY,debit,-150.0,,,goldenwest,checking
-2025-12-05,CAPITAL ONE MOBILE PYMT,credit,300.93,,,capital one,credit card
-2025-12-05,Payment to Capital One,debit,-300.93,,,goldenwest,checking
-2025-12-06,HEARTS NAIL SPA,debit,-67.65,,,capital one,credit card
-2025-12-06,LEATHERBY'S FAMILY CREAM,debit,-16.79,,,capital one,credit card
-2025-12-06,CAFE ZUPAS SARATOGA SPR,debit,-14.09,,,capital one,credit card
-2025-12-06,MAVERIK #757,debit,-44.07,,,capital one,credit card
-2025-12-07,TMOBILE*PREPD AUTOPY,debit,-27.95,,,capital one,credit card
-2025-12-09,WM SUPERCENTER #1768,debit,-32.69,,,capital one,credit card
-2025-12-09,WAL-MART #1768,debit,-30.8,,,capital one,credit card
-2025-12-09,WAL-MART #1768     SE2,debit,-13.6,,,capital one,credit card
-2025-12-10,Cougar Cash,debit,-25.0,,,goldenwest,checking
-2025-12-10,Home Depot Riverton,debit,-1.4,,,capital one,credit card
-2025-12-10,JIFFY LUBE #3346,debit,-281.31,,,capital one,credit card
-2025-12-10,WM SUPERCENTER #3620,debit,-41.27,,,capital one,credit card
-2025-12-11,UTAH-DMV RENEWAL EXPRE,debit,-164.25,,,capital one,credit card
-2025-12-12,COSTCO WHSE #1118,debit,-172.94,,,capital one,credit card
-2025-12-12,COSTCO WHSE #1118,debit,-21.58,,,capital one,credit card
-2025-12-13,Home Depot Riverton,debit,-1.4,,,capital one,credit card
-2025-12-13,WAL-MART #1768,debit,-75.36,,,capital one,credit card
-2025-12-16,CBT*SVC FEE UTAH CNTY,debit,-1.5,,,capital one,credit card
-2025-12-16,CBT*UTAH COUNTY CLERK,debit,-20.0,,,capital one,credit card
-2025-12-17,CAPITAL ONE AUTOPAY PYMT,credit,2017.33,,,capital one,credit card
-2025-12-17,Home Depot Riverton,debit,-1.4,,,capital one,credit card
-2025-12-19,THE HOME DEPOT #8566,debit,-21.43,,,capital one,credit card
-2025-12-19,Salary/Regular Income from Goldenwest Credit Union,credit,549.0,,,goldenwest,checking
-2025-12-19,Payment to Bear River Mutual,debit,-178.0,,,goldenwest,checking
-2025-12-19,Home Depot Riverton,debit,-1.4,,,capital one,credit card
-2025-12-19,HOBBY LOBBY #  448,debit,-41.48,,,capital one,credit card
-2025-12-20,Home Depot Riverton,debit,-1.4,,,capital one,credit card
-2025-12-20,CHIPOTLE 4505,debit,-20.0,,,capital one,credit card
-2025-12-20,WM SUPERCENTER #3620,debit,-36.85,,,capital one,credit card
-2025-12-20,WAL-MART #1768,debit,-124.59,,,capital one,credit card
-2025-12-20,POST MART,debit,-7.97,,,capital one,credit card
-2025-12-22,MAVERIK #757,debit,-44.86,,,capital one,credit card
-2025-12-22,DOMINO'S 9105,debit,-17.33,,,capital one,credit card
-2025-12-23,CREDIT-TRAVEL REWARD,credit,6.96,,,capital one,credit card
-2025-12-23,CREDIT-TRAVEL REWARD,credit,3.76,,,capital one,credit card
-2025-12-23,CREDIT-TRAVEL REWARD,credit,15.14,,,capital one,credit card
-2025-12-23,CINEMARK 343 ONLINE,debit,-23.4,,,capital one,credit card
-2025-12-27,Home Depot Riverton,debit,-1.4,,,capital one,credit card
-2025-12-27,NOODLES AND COMPANY,debit,-10.95,,,capital one,credit card
-2025-12-29,WM SUPERCENTER #3620,debit,-39.62,,,capital one,credit card
-2025-12-29,CAFE ZUPAS - AM FORK,debit,-14.09,,,capital one,credit card
-2025-12-29,Amazon Deposit,credit,3.9,,,goldenwest,checking
-2025-12-30,HRB ONLINE TAX PRODUCT,debit,-10.0,,,capital one,credit card
-2025-12-31,Deposit Dividend Annual Percentage Yield Earned 5.99% from 12/01/25 through 12/31/25,credit,1.91,,,goldenwest,gold account
-2025-12-31,Rewards from Golden,credit,20.05,,,goldenwest,gold account
-2025-12-31,Deposit Dividend Annual Percentage Yield Earned 2.00% from 12/01/25 through 12/31/25,credit,0.01,,,goldenwest,money market
-2025-12-31,Interest earned,credit,0.47,,,sofi,savings
-2025-12-31,Deposit Dividend Annual Percentage Yield Earned 0.04% from 12/01/25 through 12/31/25,credit,0.02,,,goldenwest,checking
+date,description,type,amount,main_category,sub_category,bank,account,original_description
+2025-01-03,Payroll Deposit,credit,632.09,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-01-07,Byu (Campus Services),debit,-60.0,Health & Services,Education,sofi,savings,BYU
+2025-01-10,Byu Refund,credit,353.0,Income,Refunds,sofi,savings,Brigham Young Un
+2025-01-14,Byu (Campus Services),debit,-158.0,Health & Services,Education,sofi,savings,BYU
+2025-01-17,Payroll Deposit,credit,682.91,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-01-21,Deposit S Kerby Reim For Training Mileage,credit,769.16,Other Income,Other,goldenwest,checking,Deposit S KERBY REIM FOR TRAINING MILEAGE
+2025-01-21,Bear River Insurance,debit,-189.34,Transportation,Insurance,sofi,savings,Bear River
+2025-01-28,Byu (Campus Services),debit,-281.9,Health & Services,Education,sofi,savings,BYU
+2025-01-29,Church Donations,debit,-185.0,Gifts & Donations,Tithing,sofi,savings,Ch JesusChrist
+2025-01-29,Church Donations,debit,-145.0,Gifts & Donations,Tithing,sofi,savings,Ch JesusChrist
+2025-01-31,Interest Earned,credit,15.49,Savings / Investments,Dividends,sofi,savings,Interest earned
+2025-01-31,Interest Earned,credit,0.26,Savings / Investments,Dividends,goldenwest,gold account,Deposit Dividend Annual Percentage Yield Earned 6.21% from 01/01/25 through 01/31/25
+2025-01-31,Interest Earned,credit,0.18,Savings / Investments,Dividends,goldenwest,checking,Deposit Dividend Annual Percentage Yield Earned 0.05% from 01/01/25 through 01/31/25
+2025-01-31,Payroll Deposit,credit,613.56,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-01-31,Walmart Supercenter,debit,-198.23,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-02-02,T-Mobile,debit,-11.16,Housing,Phone,goldenwest,checking,Payment to T-Mobile
+2025-02-11,Costco Wholesale,credit,26.77,Food / Dining,Groceries,goldenwest,checking,Costco
+2025-02-12,Byu (Campus Services),debit,-163.0,Health & Services,Education,sofi,savings,BYU
+2025-02-12,Walmart Supercenter,debit,-244.25,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-02-13,Maverik,debit,-49.24,Transportation,Fuel,goldenwest,checking,Maverik
+2025-02-14,Payroll Deposit,credit,1119.93,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-02-14,Deposit S Kerby Reim For Training Mileage,credit,114.8,Other Income,Other,goldenwest,checking,Deposit S KERBY REIM FOR TRAINING MILEAGE
+2025-02-19,Bear River Insurance,debit,-189.0,Transportation,Insurance,sofi,savings,Bear River
+2025-02-28,Interest Earned,credit,5.62,Savings / Investments,Dividends,sofi,savings,Interest earned
+2025-02-28,Payroll Deposit,credit,627.36,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-02-28,Interest Earned,credit,0.25,Savings / Investments,Dividends,goldenwest,gold account,Deposit Dividend Annual Percentage Yield Earned 6.23% from 02/01/25 through 02/28/25
+2025-02-28,Interest Earned,credit,0.23,Savings / Investments,Dividends,goldenwest,checking,Deposit Dividend Annual Percentage Yield Earned 0.05% from 02/01/25 through 02/28/25
+2025-03-03,Walmart Supercenter,debit,-51.15,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-03-03,Walmart Supercenter,debit,-37.52,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-03-04,Taco Bell,debit,-19.02,Food / Dining,Fast Food,goldenwest,checking,Taco Bell
+2025-03-06,Oak Hills Pharmacy,debit,-23.01,Health & Services,Medical,goldenwest,checking,Withdrawal #XX0480 OAK HILLS PHARMACY PROVO UT Card 4143
+2025-03-07,Payroll Deposit,debit,-101.63,Income,Paychecks,goldenwest,checking,Withdrawal PAYROLL WITHDRAW
+2025-03-07,Ross,debit,-21.3,Shopping,General Retail,goldenwest,checking,Ross Stores
+2025-03-08,T-Mobile,debit,-27.9,Housing,Phone,goldenwest,checking,Payment to T-Mobile
+2025-03-08,Walmart Supercenter,debit,-66.34,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-03-09,Carl'S Jr.,debit,-22.5,General Spending,Other,goldenwest,checking,Carl's Jr.
+2025-03-10,Dick'S Sporting Goods,debit,-32.01,General Spending,Other,goldenwest,checking,Dick's Sporting Goods
+2025-03-10,Barnes & Noble,debit,-52.29,General Spending,Other,goldenwest,checking,Barnes & Noble
+2025-03-10,Bath & Body Works,debit,-46.76,Shopping,Personal Care,goldenwest,checking,Bath & Body Works
+2025-03-10,Victoria'S Secret,debit,-45.32,General Spending,Other,goldenwest,checking,Victoria's Secret
+2025-03-10,Fabulous Freddy'S,debit,-12.83,General Spending,Other,goldenwest,checking,Fabulous Freddy's
+2025-03-10,Jcpenney,debit,-41.35,General Spending,Other,goldenwest,checking,JCPenney
+2025-03-11,Walmart Supercenter,debit,-55.25,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-03-12,Famous Footwear,debit,-98.0,General Spending,Other,goldenwest,checking,Famous Footwear
+2025-03-12,Taco Bell,debit,-21.0,Food / Dining,Fast Food,goldenwest,checking,Taco Bell
+2025-03-13,Downeast,debit,-72.93,General Spending,Other,goldenwest,checking,Downeast
+2025-03-13,Downeast,debit,-27.75,General Spending,Other,goldenwest,checking,Downeast
+2025-03-13,Panda Express,debit,-26.4,Food / Dining,Fast Food,goldenwest,checking,Panda Express
+2025-03-13,Red Cliffs Boba Tea,debit,-9.06,Food / Dining,Fast Food,goldenwest,checking,Withdrawal RED CLIFFS BOBA TEA & CO ST. GEORGE UT Date XX 5812 Card 4143
+2025-03-13,Chick-Fil-A,debit,-13.24,Food / Dining,Fast Food,goldenwest,checking,Chick-fil-A
+2025-03-14,Taco Bell,debit,-13.0,Food / Dining,Fast Food,goldenwest,checking,Taco Bell
+2025-03-14,Payroll Deposit,credit,564.52,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-03-15,Walmart Supercenter,debit,-22.28,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-03-15,Maverik,debit,-49.01,Transportation,Fuel,goldenwest,checking,Maverik
+2025-03-19,Walmart Supercenter,debit,-135.57,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-03-19,Bear River Insurance,debit,-189.0,Transportation,Insurance,sofi,savings,Bear River
+2025-03-23,Taco Bell,debit,-24.0,Food / Dining,Fast Food,goldenwest,checking,Taco Bell
+2025-03-25,Maverik,debit,-48.71,Transportation,Fuel,goldenwest,checking,Maverik
+2025-03-26,Byu (Campus Services),debit,-173.0,Health & Services,Education,sofi,savings,BYU
+2025-03-26,Subway,debit,-15.45,Food / Dining,Fast Food,goldenwest,checking,Subway
+2025-03-27,Oak Hills Pharmacy,debit,-23.01,Health & Services,Medical,goldenwest,checking,Withdrawal #XX9725 OAK HILLS PHARMACY PROVO UT Card 4143
+2025-03-28,Payroll Deposit,credit,588.64,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-03-29,Walmart Supercenter,debit,-106.48,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-03-29,Costco Wholesale,debit,-175.29,Food / Dining,Groceries,goldenwest,checking,Costco
+2025-03-31,Interest Earned,credit,0.33,Savings / Investments,Dividends,goldenwest,gold account,Deposit Dividend Annual Percentage Yield Earned 6.14% from 03/01/25 through 03/31/25
+2025-03-31,Crosspointe Dental,debit,-158.0,Health & Services,Medical,goldenwest,checking,Withdrawal GDP*CROSSPOINTE DENTAL IN OREM UT Date XX 8021 Card 4143
+2025-03-31,Interest Earned,credit,0.24,Savings / Investments,Dividends,goldenwest,checking,Deposit Dividend Annual Percentage Yield Earned 0.05% from 03/01/25 through 03/31/25
+2025-03-31,Interest Earned,credit,0.77,Savings / Investments,Dividends,goldenwest,money market,Deposit Dividend Annual Percentage Yield Earned 1.01% from 03/25/25 through 03/31/25
+2025-03-31,Interest Earned,credit,0.25,Savings / Investments,Dividends,sofi,savings,Interest earned
+2025-04-01,Church Donations,debit,-205.0,Gifts & Donations,Tithing,goldenwest,checking,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX5065 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY
+2025-04-01,Church Donations,debit,-320.0,Gifts & Donations,Tithing,goldenwest,checking,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX5065 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY
+2025-04-01,Walmart Supercenter,debit,-160.31,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-04-04,Hobby Lobby,debit,-26.6,General Spending,Other,goldenwest,checking,Hobby Lobby
+2025-04-04,Ross,debit,-33.96,Shopping,General Retail,goldenwest,checking,Ross Stores
+2025-04-04,Robinhood Investment,debit,-150.0,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-05,Taco Bell,debit,-16.0,Food / Dining,Fast Food,goldenwest,checking,Taco Bell
+2025-04-06,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-06,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-06,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-06,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-06,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-07,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-07,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-07,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-07,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-07,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-07,Maverik,debit,-49.92,Transportation,Fuel,goldenwest,checking,Maverik
+2025-04-08,T-Mobile,debit,-27.9,Housing,Phone,goldenwest,checking,Payment to T-Mobile
+2025-04-08,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-08,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-08,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-08,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-08,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-08,Robinhood Investment,debit,-15.0,Savings / Investments,Investments,goldenwest,money market,Robinhood
+2025-04-08,Robinhood Investment,debit,-500.0,Savings / Investments,Investments,goldenwest,money market,Robinhood
+2025-04-09,Visa Service Fee,debit,-0.37,General Spending,Other,goldenwest,checking,Recurring Withdrawal Card Fee VISA INTERNATIONAL SERVICE ASSESSMENT Date Card 4143
+2025-04-09,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-09,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-09,Ebook Academy,debit,-37.0,Health & Services,Education,goldenwest,checking,Recurring Withdrawal EBOOK ACCADEMY LONDON GB Date XX 5977 Card 4143
+2025-04-09,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-09,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-09,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-10,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-10,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-10,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-10,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-10,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-10,Roxberry Juice Co.,debit,-26.43,General Spending,Other,goldenwest,checking,Roxberry Juice Co.
+2025-04-11,Taco Bell,debit,-15.83,Food / Dining,Fast Food,goldenwest,checking,Taco Bell
+2025-04-11,Robinhood Investment,debit,-40.0,Savings / Investments,Investments,goldenwest,money market,Robinhood
+2025-04-11,Payroll Deposit,credit,533.19,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-04-11,Robinhood Investment,debit,-25.0,Savings / Investments,Investments,goldenwest,money market,Robinhood
+2025-04-11,Robinhood Investment,debit,-324.9,Savings / Investments,Investments,goldenwest,money market,Robinhood
+2025-04-12,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-12,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-12,Home Depot,debit,-70.32,Shopping,Home Improvement,goldenwest,checking,The Home Depot
+2025-04-12,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-12,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-12,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-13,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-13,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-13,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-13,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-13,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-15,Robinhood Investment,debit,-40.0,Savings / Investments,Investments,goldenwest,money market,Robinhood
+2025-04-15,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-15,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-15,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-15,Walmart Supercenter,debit,-15.47,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-04-15,Oak Hills Pharmacy,debit,-23.01,Health & Services,Medical,goldenwest,checking,Withdrawal #XX5691 OAK HILLS PHARMACY PROVO UT Card 4143
+2025-04-15,Life Starfish,debit,-500.0,General Spending,Other,goldenwest,checking,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2000S86U01 CO: LIFE STARFISH NAME: Savanna Kerby
+2025-04-15,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-15,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-17,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-17,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-17,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-17,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-17,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-17,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-17,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-17,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-17,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-17,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-20,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-20,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-20,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-20,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-20,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-21,Bear River Insurance,debit,-189.0,Transportation,Insurance,goldenwest,checking,Payment to Bear River Mutual
+2025-04-21,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,money market,Robinhood
+2025-04-21,Walmart Supercenter,debit,-3.67,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-04-21,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-21,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-21,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-21,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-21,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-22,Life Starfish,debit,-500.0,General Spending,Other,goldenwest,checking,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2000S86U01 CO: LIFE STARFISH NAME: Savanna Kerby
+2025-04-23,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-23,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-23,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-23,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-23,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-24,Life Starfish,debit,-22.0,General Spending,Other,goldenwest,checking,Withdrawal Overdrawn ACH In the amount $500.00 LIFE STARFISH
+2025-04-25,Payroll Deposit,credit,661.69,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-04-26,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-26,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-26,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-26,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-27,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-27,Google Services,debit,-21.48,General Spending,Other,goldenwest,checking,Recurring Withdrawal #XX8257 GOOGLE *Dancefitme Fun XX-3987 CA Card 4143
+2025-04-28,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-28,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-28,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-28,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-28,Robinhood Investment,debit,-1.01,Savings / Investments,Investments,goldenwest,checking,"Robinhood Securities, Llc"
+2025-04-28,Life Starfish,debit,-500.0,General Spending,Other,goldenwest,checking,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX0001S86U01 CO: LIFE STARFISH NAME: Savanna Kerby
+2025-04-30,Interest Earned,credit,0.01,Savings / Investments,Dividends,sofi,savings,Interest earned
+2025-04-30,Interest Earned,credit,2.62,Savings / Investments,Dividends,goldenwest,money market,Deposit Dividend Annual Percentage Yield Earned 1.00% from 04/01/25 through 04/30/25
+2025-04-30,Interest Earned,credit,0.05,Savings / Investments,Dividends,goldenwest,checking,Deposit Dividend Annual Percentage Yield Earned 0.05% from 04/01/25 through 04/30/25
+2025-04-30,Interest Earned,credit,0.55,Savings / Investments,Dividends,goldenwest,gold account,Deposit Dividend Annual Percentage Yield Earned 6.16% from 04/01/25 through 04/30/25
+2025-05-01,Crosspointe Dental,debit,-360.0,Health & Services,Medical,goldenwest,checking,Withdrawal GDP*CROSSPOINTE DENTAL IN OREM UT Date XX 8021 Card 4143
+2025-05-04,Jacksons Food Stores,debit,-11.31,General Spending,Other,goldenwest,checking,Jacksons Food Stores
+2025-05-05,Byu (Campus Services),debit,-158.0,Health & Services,Education,goldenwest,checking,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE"
+2025-05-05,Cold Stone Creamery,debit,-12.97,Food / Dining,Fast Food,goldenwest,checking,Cold Stone Creamery
+2025-05-07,Costco Wholesale,debit,-92.41,Food / Dining,Groceries,goldenwest,checking,Costco
+2025-05-07,Costco Wholesale,debit,-7.53,Food / Dining,Groceries,goldenwest,checking,Costco
+2025-05-07,Costco Wholesale,debit,-52.98,Food / Dining,Groceries,goldenwest,checking,Costco Gas Stations
+2025-05-08,T-Mobile,debit,-27.9,Housing,Phone,goldenwest,checking,Payment to T-Mobile
+2025-05-09,Payroll Deposit,credit,643.93,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-05-10,Deposit Promo Deposit Youth Engagement Smart Money,credit,100.0,Other Income,Other,goldenwest,gold account,Deposit Promo Deposit Youth Engagement Smart Money
+2025-05-15,Life Starfish,debit,-400.0,General Spending,Other,goldenwest,checking,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX4128S86U01 CO: LIFE STARFISH NAME: Savanna Kerby
+2025-05-15,Sq Chromis Bakery Square Ut Card,debit,-6.0,General Spending,Other,goldenwest,checking,Withdrawal #XX4240 SQ *CHROMIS BAKERY SQUARE OREM UT Card 4143
+2025-05-15,Shoeman Enterprise One Date Card,debit,-16.12,General Spending,Other,goldenwest,checking,Withdrawal SHOEMAN ENTERPRISE ONE PROVO UT Date XX 5970 Card 4143
+2025-05-16,Bank Withdrawal,debit,-40.0,General Spending,Other,goldenwest,checking,Withdrawal
+2025-05-19,Bear River Insurance,debit,-189.0,Transportation,Insurance,goldenwest,checking,Payment to Bear River Mutual
+2025-05-19,Oak Hills Pharmacy,debit,-23.01,Health & Services,Medical,goldenwest,checking,Withdrawal #XX0720 OAK HILLS PHARMACY PROVO UT Card 4143
+2025-05-21,Life Starfish,debit,-200.0,General Spending,Other,goldenwest,checking,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2001S86U01 CO: LIFE STARFISH NAME: Savanna Kerby
+2025-05-23,Payroll Deposit,credit,718.78,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-05-25,Tstbrookers - Provo - J Date // Card,debit,-13.55,General Spending,Other,goldenwest,checking,Withdrawal TST*BROOKERS - PROVO - J Provo UT Date 05/24/25 XX 5814 Card 4143
+2025-05-26,West Jordan Ut Card,debit,-52.49,General Spending,Other,goldenwest,checking,Withdrawal #XX x6072 WEST JORDAN UT Card 4143
+2025-05-27,Fandango/Vudu,debit,-16.11,Entertainment,Streaming/Movies,goldenwest,checking,Fandango At Home
+2025-05-28,Ross,debit,-89.11,Shopping,General Retail,goldenwest,checking,Ross Stores
+2025-05-28,Life Starfish,debit,-400.0,General Spending,Other,goldenwest,checking,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2000S86U01 CO: LIFE STARFISH NAME: Savanna Kerby
+2025-05-29,Walmart Supercenter,debit,-125.64,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-05-29,Ouelessebougou Alliance,debit,-5.0,General Spending,Other,goldenwest,checking,Withdrawal OUELESSEBOUGOUALLIANCE XX6254 UT Date 05/29/25 XX 8398 Card 4143
+2025-05-29,Popbite Bakery,debit,-8.52,Food / Dining,Fast Food,goldenwest,checking,Withdrawal #XX3405 SQ *POPBITE SQUARE PROVO UT Card 4143
+2025-05-29,"Pphansen Workshop, Llc Lindon Ut Date Card",debit,-8.6,General Spending,Other,goldenwest,checking,"Withdrawal PP*HANSEN WORKSHOP, LLC LINDON UT Date XX 5999 Card 4143"
+2025-05-29,Volker'S Bakery,debit,-12.75,General Spending,Other,goldenwest,checking,Volker's Bakery
+2025-05-29,Taco Bell,debit,-17.3,Food / Dining,Fast Food,goldenwest,checking,Taco Bell
+2025-05-31,Interest Earned,credit,0.01,Savings / Investments,Dividends,sofi,savings,Interest earned
+2025-05-31,Interest Earned,credit,1.15,Savings / Investments,Dividends,goldenwest,gold account,Deposit Dividend Annual Percentage Yield Earned 6.15% from 05/01/25 through 05/31/25
+2025-05-31,Interest Earned,credit,1.42,Savings / Investments,Dividends,goldenwest,money market,Deposit Dividend Annual Percentage Yield Earned 1.01% from 05/01/25 through 05/31/25
+2025-05-31,T-Mobile,debit,-11.16,Housing,Phone,goldenwest,checking,Payment to T-Mobile
+2025-05-31,Hobby Lobby,debit,-126.63,General Spending,Other,goldenwest,checking,Hobby Lobby
+2025-05-31,Interest Earned,credit,0.04,Savings / Investments,Dividends,goldenwest,checking,Deposit Dividend Annual Percentage Yield Earned 0.05% from 05/01/25 through 05/31/25
+2025-05-31,Walgreens,debit,-114.37,General Spending,Other,goldenwest,checking,Walgreens
+2025-06-04,Byu (Campus Services),debit,-158.0,Health & Services,Education,goldenwest,checking,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE"
+2025-06-05,Costco Wholesale,debit,-124.5,Food / Dining,Groceries,goldenwest,checking,Costco
+2025-06-05,Costco Wholesale,debit,-50.2,Food / Dining,Groceries,goldenwest,checking,Costco Gas Stations
+2025-06-05,Hobby Lobby,debit,-49.01,General Spending,Other,goldenwest,checking,Hobby Lobby
+2025-06-06,Hobby Lobby,debit,-11.25,General Spending,Other,goldenwest,checking,Hobby Lobby
+2025-06-06,Payroll Deposit,credit,766.59,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-06-08,T-Mobile,debit,-27.9,Housing,Phone,goldenwest,checking,Payment to T-Mobile
+2025-06-14,Walmart Supercenter,debit,-71.31,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-06-16,Oak Hills Pharmacy,debit,-23.01,Health & Services,Medical,goldenwest,checking,Withdrawal #XX9073 OAK HILLS PHARMACY PROVO UT Card 4143
+2025-06-18,Byu (Campus Services),debit,-170.0,Health & Services,Education,goldenwest,checking,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE"
+2025-06-19,Maurices,debit,-9.67,General Spending,Other,goldenwest,checking,Maurices
+2025-06-20,Payroll Deposit,credit,736.01,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-06-20,Bear River Insurance,debit,-188.0,Transportation,Insurance,goldenwest,checking,Payment to Bear River Mutual
+2025-06-20,Mcdonald'S,debit,-20.5,Food / Dining,Fast Food,goldenwest,checking,McDonald's
+2025-06-23,Walmart Supercenter,debit,-14.42,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-06-24,Bank Withdrawal,debit,-0.02,General Spending,Other,goldenwest,checking,Withdrawal
+2025-06-30,Interest Earned,credit,0.87,Savings / Investments,Dividends,goldenwest,money market,Deposit Dividend Annual Percentage Yield Earned 1.00% from 06/01/25 through 06/30/25
+2025-06-30,Interest Earned,credit,0.04,Savings / Investments,Dividends,goldenwest,checking,Deposit Dividend Annual Percentage Yield Earned 0.05% from 06/01/25 through 06/30/25
+2025-06-30,Interest Earned,credit,1.29,Savings / Investments,Dividends,goldenwest,gold account,Deposit Dividend Annual Percentage Yield Earned 6.02% from 06/01/25 through 06/30/25
+2025-06-30,Interest Earned,credit,0.01,Savings / Investments,Dividends,sofi,savings,Interest earned
+2025-07-03,Byu (Campus Services),debit,-5.08,Health & Services,Education,goldenwest,checking,Byu Creamery
+2025-07-03,Byu (Campus Services),debit,-158.0,Health & Services,Education,goldenwest,checking,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE"
+2025-07-03,Payroll Deposit,credit,808.4,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-07-05,Lava Hot Springs,debit,-7.75,Entertainment,Recreation,goldenwest,checking,Withdrawal #XX7883 SQ *PORTNEUF RAPIDS TUBE SQUARE LAVA HOT SPRI ID Card 4143
+2025-07-07,Life Starfish,debit,-300.0,General Spending,Other,goldenwest,checking,Withdrawal ACH LIFE STARFISH TYPE: ID: 9xx0086U01 DATA: 2XX2000S86U01 CO: LIFE STARFISH NAME: Savanna Kerby
+2025-07-08,Nielsen'S Frozen Custard,debit,-7.57,General Spending,Other,goldenwest,checking,Nielsen's Frozen Custard
+2025-07-08,T-Mobile,debit,-27.95,Housing,Phone,goldenwest,checking,Payment to T-Mobile
+2025-07-10,Walmart Supercenter,debit,-187.3,Food / Dining,Groceries,capital one,credit card,WALMART.COM 8009256278
+2025-07-10,Walmart Supercenter,debit,-32.04,Food / Dining,Groceries,goldenwest,checking,Walmart
+2025-07-11,Costco Wholesale,debit,-55.49,Food / Dining,Groceries,goldenwest,checking,Costco Gas Stations
+2025-07-11,Costco Wholesale,debit,-74.28,Food / Dining,Groceries,goldenwest,checking,Costco
+2025-07-11,Capital One Member Fee,debit,-395.0,General Spending,Other,capital one,credit card,CAPITAL ONE MEMBER FEE
+2025-07-11,Cheesecake,debit,-104.44,General Spending,Other,capital one,credit card,CHEESECAKE OREM
+2025-07-12,Lagoon Rfm,debit,-34.3,General Spending,Other,capital one,credit card,LAGOON  RFM
+2025-07-12,Lagoon Tic-Ag,debit,-20.0,General Spending,Other,capital one,credit card,LAGOON TIC-AG
+2025-07-12,Lagoon Rfm,debit,-15.0,General Spending,Other,capital one,credit card,LAGOON  RFM
+2025-07-12,Lagoon Rfm,debit,-5.0,General Spending,Other,capital one,credit card,LAGOON  RFM
+2025-07-12,Maverik,debit,-8.86,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-07-14,Mcdonald'S,debit,-12.63,Food / Dining,Fast Food,capital one,credit card,MCDONALD'S F13504
+2025-07-14,Oak Hills Pharmacy,debit,-23.01,Health & Services,Medical,capital one,credit card,OAK HILLS PHARMACY
+2025-07-14,Maverik,debit,-3.96,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-07-16,Slc Airport Parking,debit,-10.0,General Spending,Other,capital one,credit card,SLC AIRPORT PARKING
+2025-07-17,Yogurtland Ut,debit,-6.1,General Spending,Other,capital one,credit card,YOGURTLAND UT 102
+2025-07-17,Salt Lake City Airport Parking,debit,-2.0,General Spending,Other,goldenwest,checking,Salt Lake City Airport Parking
+2025-07-18,Home Depot,debit,-2.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-07-18,Mcdonald'S,debit,-19.52,Food / Dining,Fast Food,capital one,credit card,MCDONALD'S F13504
+2025-07-18,Payroll Deposit,credit,761.81,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-07-19,Home Depot,debit,-2.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-07-19,Walmart Supercenter,debit,-45.17,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #3620
+2025-07-20,Walmart Supercenter,debit,-57.21,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #1768
+2025-07-21,Walmart Supercenter,debit,-35.01,Food / Dining,Groceries,capital one,credit card,WAL-MART #1768
+2025-07-21,Bear River Insurance,debit,-186.38,Transportation,Insurance,goldenwest,checking,Payment to Bear River Mutual
+2025-07-21,Costco Wholesale,debit,-127.7,Food / Dining,Groceries,capital one,credit card,COSTCO WHSE #1118
+2025-07-21,Costco Wholesale,debit,-45.68,Food / Dining,Groceries,capital one,credit card,COSTCO GAS #1118
+2025-07-21,Walmart Supercenter,debit,-86.24,Food / Dining,Groceries,capital one,credit card,WALMART.COM 8009256278
+2025-07-22,Maverik,debit,-4.6,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-07-22,Py Johnny Rockets,debit,-8.71,General Spending,Other,capital one,credit card,PY *JOHNNY ROCKETS  604
+2025-07-24,Ut Hunt/Fish Lic. Onli,debit,-39.86,General Spending,Other,capital one,credit card,UT HUNT/FISH LIC. ONLI
+2025-07-26,Walmart Supercenter,debit,-162.4,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #1768
+2025-07-27,Google Services,debit,-30.22,General Spending,Other,capital one,credit card,GOOGLE *minimalist pho
+2025-07-28,Maverik,debit,-4.6,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-07-30,T-Mobile,debit,-11.18,Housing,Phone,capital one,credit card,TMOBILE*PREPAID WEB
+2025-07-31,Interest Earned,credit,0.01,Savings / Investments,Dividends,sofi,savings,Interest earned
+2025-07-31,Home Depot,debit,-2.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-07-31,Costco Wholesale,debit,-51.04,Food / Dining,Groceries,capital one,credit card,COSTCO GAS #1118
+2025-07-31,Home Depot,debit,-2.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-07-31,Interest Earned,credit,1.36,Savings / Investments,Dividends,goldenwest,gold account,Deposit Dividend Annual Percentage Yield Earned 5.99% from 07/01/25 through 07/31/25
+2025-07-31,Mcdonald'S,debit,-14.14,Food / Dining,Fast Food,capital one,credit card,MCDONALD'S F13504
+2025-07-31,Interest Earned,credit,0.07,Savings / Investments,Dividends,goldenwest,checking,Deposit Dividend Annual Percentage Yield Earned 0.05% from 07/01/25 through 07/31/25
+2025-07-31,Payroll Deposit,credit,749.01,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-07-31,Interest Earned,credit,0.9,Savings / Investments,Dividends,goldenwest,money market,Deposit Dividend Annual Percentage Yield Earned 1.00% from 07/01/25 through 07/31/25
+2025-08-01,Cinemark Boxcon,debit,-4.18,General Spending,Other,capital one,credit card,CINEMARK 1041 BOXCON
+2025-08-01,Chevron,debit,-54.47,Transportation,Fuel,capital one,credit card,CHEVRON 0209539
+2025-08-01,Provo City Cntr Temple,debit,-3.0,General Spending,Other,capital one,credit card,PROVO CITY CNTR TEMPLE
+2025-08-01,Home Depot,debit,-2.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-08-01,Cafe Zupas,debit,-14.94,Food / Dining,Restaurants/Dining,capital one,credit card,CAFE ZUPAS - LEHI
+2025-08-01,Maverik,debit,-4.6,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-08-04,Home Depot,debit,-2.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-08-04,Utah Career Center,debit,-1.3,General Spending,Other,capital one,credit card,Utah Career Center
+2025-08-04,Maverik,debit,-5.78,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-08-05,Walmart Supercenter,debit,-98.08,Food / Dining,Groceries,capital one,credit card,WAL-MART #1768
+2025-08-06,Byu Refund,debit,-238.65,Income,Refunds,capital one,credit card,BRIGHAM YOUNG UNIV WEB
+2025-08-07,T-Mobile,debit,-27.95,Housing,Phone,capital one,credit card,TMOBILE*PREPD AUTOPY
+2025-08-07,"Deposit Transfer From Cummard,Cooper Hare",credit,1.0,Other Income,Other,goldenwest,checking,"Deposit Transfer From CUMMARD,COOPER XX Share 0090"
+2025-08-09,Fye University Place -,debit,-107.43,General Spending,Other,capital one,credit card,FYE UNIVERSITY PLACE -
+2025-08-09,Texas Roadhouse,debit,-65.26,General Spending,Other,capital one,credit card,TEXAS ROADHOUSE #2284
+2025-08-12,Costco Wholesale,debit,-46.08,Food / Dining,Groceries,capital one,credit card,COSTCO GAS #1118
+2025-08-12,Costco Wholesale,debit,-188.8,Food / Dining,Groceries,capital one,credit card,COSTCO WHSE #1118
+2025-08-12,Home Depot,debit,-1.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-08-12,Walmart Supercenter,debit,-47.09,Food / Dining,Groceries,capital one,credit card,WAL-MART 3620 GAS  SE2
+2025-08-13,Home Depot,debit,-1.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-08-13,Walmart Supercenter,debit,-147.24,Food / Dining,Groceries,capital one,credit card,WAL-MART #1768
+2025-08-14,Panda Express,debit,-15.51,Food / Dining,Fast Food,capital one,credit card,PANDA EXPRESS #1588
+2025-08-14,Leatherby'S Family Cream,debit,-23.28,General Spending,Other,capital one,credit card,LEATHERBY'S FAMILY CREAM
+2025-08-15,Payroll Deposit,credit,793.46,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-08-16,Cotflt,debit,-1100.11,General Spending,Other,capital one,credit card,COT*FLT
+2025-08-19,Bear River Insurance,debit,-179.0,Transportation,Insurance,goldenwest,checking,Payment to Bear River Mutual
+2025-08-19,Home Depot,debit,-2.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-08-20,Taco Bell,debit,-21.0,Food / Dining,Fast Food,capital one,credit card,TACO BELL 030457
+2025-08-20,Home Depot,debit,-2.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-08-21,Cbtutah County Clerk,debit,-45.0,General Spending,Other,capital one,credit card,CBT*UTAH COUNTY CLERK
+2025-08-21,Mcdonald'S,debit,-13.22,Food / Dining,Fast Food,capital one,credit card,MCDONALD'S F13504
+2025-08-21,Walmart Supercenter,debit,-46.35,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #3620
+2025-08-21,Cbtsvc Fee Utah Cnty,debit,-1.5,General Spending,Other,capital one,credit card,CBT*SVC FEE UTAH CNTY
+2025-08-22,Tricked Out Accessories U,debit,-85.81,General Spending,Other,capital one,credit card,TRICKED OUT ACCESSORIES U
+2025-08-22,Maverik,debit,-4.6,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-08-22,Sq Tie One On,debit,-52.63,General Spending,Other,capital one,credit card,SQ *TIE ONE ON
+2025-08-23,Walmart Supercenter,debit,-116.33,Food / Dining,Groceries,capital one,credit card,WAL-MART #1768
+2025-08-25,Utah Career Center,debit,-1.65,General Spending,Other,capital one,credit card,Utah Career Center
+2025-08-27,Church Donations,debit,-248.0,Gifts & Donations,Tithing,goldenwest,checking,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1370 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY
+2025-08-27,Costco Wholesale,debit,-147.37,Food / Dining,Groceries,capital one,credit card,COSTCO WHSE #1118
+2025-08-27,Sq Winters Custom Hair D,debit,-66.0,General Spending,Other,capital one,credit card,SQ *WINTERS CUSTOM HAIR D
+2025-08-27,Costco Wholesale,debit,-54.95,Food / Dining,Groceries,capital one,credit card,COSTCO GAS #1118
+2025-08-28,Church Donations,debit,-167.0,Gifts & Donations,Tithing,goldenwest,checking,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1304 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY
+2025-08-28,Church Donations,debit,-131.0,Gifts & Donations,Tithing,goldenwest,checking,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1326 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY
+2025-08-29,Byu (Campus Services),debit,-202.98,Health & Services,Education,capital one,credit card,BYU STORE
+2025-08-29,Church Donations,debit,-152.0,Gifts & Donations,Tithing,goldenwest,checking,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1573 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY
+2025-08-29,Church Donations,debit,-135.0,Gifts & Donations,Tithing,goldenwest,checking,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX1573 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY
+2025-08-29,Payroll Deposit,credit,781.92,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-08-31,Interest Earned,credit,0.01,Savings / Investments,Dividends,sofi,savings,Interest earned
+2025-08-31,Walmart Supercenter,debit,-48.34,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #3620
+2025-08-31,Interest Earned,credit,0.44,Savings / Investments,Dividends,goldenwest,money market,Deposit Dividend Annual Percentage Yield Earned 1.02% from 08/01/25 through 08/31/25
+2025-08-31,Interest Earned,credit,0.12,Savings / Investments,Dividends,goldenwest,checking,Deposit Dividend Annual Percentage Yield Earned 0.05% from 08/01/25 through 08/31/25
+2025-08-31,Interest Earned,credit,1.37,Savings / Investments,Dividends,goldenwest,gold account,Deposit Dividend Annual Percentage Yield Earned 5.99% from 08/01/25 through 08/31/25
+2025-08-31,Credit-Travel Reward,credit,823.08,Income,CC Rewards,capital one,credit card,CREDIT-TRAVEL REWARD
+2025-09-01,Maverik,debit,-3.96,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-09-02,Walmart Supercenter,debit,-45.13,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #1768
+2025-09-03,Byu Refund,debit,-60.0,Income,Refunds,capital one,credit card,BRIGHAM YOUNG UNIV WEB
+2025-09-03,Byu Refund,debit,-42.98,Income,Refunds,capital one,credit card,BRIGHAM YOUNG UNIVERSI
+2025-09-04,Byu (Campus Services),debit,-10.0,Health & Services,Education,capital one,credit card,BYU STUDENT ID CENTER
+2025-09-04,Home Depot,debit,-32.58,Shopping,Home Improvement,capital one,credit card,THE HOME DEPOT #8566
+2025-09-05,Byu Refund,credit,254.0,Income,Refunds,sofi,savings,BYU Refund
+2025-09-05,Bank Withdrawal,debit,-15.0,General Spending,Other,goldenwest,checking,Withdrawal
+2025-09-06,Costco Wholesale,debit,-45.07,Food / Dining,Groceries,capital one,credit card,COSTCO GAS #1118
+2025-09-06,Byu Refund,credit,27.99,Income,Refunds,goldenwest,checking,Withdrawal Adjustment Credit Voucher BRIGHAM YOUNG UNIVERSI PROVO UT Date XX 5942 Card 4143
+2025-09-07,T-Mobile,debit,-27.95,Housing,Phone,capital one,credit card,TMOBILE*PREPD AUTOPY
+2025-09-09,Byu Refund,debit,-2.89,Income,Refunds,capital one,credit card,BRIGHAM YOUNG UNIVERSI
+2025-09-10,Domino'S Pizza,debit,-36.83,Food / Dining,Fast Food,capital one,credit card,DOMINO'S 9105
+2025-09-10,Walmart Supercenter,debit,-48.47,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #3620
+2025-09-10,Byu Refund,credit,46.99,Income,Refunds,goldenwest,checking,Withdrawal Adjustment Credit Voucher BRIGHAM YOUNG UNIVERSI PROVO UT Date XX 5942 Card 4143
+2025-09-11,Byu (Campus Services),debit,-172.0,Health & Services,Education,goldenwest,checking,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE"
+2025-09-12,Payroll Deposit,credit,757.04,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-09-12,Amazon,debit,-16.11,Shopping,General Retail,capital one,credit card,AMAZON MKTPL*S63R36W93
+2025-09-15,Walmart Supercenter,debit,-43.2,Food / Dining,Groceries,capital one,credit card,WAL-MART #1768
+2025-09-15,Mcdonald'S,debit,-20.01,Food / Dining,Fast Food,capital one,credit card,MCDONALD'S F13504
+2025-09-15,Mcdonald'S,debit,-3.3,Food / Dining,Fast Food,capital one,credit card,MCDONALD'S F13504
+2025-09-15,Milk & Cookies,debit,-5.95,General Spending,Other,capital one,credit card,MILK & COOKIES
+2025-09-15,Byu (Campus Services),debit,-4.0,Health & Services,Education,capital one,credit card,BYU WSC COUGAR EXPRESS
+2025-09-16,Church Donations,debit,-173.0,Gifts & Donations,Tithing,goldenwest,checking,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX7143 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY
+2025-09-16,Sp The Charlie Kirk Sh,debit,-44.85,General Spending,Other,capital one,credit card,SP THE CHARLIE KIRK SH
+2025-09-17,Costco Wholesale,debit,-146.77,Food / Dining,Groceries,capital one,credit card,COSTCO WHSE #1118
+2025-09-17,Costco Wholesale,debit,-51.42,Food / Dining,Groceries,capital one,credit card,COSTCO GAS #1118
+2025-09-18,Taco Bell,debit,-25.87,Food / Dining,Fast Food,capital one,credit card,TACO BELL 030725
+2025-09-19,Bear River Insurance,debit,-179.0,Transportation,Insurance,goldenwest,checking,Payment to Bear River Mutual
+2025-09-19,Byu (Campus Services),debit,-25.0,Health & Services,Education,goldenwest,checking,Cougar Cash
+2025-09-19,Nielsens Frozen Custar,debit,-8.87,General Spending,Other,capital one,credit card,NIELSENS FROZEN CUSTAR
+2025-09-20,Maverik,debit,-50.97,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-09-22,Crosspointe Dental,debit,-85.0,Health & Services,Medical,capital one,credit card,GDP*CROSSPOINTE DENTAL IN
+2025-09-22,Maverik,debit,-1.82,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-09-23,Salem High School,debit,-36.4,General Spending,Other,goldenwest,checking,Salem High School
+2025-09-24,Taco Bell,debit,-16.76,Food / Dining,Fast Food,capital one,credit card,TACO BELL 025393
+2025-09-26,Byu (Campus Services),debit,-25.0,Health & Services,Education,goldenwest,checking,Cougar Cash
+2025-09-26,Payroll Deposit,credit,623.58,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-09-27,Walmart Supercenter,debit,-98.49,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #1768
+2025-09-29,Maverik,debit,-16.57,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-09-30,Interest Earned,credit,0.71,Savings / Investments,Dividends,sofi,savings,Interest earned
+2025-09-30,Interest Earned,credit,0.07,Savings / Investments,Dividends,goldenwest,checking,Deposit Dividend Annual Percentage Yield Earned 0.05% from 09/01/25 through 09/30/25
+2025-09-30,Interest Earned,credit,1.34,Savings / Investments,Dividends,goldenwest,gold account,Deposit Dividend Annual Percentage Yield Earned 5.99% from 09/01/25 through 09/30/25
+2025-09-30,Interest Earned,credit,0.05,Savings / Investments,Dividends,goldenwest,money market,Deposit Dividend Annual Percentage Yield Earned 1.00% from 09/01/25 through 09/30/25
+2025-10-01,Byu (Campus Services),debit,-202.0,Health & Services,Education,goldenwest,checking,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE"
+2025-10-01,Byu (Campus Services),debit,-3.7,Health & Services,Education,capital one,credit card,BYU LIBRARY CAFE
+2025-10-02,Maverik,debit,-55.89,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-10-02,Golden Corral,debit,-50.42,General Spending,Other,capital one,credit card,GOLDEN CORRAL 0741
+2025-10-02,Crosspointe Dental,debit,-105.0,Health & Services,Medical,capital one,credit card,GDP*CROSSPOINTE DENTAL IN
+2025-10-02,Walmart Supercenter,debit,-81.56,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #1768
+2025-10-03,Dmv,debit,-93.5,Transportation,Maintenance,capital one,credit card,UTAH-DMV RENEWAL EXPRE
+2025-10-03,Costco Wholesale,debit,-55.45,Food / Dining,Groceries,capital one,credit card,COSTCO GAS #1118
+2025-10-03,Byu (Campus Services),debit,-25.0,Health & Services,Education,goldenwest,checking,Cougar Cash
+2025-10-04,Del Taco,debit,-24.55,General Spending,Other,capital one,credit card,DEL TACO #1099
+2025-10-06,Walmart Supercenter,debit,-237.97,Food / Dining,Groceries,capital one,credit card,WAL-MART #1768
+2025-10-07,T-Mobile,debit,-27.95,Housing,Phone,capital one,credit card,TMOBILE*PREPD AUTOPY
+2025-10-08,Fandango/Vudu,debit,-10.73,Entertainment,Streaming/Movies,goldenwest,checking,Fandango At Home
+2025-10-10,Byu (Campus Services),debit,-7.52,Health & Services,Education,capital one,credit card,BYU LIBRARY CAFE
+2025-10-10,Payroll Deposit,credit,607.08,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-10-10,Papa John'S,debit,-25.14,General Spending,Other,capital one,credit card,PAPA JOHN'S #1283
+2025-10-14,Costco Wholesale,debit,-55.87,Food / Dining,Groceries,capital one,credit card,COSTCO GAS #1118
+2025-10-14,Walmart Supercenter,debit,-41.17,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #1768
+2025-10-14,Steam (Gaming),debit,-3.21,Entertainment,Gaming,capital one,credit card,STEAMGAMES.COM 4259522985
+2025-10-16,Byu (Campus Services),debit,-25.0,Health & Services,Education,goldenwest,checking,"Withdrawal ACH BYU TYPE: CougarCash ID: ******7280 CO: BYU NAME: KERBY, SAVANNA BROOKE"
+2025-10-16,Mcdonald'S,debit,-14.75,Food / Dining,Fast Food,capital one,credit card,MCDONALD'S F13504
+2025-10-18,Walmart Supercenter,debit,-134.67,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #1768
+2025-10-18,Deposit Promo Deposit Youth Engagement Promo Year Reward,credit,100.0,Other Income,Other,goldenwest,gold account,Deposit Promo Deposit Youth Engagement Promo 1 Year Reward
+2025-10-20,Bear River Insurance,debit,-179.0,Transportation,Insurance,goldenwest,checking,Withdrawal ACH Bear River TYPE: Ins. Paymt ID: ******4580 DATA: Insurance CO: Bear River
+2025-10-20,Maverik,debit,-53.86,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-10-21,Byu (Campus Services),debit,-25.0,Health & Services,Education,goldenwest,checking,"Withdrawal ACH BYU TYPE: CougarCash ID: ******7280 CO: BYU NAME: KERBY, SAVANNA BROOKE"
+2025-10-22,Credit-Travel Reward,credit,41.27,Income,CC Rewards,capital one,credit card,CREDIT-TRAVEL REWARD
+2025-10-23,Byu (Campus Services),debit,-5.14,Health & Services,Education,capital one,credit card,BYU CREAMERY ON NINTH
+2025-10-24,Payroll Deposit,credit,640.37,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-10-24,Maverik,debit,-55.37,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-10-24,Mcdonald'S,debit,-5.18,Food / Dining,Fast Food,capital one,credit card,MCDONALD'S F32093
+2025-10-24,Sp Shopcornbellys,debit,-73.85,General Spending,Other,capital one,credit card,SP SHOPCORNBELLYS
+2025-10-24,Home Depot,debit,-1.05,Shopping,Home Improvement,capital one,credit card,THE HOME DEPOT #8566
+2025-10-25,Walmart Supercenter,debit,-165.62,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #1768
+2025-10-25,Sp Shopcornbellys,debit,-15.16,General Spending,Other,capital one,credit card,SP SHOPCORNBELLYS
+2025-10-25,Ross,debit,-67.36,Shopping,General Retail,capital one,credit card,ROSS STORES #751
+2025-10-25,Springville Di,debit,-52.25,General Spending,Other,capital one,credit card,SPRINGVILLE DI
+2025-10-26,Jiffy Lube,debit,-470.51,Transportation,Maintenance,capital one,credit card,JIFFY LUBE #2892
+2025-10-28,Byu (Campus Services),debit,-25.0,Health & Services,Education,goldenwest,checking,Cougar Cash
+2025-10-29,Zephyr Lot,debit,-12.0,General Spending,Other,capital one,credit card,ZEPHYR LOT
+2025-10-29,Maverik,debit,-3.95,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-10-29,Walmart Supercenter,debit,-39.39,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #3620
+2025-10-30,We Geek Together,debit,-30.03,General Spending,Other,capital one,credit card,WE GEEK TOGETHER
+2025-10-30,Byu (Campus Services),debit,-177.0,Health & Services,Education,goldenwest,checking,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE"
+2025-10-31,Spirit Halloween,debit,-19.0,General Spending,Other,capital one,credit card,SPIRIT HALLOWEEN 60356
+2025-10-31,Interest Earned,credit,1.62,Savings / Investments,Dividends,goldenwest,gold account,Deposit Dividend Annual Percentage Yield Earned 5.98% from 10/01/25 through 10/31/25
+2025-10-31,Byu (Campus Services),debit,-25.0,Health & Services,Education,goldenwest,checking,Cougar Cash
+2025-10-31,Interest Earned,credit,0.84,Savings / Investments,Dividends,sofi,savings,Interest earned
+2025-10-31,Interest Earned,credit,0.05,Savings / Investments,Dividends,goldenwest,money market,Deposit Dividend Annual Percentage Yield Earned 0.97% from 10/01/25 through 10/31/25
+2025-10-31,Taco Bell,debit,-15.03,Food / Dining,Fast Food,capital one,credit card,TACO BELL 025393
+2025-10-31,Interest Earned,credit,0.04,Savings / Investments,Dividends,goldenwest,checking,Deposit Dividend Annual Percentage Yield Earned 0.05% from 10/01/25 through 10/31/25
+2025-11-01,Walmart Supercenter,debit,-89.82,Food / Dining,Groceries,capital one,credit card,WAL-MART #1768
+2025-11-01,Fandango/Vudu,debit,-5.37,Entertainment,Streaming/Movies,capital one,credit card,Google Fandango at Ho
+2025-11-01,Papa John'S,debit,-39.8,General Spending,Other,capital one,credit card,PAPA JOHN'S #1283
+2025-11-02,Espn,debit,-32.21,General Spending,Other,capital one,credit card,ESPN
+2025-11-03,Walmart Supercenter,debit,-117.38,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #1768
+2025-11-03,Maverik,debit,-3.95,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-11-04,Taco Bell,debit,-25.87,Food / Dining,Fast Food,capital one,credit card,TACO BELL 033174
+2025-11-05,Maverik,debit,-52.02,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-11-05,Byu (Campus Services),debit,-25.0,Health & Services,Education,goldenwest,checking,Cougar Cash
+2025-11-07,T-Mobile,debit,-27.95,Housing,Phone,capital one,credit card,TMOBILE*PREPD AUTOPY
+2025-11-07,Payroll Deposit,credit,626.51,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-11-07,Mcdonald'S,debit,-19.2,Food / Dining,Fast Food,capital one,credit card,MCDONALD'S F13504
+2025-11-08,Walmart Supercenter,debit,-49.47,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #3620
+2025-11-08,Taco Bell,debit,-18.15,Food / Dining,Fast Food,capital one,credit card,TACO BELL 030457
+2025-11-11,Cothtl,debit,-662.69,General Spending,Other,capital one,credit card,COT*HTL
+2025-11-11,Mcdonald'S,debit,-9.11,Food / Dining,Fast Food,capital one,credit card,MCDONALD'S F13504
+2025-11-11,Cothtl,debit,-111.22,General Spending,Other,capital one,credit card,COT*HTL
+2025-11-12,Costco Wholesale,debit,-262.89,Food / Dining,Groceries,capital one,credit card,COSTCO WHSE #1118
+2025-11-13,Byu (Campus Services),debit,-25.0,Health & Services,Education,goldenwest,checking,Cougar Cash
+2025-11-14,Credit-Travel Reward,credit,82.83,Income,CC Rewards,capital one,credit card,CREDIT-TRAVEL REWARD
+2025-11-16,Autozone,credit,23.64,Other Income,Other,capital one,credit card,AUTOZONE #6900
+2025-11-16,Autozone,debit,-254.65,General Spending,Other,capital one,credit card,AUTOZONE #6900
+2025-11-17,Costco Wholesale,debit,-49.78,Food / Dining,Groceries,capital one,credit card,COSTCO GAS #1118
+2025-11-18,Church Donations,debit,-150.0,Gifts & Donations,Tithing,goldenwest,checking,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX5586 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY
+2025-11-19,Bear River Insurance,debit,-178.0,Transportation,Insurance,goldenwest,checking,Payment to Bear River Mutual
+2025-11-19,Walmart Supercenter,debit,-91.91,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #1768
+2025-11-19,Sq Winters Custom Hair D,debit,-66.0,General Spending,Other,capital one,credit card,SQ *WINTERS CUSTOM HAIR D
+2025-11-19,Panda Express,debit,-16.51,Food / Dining,Fast Food,capital one,credit card,PANDA EXPRESS #1588
+2025-11-21,Payroll Deposit,credit,622.01,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-11-21,Ross,debit,-118.17,Shopping,General Retail,capital one,credit card,ROSS STORES #751
+2025-11-21,Papa Murphy'S Ut Olo,debit,-35.31,General Spending,Other,capital one,credit card,PAPA MURPHY'S UT019 OLO
+2025-11-21,Home Depot,debit,-1.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-11-21,Walmart Supercenter,debit,-3.54,Food / Dining,Groceries,capital one,credit card,WAL-MART #3620
+2025-11-21,Walmart Supercenter,debit,-47.64,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #3620
+2025-11-24,Walmart Supercenter,debit,-26.41,Food / Dining,Groceries,capital one,credit card,WAL-MART #1768
+2025-11-24,Delta Air Baggage Fee,debit,-75.0,General Spending,Other,capital one,credit card,DELTA AIR   Baggage Fee
+2025-11-25,Panda Express,debit,-21.35,Food / Dining,Fast Food,capital one,credit card,SLC PANDA EXPRESS 6231365
+2025-11-25,Byu (Campus Services),debit,-25.0,Health & Services,Education,goldenwest,checking,Cougar Cash
+2025-11-25,Credit-Travel Reward,credit,13.23,Income,CC Rewards,capital one,credit card,CREDIT-TRAVEL REWARD
+2025-11-25,Mopla Bewegt,debit,-67.0,General Spending,Other,capital one,credit card,MOPLA BEWEGT
+2025-11-25,Mopla Bewegt,debit,-67.0,General Spending,Other,capital one,credit card,MOPLA BEWEGT
+2025-11-26,Byu (Campus Services),debit,-172.0,Health & Services,Education,goldenwest,checking,"Withdrawal ACH BYU TYPE: MFC eCheck ID: XX7280 CO: BYU DATA: BYU_PROD NAME: KERBY, SAVANNA BROOKE"
+2025-11-26,Hotel Johann Berlin Recep,debit,-140.13,General Spending,Other,capital one,credit card,Hotel Johann Berlin Recep
+2025-11-26,Saturn Electro-Handels,debit,-22.57,General Spending,Other,capital one,credit card,SATURN ELECTRO-HANDELS
+2025-11-26,Saturn Electro-Handels,debit,-1.15,General Spending,Other,capital one,credit card,SATURN ELECTRO-HANDELS
+2025-11-26,Ristorante Calice Doro,debit,-17.38,General Spending,Other,capital one,credit card,RISTORANTE CALICE DORO
+2025-11-26,Areas Roissy,debit,-10.37,General Spending,Other,capital one,credit card,AREAS ROISSY    2191712
+2025-11-27,By Salti Gmbh,debit,-34.81,General Spending,Other,capital one,credit card,by Salti GmbH
+2025-11-27,Wiener Feinbackerei,debit,-4.41,General Spending,Other,capital one,credit card,Wiener Feinbackerei 146
+2025-11-27,Mcdonald'S,debit,-20.16,Food / Dining,Fast Food,capital one,credit card,MCDONALDS 00866
+2025-11-27,Rewe Markt Gmbh-Zwnl Ost,debit,-1.5,General Spending,Other,capital one,credit card,REWE Markt GmbH-ZwNL Ost
+2025-11-27,Rewe Markt Gmbh-Zwnl Ost,debit,-3.92,General Spending,Other,capital one,credit card,REWE Markt GmbH-ZwNL Ost
+2025-11-27,Elaya Ht. Leipzig City,debit,-3.76,General Spending,Other,capital one,credit card,ELAYA HT. LEIPZIG CITY
+2025-11-28,Arcotel Hafencity Dresden,debit,-31.51,General Spending,Other,capital one,credit card,ARCOTEL Hafencity Dresden
+2025-11-28,Voelkerschlachtdenkmal Le,debit,-30.2,General Spending,Other,capital one,credit card,Voelkerschlachtdenkmal Le
+2025-11-28,Voelkerschlachtdenkmal Le,debit,-37.52,General Spending,Other,capital one,credit card,Voelkerschlachtdenkmal Le
+2025-11-28,Rossmann,debit,-29.33,General Spending,Other,capital one,credit card,Rossmann 2771
+2025-11-28,Dolce Freddo Gmbh,debit,-6.62,General Spending,Other,capital one,credit card,Dolce Freddo GmbH
+2025-11-28,Aldi Nord,debit,-12.13,General Spending,Other,capital one,credit card,ALDI NORD
+2025-11-29,Sumup Gastro Veran,debit,-5.81,General Spending,Other,capital one,credit card,SumUp  *Gastro   Veran
+2025-11-29,Rossmann,debit,-1.38,General Spending,Other,capital one,credit card,Rossmann 2775
+2025-11-29,Willy Dany Restaurantb,debit,-5.81,General Spending,Other,capital one,credit card,WILLY DANY RESTAURANTB
+2025-11-29,Burger King Sot,debit,-18.55,General Spending,Other,capital one,credit card,BURGER KING 7988 SOT
+2025-11-29,Spccity-Apotheken Dresde,debit,-10.21,General Spending,Other,capital one,credit card,SPC*City-Apotheken Dresde
+2025-11-29,Sweetwater-Recordstore-Ja,debit,-46.38,General Spending,Other,capital one,credit card,Sweetwater-Recordstore-Ja
+2025-11-29,Bm Weihnachtsland K,debit,-30.13,General Spending,Other,capital one,credit card,BM Weihnachtsland K
+2025-11-29,Le Crobag De,debit,-5.22,General Spending,Other,capital one,credit card,LE CROBAG DE60070000
+2025-11-29,Le Crobag De,debit,-9.52,General Spending,Other,capital one,credit card,LE CROBAG DE60070000
+2025-11-30,Rossmann,debit,-13.49,General Spending,Other,capital one,credit card,Rossmann 464
+2025-11-30,Interest Earned,credit,1.84,Savings / Investments,Dividends,goldenwest,gold account,Deposit Dividend Annual Percentage Yield Earned 5.99% from 11/01/25 through 11/30/25
+2025-11-30,Interest Earned,credit,0.05,Savings / Investments,Dividends,goldenwest,money market,Deposit Dividend Annual Percentage Yield Earned 1.00% from 11/01/25 through 11/30/25
+2025-11-30,Cothtl,debit,-68.55,General Spending,Other,capital one,credit card,COT*HTL
+2025-11-30,Interest Earned,credit,0.79,Savings / Investments,Dividends,sofi,savings,Interest earned
+2025-11-30,"Ing. Radek Luka,Pod Spej",debit,-8.13,General Spending,Other,capital one,credit card,"ING. RADEK LUKA,POD SPEJ"
+2025-11-30,Erzgebirgspraesente Gbr,debit,-68.5,General Spending,Other,capital one,credit card,Erzgebirgspraesente GbR
+2025-11-30,Sumup Oergon Design - J,debit,-22.06,General Spending,Other,capital one,credit card,SumUp  *oergon design - J
+2025-11-30,Sumup Frank S Rustik,debit,-9.29,General Spending,Other,capital one,credit card,SumUp  *Frank s Rustik
+2025-11-30,Abuzer Caliskan,debit,-16.25,General Spending,Other,capital one,credit card,ABUZER CALISKAN
+2025-11-30,Interest Earned,credit,0.05,Savings / Investments,Dividends,goldenwest,checking,Deposit Dividend Annual Percentage Yield Earned 0.05% from 11/01/25 through 11/30/25
+2025-12-01,Backwerk,debit,-4.53,General Spending,Other,capital one,credit card,Backwerk 337
+2025-12-01,Chocoladefabriken Lindt,debit,-35.49,General Spending,Other,capital one,credit card,Chocoladefabriken Lindt
+2025-12-01,United Dresden Gmbh,debit,-15.66,General Spending,Other,capital one,credit card,United Dresden GmbH
+2025-12-01,Landbaeckerei Schmidt,debit,-7.71,General Spending,Other,capital one,credit card,LANDBAECKEREI SCHMIDT
+2025-12-01,Mcdonald'S,debit,-11.61,Food / Dining,Fast Food,capital one,credit card,MCDONALDS 01723
+2025-12-01,Nyxgttgvendinggmbh,debit,-8.13,General Spending,Other,capital one,credit card,NYX*GttGVendingGmbH
+2025-12-01,Confiserie Felicitas,debit,-11.61,General Spending,Other,capital one,credit card,CONFISERIE FELICITAS
+2025-12-01,Kamps Berlin,debit,-3.08,General Spending,Other,capital one,credit card,KAMPS BERLIN 501034 1
+2025-12-01,Mopla Bewegt,debit,-67.34,General Spending,Other,capital one,credit card,MOPLA BEWEGT
+2025-12-01,Mcpaper Dresden,debit,-48.7,General Spending,Other,capital one,credit card,MCPAPER DRESDEN 5244 1
+2025-12-01,Sumup Danke - Tk Fa. R.,debit,-150.87,General Spending,Other,capital one,credit card,SumUp  *Danke - TK Fa. R.
+2025-12-01,Mopla Bewegt,debit,-67.34,General Spending,Other,capital one,credit card,MOPLA BEWEGT
+2025-12-02,Enticon Shops,debit,-17.42,General Spending,Other,capital one,credit card,Enticon Shops
+2025-12-02,Sl.Nord Vpncom,debit,-85.86,General Spending,Other,capital one,credit card,SL.NORD* VPNCOM
+2025-12-02,Klm Airline,debit,-81.57,General Spending,Other,capital one,credit card,KLM AIRLINE 0744125092311
+2025-12-02,Shop / Schengen Fashion,debit,-26.51,General Spending,Other,capital one,credit card,Shop 5/ Schengen Fashion
+2025-12-02,Flughafen Berlin Brand,debit,-16.31,General Spending,Other,capital one,credit card,FLUGHAFEN BERLIN BRAND
+2025-12-02,Hms Host International,debit,-3.5,General Spending,Other,capital one,credit card,HMS Host International
+2025-12-02,Espn,debit,-32.21,General Spending,Other,capital one,credit card,ESPN
+2025-12-03,Walmart Supercenter,debit,-203.32,Food / Dining,Groceries,capital one,credit card,WAL-MART #1768
+2025-12-04,Credit-Travel Reward,credit,24.55,Income,CC Rewards,capital one,credit card,CREDIT-TRAVEL REWARD
+2025-12-05,Payroll Deposit,credit,618.73,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-12-05,Church Donations,debit,-140.0,Gifts & Donations,Tithing,goldenwest,checking,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX2000 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY
+2025-12-05,Church Donations,debit,-150.0,Gifts & Donations,Tithing,goldenwest,checking,Withdrawal ACH Ch JesusChrist TYPE: DONATION ID: XX4341 DATA: XX2000 CO: Ch JesusChrist NAME: SAVANNA BROOKE KERBY
+2025-12-06,Hearts Nail Spa,debit,-67.65,General Spending,Other,capital one,credit card,HEARTS NAIL SPA
+2025-12-06,Leatherby'S Family Cream,debit,-16.79,General Spending,Other,capital one,credit card,LEATHERBY'S FAMILY CREAM
+2025-12-06,Cafe Zupas,debit,-14.09,Food / Dining,Restaurants/Dining,capital one,credit card,CAFE ZUPAS SARATOGA SPR
+2025-12-06,Maverik,debit,-44.07,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-12-07,T-Mobile,debit,-27.95,Housing,Phone,capital one,credit card,TMOBILE*PREPD AUTOPY
+2025-12-09,Walmart Supercenter,debit,-32.69,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #1768
+2025-12-09,Walmart Supercenter,debit,-30.8,Food / Dining,Groceries,capital one,credit card,WAL-MART #1768
+2025-12-09,Walmart Supercenter,debit,-13.6,Food / Dining,Groceries,capital one,credit card,WAL-MART #1768     SE2
+2025-12-10,Byu (Campus Services),debit,-25.0,Health & Services,Education,goldenwest,checking,Cougar Cash
+2025-12-10,Home Depot,debit,-1.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-12-10,Jiffy Lube,debit,-281.31,Transportation,Maintenance,capital one,credit card,JIFFY LUBE #3346
+2025-12-10,Walmart Supercenter,debit,-41.27,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #3620
+2025-12-11,Dmv,debit,-164.25,Transportation,Maintenance,capital one,credit card,UTAH-DMV RENEWAL EXPRE
+2025-12-12,Costco Wholesale,debit,-172.94,Food / Dining,Groceries,capital one,credit card,COSTCO WHSE #1118
+2025-12-12,Costco Wholesale,debit,-21.58,Food / Dining,Groceries,capital one,credit card,COSTCO WHSE #1118
+2025-12-13,Home Depot,debit,-1.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-12-13,Walmart Supercenter,debit,-75.36,Food / Dining,Groceries,capital one,credit card,WAL-MART #1768
+2025-12-16,Cbtsvc Fee Utah Cnty,debit,-1.5,General Spending,Other,capital one,credit card,CBT*SVC FEE UTAH CNTY
+2025-12-16,Cbtutah County Clerk,debit,-20.0,General Spending,Other,capital one,credit card,CBT*UTAH COUNTY CLERK
+2025-12-17,Home Depot,debit,-1.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-12-19,Home Depot,debit,-21.43,Shopping,Home Improvement,capital one,credit card,THE HOME DEPOT #8566
+2025-12-19,Payroll Deposit,credit,549.0,Income,Paychecks,goldenwest,checking,Salary/Regular Income from Goldenwest Credit Union
+2025-12-19,Bear River Insurance,debit,-178.0,Transportation,Insurance,goldenwest,checking,Payment to Bear River Mutual
+2025-12-19,Home Depot,debit,-1.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-12-19,Hobby Lobby,debit,-41.48,General Spending,Other,capital one,credit card,HOBBY LOBBY #  448
+2025-12-20,Home Depot,debit,-1.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-12-20,Chipotle,debit,-20.0,General Spending,Other,capital one,credit card,CHIPOTLE 4505
+2025-12-20,Walmart Supercenter,debit,-36.85,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #3620
+2025-12-20,Walmart Supercenter,debit,-124.59,Food / Dining,Groceries,capital one,credit card,WAL-MART #1768
+2025-12-20,Post Mart,debit,-7.97,General Spending,Other,capital one,credit card,POST MART
+2025-12-22,Maverik,debit,-44.86,Transportation,Fuel,capital one,credit card,MAVERIK #757
+2025-12-22,Domino'S Pizza,debit,-17.33,Food / Dining,Fast Food,capital one,credit card,DOMINO'S 9105
+2025-12-23,Credit-Travel Reward,credit,6.96,Income,CC Rewards,capital one,credit card,CREDIT-TRAVEL REWARD
+2025-12-23,Credit-Travel Reward,credit,3.76,Income,CC Rewards,capital one,credit card,CREDIT-TRAVEL REWARD
+2025-12-23,Credit-Travel Reward,credit,15.14,Income,CC Rewards,capital one,credit card,CREDIT-TRAVEL REWARD
+2025-12-23,Cinemark Online,debit,-23.4,General Spending,Other,capital one,credit card,CINEMARK 343 ONLINE
+2025-12-27,Home Depot,debit,-1.4,Shopping,Home Improvement,capital one,credit card,Home Depot Riverton
+2025-12-27,Noodles And Company,debit,-10.95,General Spending,Other,capital one,credit card,NOODLES AND COMPANY
+2025-12-29,Walmart Supercenter,debit,-39.62,Food / Dining,Groceries,capital one,credit card,WM SUPERCENTER #3620
+2025-12-29,Cafe Zupas,debit,-14.09,Food / Dining,Restaurants/Dining,capital one,credit card,CAFE ZUPAS - AM FORK
+2025-12-29,Amazon,credit,3.9,Shopping,General Retail,goldenwest,checking,Amazon Deposit
+2025-12-30,Hrb Online Tax Product,debit,-10.0,General Spending,Other,capital one,credit card,HRB ONLINE TAX PRODUCT
+2025-12-31,Interest Earned,credit,1.91,Savings / Investments,Dividends,goldenwest,gold account,Deposit Dividend Annual Percentage Yield Earned 5.99% from 12/01/25 through 12/31/25
+2025-12-31,Rewards From Golden,credit,20.05,Other Income,Other,goldenwest,gold account,Rewards from Golden
+2025-12-31,Interest Earned,credit,0.01,Savings / Investments,Dividends,goldenwest,money market,Deposit Dividend Annual Percentage Yield Earned 2.00% from 12/01/25 through 12/31/25
+2025-12-31,Interest Earned,credit,0.47,Savings / Investments,Dividends,sofi,savings,Interest earned
+2025-12-31,Interest Earned,credit,0.02,Savings / Investments,Dividends,goldenwest,checking,Deposit Dividend Annual Percentage Yield Earned 0.04% from 12/01/25 through 12/31/25

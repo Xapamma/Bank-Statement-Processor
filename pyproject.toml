@@ -9,4 +9,5 @@ dependencies = [
     "ollama>=0.6.1",
     "pandas>=3.0.1",
     "rapidfuzz>=3.14.3",
+    "regex>=2026.2.28",
 ]

@@ -6,6 +6,7 @@ from rapidfuzz import process, fuzz
 import subprocess
 import json
 import re
+from cleaning_logic import clean_and_categorize
 
 # Root folder containing bank folders
 folder = ".data"
@@ -211,8 +212,13 @@ combined["main_category"] = np.nan
 columns_to_keep = ["date", "description", "type", "amount", "main_category", "sub_category", "bank", "account"]
 combined = combined[columns_to_keep]
 
-# Save final cleaned and categorized CSV
-combined.to_csv("all_banks_final_categorized.csv", index=False)
+# Final Step: Apply the robust cleaning logic
+print("Applying categorization logic...")
+final_df = clean_and_categorize(combined)
+
+# Save
+final_df.to_csv("all_banks_final_categorized.csv", index=False)
+
 print("✅ Done! Final cleaned and categorized CSV saved as 'all_banks_final_categorized.csv'.")
 
 
