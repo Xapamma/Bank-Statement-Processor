@@ -2,12 +2,18 @@ import pandas as pd
 import glob
 import os
 from rapidfuzz import process, fuzz
+import subprocess
+import json
+import re
 
 # Root folder containing bank folders
 folder = ".data"
 
+# Full path to Ollama executable
+ollama_path = r"C:\Users\Savanna\AppData\Local\Programs\Ollama\ollama.exe"
+
 # Known banks and account types
-known_banks = ["goldenwest", "chase", "wellsfargo", "amex"]  # extend as needed
+known_banks = ["goldenwest", "chase", "wellsfargo", "amex"]
 account_types = ["checking", "savings", "credit", "loan", "investment"]
 
 # Optimized categories
@@ -26,25 +32,46 @@ category_map = {
     "Vacations / Travel": ["Travel", "Lodging", "Food", "Entertainment", "Souvenirs", "Other"]
 }
 
-# Function to assign main/sub category
-def assign_categories(description, category_map):
+# Function to categorize a single description using Ollama
+def categorize_transaction_cli(description):
     if pd.isna(description) or description.strip() == "":
-        return ("Other", "Other")
-    best_sub = None
-    best_main = None
-    best_score = 0
-    description_lower = description.lower()
-    for main_cat, subcats in category_map.items():
-        match = process.extractOne(description_lower, subcats, scorer=fuzz.ratio)
-        if match is not None:
-            subcat_name, score = match[0], match[1]
-            if score > best_score:
-                best_score = score
-                best_sub = subcat_name
-                best_main = main_cat
-    if best_main is None:
-        return ("Other", "Other")
-    return (best_main, best_sub)
+        return {"main_category": "Other", "sub_category": "Other"}
+
+    prompt = f"""
+You are categorizing a bank transaction. Here are the main categories and subcategories:
+{category_map}
+
+Transaction description: "{description}"
+
+Respond only with JSON like:
+{{"main_category": "...", "sub_category": "..."}}
+"""
+
+    try:
+        result = subprocess.run(
+            [ollama_path, "chat", "mistral", "--prompt", prompt],
+            capture_output=True,
+            text=True,
+            timeout=15
+        )
+
+        # Extract JSON using regex
+        match = re.search(r'\{.*\}', result.stdout, re.DOTALL)
+        if match:
+            return json.loads(match.group())
+        else:
+            return {"main_category": "Other", "sub_category": "Other"}
+
+    except Exception as e:
+        print(f"⚠️ Error categorizing '{description}': {e}")
+        return {"main_category": "Other", "sub_category": "Other"}
+
+# Helper to batch categorize multiple descriptions
+def categorize_descriptions_batch(descriptions):
+    results = []
+    for desc in descriptions:
+        results.append(categorize_transaction_cli(desc))
+    return results
 
 # List to hold all banks
 all_banks = []
@@ -57,8 +84,8 @@ for bank_folder in bank_folders:
 
     # Fuzzy match bank name
     match_result = process.extractOne(raw_bank_name, known_banks, scorer=fuzz.ratio)
-    bank_name = match_result[0]  # best match
-    bank_score = match_result[1]  # match score
+    bank_name = match_result[0]
+    bank_score = match_result[1]
     print(f"Processing bank folder: {raw_bank_name} → matched to {bank_name} (score {bank_score})")
 
     # Find CSV files in the bank folder
@@ -85,7 +112,6 @@ for bank_folder in bank_folders:
                 "credits/debits": "amount",
                 "running balance": "balance"
             })
-        # Add more banks here as needed
 
         # Convert date column
         df["date"] = pd.to_datetime(df["date"], errors="coerce")
@@ -104,18 +130,17 @@ for bank_folder in bank_folders:
         filename_lower = os.path.basename(file).lower()
         match_result = process.extractOne(filename_lower, account_types, scorer=fuzz.ratio)
         account_name = match_result[0]
-        account_score = match_result[1]
 
         df["bank"] = bank_name
         df["account"] = account_name
 
-        # Assign optimized main/sub categories
-        df[["main_category", "sub_category"]] = df["description"].apply(
-            lambda x: pd.Series(assign_categories(x, category_map))
-        )
-        
+        # Batch categorize descriptions
+        category_results = categorize_descriptions_batch(df["description"].tolist())
+        df["main_category"] = [r["main_category"] for r in category_results]
+        df["sub_category"] = [r["sub_category"] for r in category_results]
+
         bank_dfs.append(df)
-    
+
     # Combine all accounts for this bank
     bank_combined = pd.concat(bank_dfs, ignore_index=True)
     all_banks.append(bank_combined)
@@ -125,14 +150,12 @@ combined = pd.concat(all_banks, ignore_index=True)
 combined = combined.sort_values("date")
 
 # Keep only necessary columns
-columns_to_keep = ["date", "description", "amount", "balance", "bank", "account", "main_category", "sub_category"]
+columns_to_keep = ["date", "description", "type", "amount", "main_category", "sub_category", "bank", "account"]
 combined = combined[columns_to_keep]
 
 # Save final cleaned and categorized CSV
 combined.to_csv("all_banks_final_categorized.csv", index=False)
 print("✅ Done! Final cleaned and categorized CSV saved as 'all_banks_final_categorized.csv'.")
-
-
 
 
 
