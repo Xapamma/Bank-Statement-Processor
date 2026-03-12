@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import glob
 import os
 from rapidfuzz import process, fuzz
@@ -13,8 +14,15 @@ folder = ".data"
 ollama_path = r"C:\Users\Savanna\AppData\Local\Programs\Ollama\ollama.exe"
 
 # Known banks and account types
-known_banks = ["goldenwest", "chase", "wellsfargo", "amex"]
-account_types = ["checking", "savings", "credit card", "imm"]
+known_banks = ["goldenwest", "sofi", "capital one"]
+account_map = {
+    "cc": "credit card",
+    "credit card": "credit card",
+    "checking": "checking",
+    "savings": "savings",
+    "imm": "money market",
+    "gold": "gold account"
+}
 
 # Optimized categories
 category_map = {
@@ -120,33 +128,32 @@ for bank_folder in bank_folders:
         # Bank-specific column cleaning
         if bank_name == "goldenwest":
             df = df.rename(columns={
-                "transaction date": "date",
+                "posting date": "date",
                 "description": "description",
                 "amount": "amount",
+                "type" : "category type"
             })
+
         elif bank_name == "capital one":
             df = df.rename(columns={
-                "transaction date": "date",     # Transaction date     
-                "description": "description",   # Merchant / transaction name
-                "amount": "amount",             # Amount (positive = charge, negative = payment)
+                "transaction date": "date",        
+                "description": "description",           
             })
-            df["type"] = pd.melt(
-                id_vars=[c for c in df.columns if c not in ["Debit", "Credit"]],
-                value_vars=["Debit", "Credit"],
+            # Make into one column
+            df = pd.melt(
+                df,
+                id_vars=[c for c in df.columns if c not in ["debit", "credit"]],
+                value_vars=["debit", "credit"],
                 var_name="type",
-                value_name="mmount"
+                value_name="amount"
             ).dropna(subset=["amount"])
-    
-
-            
 
         elif bank_name == "sofi":
             # Typical SoFi CSV export columns
             df = df.rename(columns={
                 "date" : "date",
-                "merchant": "description",      # Merchant / transaction name
-                "amount": "amount",             # Amount
-                "running_balance": "balance"    # Running balance
+                "description": "description",     
+                "amount": "amount"            
             })
 
         # Convert date column
@@ -162,18 +169,24 @@ for bank_folder in bank_folders:
             .astype(float)
         )
 
-        # Add a "type" column based on the amount
-        if account_name == "credit":
-            df["amount"] = df["amount"] * -1  # Make all amounts reverse for credit card accounts
-        df["type"] = df["amount"].apply(lambda x: "debit" if x > 0 else "credit")
-
         # Fuzzy match account type from filename
         filename_lower = os.path.basename(file).lower()
-        match_result = process.extractOne(filename_lower, account_types, scorer=fuzz.ratio)
-        account_name = match_result[0]
+        match_result = process.extractOne(filename_lower, account_map.keys(), scorer=fuzz.partial_ratio)
+        
+        # Get a clean name from the map
+        matched_key = match_result[0]
+        account_name = account_map[matched_key]
 
         df["bank"] = bank_name
         df["account"] = account_name
+
+        # Add a "type" column based on the amount
+        # If credit card, make debits negative
+        if account_name == "credit card":
+            df.loc[df["type"] == "debit", "amount"] = -df["amount"].abs()  # Make all debit amounts negative for charges
+            df.loc[df["type"] == "credit", "amount"] = df["amount"].abs()  # Make all credit amounts positive for payments or reimbursements
+        else:
+            df["type"] = np.where(df["amount"] > 0, "credit", "debit")
 
         # # Batch categorize descriptions
         # category_results = categorize_descriptions_batch(df["description"].tolist())
@@ -189,6 +202,10 @@ for bank_folder in bank_folders:
 # Combine all banks
 combined = pd.concat(all_banks, ignore_index=True)
 combined = combined.sort_values("date")
+
+# Placeholder for now
+combined["sub_category"] = np.nan
+combined["main_category"] = np.nan
 
 # Keep only necessary columns
 columns_to_keep = ["date", "description", "type", "amount", "main_category", "sub_category", "bank", "account"]
