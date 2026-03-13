@@ -38,7 +38,7 @@ date,description,type,amount,main_category,sub_category,bank,account
 2025-03-10,Dick's Sporting Goods,debit,-32.01,Shopping & Supplies,General Retail,goldenwest,checking
 2025-03-10,Barnes & Noble,debit,-52.29,Shopping & Supplies,General Retail,goldenwest,checking
 2025-03-10,Bath & Body Works,debit,-46.76,Health & Wellness,Personal Care,goldenwest,checking
-2025-03-10,Victoria's Secret,debit,-45.32,Health & Wellness,Personal Care,goldenwest,checking
+2025-03-10,Victoria's Secret,debit,-45.32,General Spending,Other,goldenwest,checking
 2025-03-10,Fabulous Freddy's,debit,-12.83,General Spending,Other,goldenwest,checking
 2025-03-10,Jcpenney,debit,-41.35,Shopping & Supplies,Clothing,goldenwest,checking
 2025-03-11,Walmart Supercenter,debit,-55.25,Food / Dining,Groceries,goldenwest,checking

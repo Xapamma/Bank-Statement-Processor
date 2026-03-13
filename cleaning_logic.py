@@ -13,6 +13,7 @@ description_map = {
     r"bath & body works": "Bath & Body Works",
     r"home depot": "Home Depot",
     r"maceys": "Macey's",
+    r"shoeman\s*enterprise": "Shoeman Enterprise",
 
     # --- DINING & TREATS ---
     r"mcdonald's|mcdonalds": "McDonald's",
@@ -119,7 +120,7 @@ sub_category_map = {
     "Confiserie Felicitas": "Fast Food",
     "Kamps Berlin": "Fast Food",
     "Milk & Cookies": "Fast Food",
-    "Nielsens Frozen Custar": "Fast Food",
+    "Nielsens Frozen Custard": "Fast Food",
     "Roxberry Juice Co.": "Fast Food",
     "Sq Chromis Bakery": "Fast Food",
     "Willy Dany Restaurantb": "Fast Food",
@@ -148,7 +149,7 @@ sub_category_map = {
     "Bath & Body Works": "Personal Care",
     "Hearts Nail Spa": "Personal Care",
     "Rossmann": "Personal Care",
-    "Victoria'S Secret": "Personal Care",
+    "Victoria's Secret": "Personal Care",
     "Spccity-Apotheken Dresde": "Pharmacy",
     "Sq Winters Custom Hair D": "Personal Care",
     "Sq Tie One On": "Personal Care",
