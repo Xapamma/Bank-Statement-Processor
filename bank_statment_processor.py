@@ -3,16 +3,131 @@ import numpy as np
 import glob
 import os
 from rapidfuzz import process, fuzz
-import subprocess
 import json
-import re
-from cleaning_logic import clean_and_categorize
+from cleaning_logic import clean_and_categorize, clean_description_for_matching, match_description_map
+
+# Get Ollama Working
+import ollama
+
+def call_ollama(prompt, model="gemma3:4b"):
+    response = ollama.chat(
+        model=model,
+        messages=[
+            {"role": "user", "content": prompt}
+        ]
+    )
+
+    return response["message"]["content"].strip()
+
+# Makes a smart title
+def smart_title(text):
+    words = text.lower().split()
+    fixed = []
+
+    for w in words:
+        if "'" in w:
+            first, rest = w.split("'", 1)
+            fixed.append(first.capitalize() + "'" + rest.lower())
+        else:
+            fixed.append(w.capitalize())
+
+    return " ".join(fixed)
+
+# Add the merchant column stuff
+
+# Add merchant cache to automatically update the llm matches
+merchant_cache_file = "merchant_cache.json"
+
+if os.path.exists(merchant_cache_file):
+    with open(merchant_cache_file, "r") as f:
+        merchant_cache = json.load(f)
+else:
+    merchant_cache = {}
+
+def save_cache():
+    with open(merchant_cache_file, "w") as f:
+        json.dump(merchant_cache, f, indent=2)
+
+def get_merchant(description):
+     # --- Step 1: Clean description for matching ---
+    raw_desc = clean_description_for_matching(description)
+    cache_key = raw_desc.lower
+
+    # --- Step 2: Check regex map FIRST (fastest) ---
+    match = match_description_map(raw_desc)
+    if match:
+        return match
+
+    # --- Step 3: Check cache ---
+    if cache_key in merchant_cache:
+        return merchant_cache[cache_key]
+
+    # --- Step 4: LLM fallback ---
+    prompt = f"""
+You are a strict data extraction function.
+
+Your ONLY job is to extract a merchant name from a bank transaction description.
+
+OUTPUT RULES (MANDATORY):
+- Output ONLY valid JSON
+- Do NOT include markdown (no ``` or ```json)
+- Do NOT include explanations
+- Do NOT include any text before or after JSON
+- Output must be EXACTLY one JSON object
+- Use this exact format: {{"name": "merchant"}}
+
+EXTRACTION RULES:
+- Extract the real merchant (store, company, or service)
+- Remove locations, states, phone numbers, and IDs
+- Ignore bank names (e.g., credit union, bank)
+- Ignore transaction words (transfer, payment, deposit, withdrawal)
+- If this is NOT a real merchant (e.g., transfer between accounts), return:
+  {{"name": "internal"}}
+
+EXAMPLES:
+
+Input: TST*AMAZON MKTPLACE PMTS SEATTLE WA
+Output: {{"name": "Amazon"}}
+
+Input: WALMART SUPERCENTER #1234 UT
+Output: {{"name": "Walmart"}}
+
+Input: TO CHECKING 6818
+Output: {{"name": "internal"}}
+
+Input: SQ *JOES PIZZA 435-555-1234 UT
+Output: {{"name": "Joes Pizza"}}
+
+NOW EXTRACT:
+
+Input: {description}
+"""
+    
+    raw = call_ollama(prompt)
+
+    try:
+        data = json.loads(raw)
+        merchant = smart_title(data["name"])
+
+        # Save to cache
+        merchant_cache[cache_key] = merchant
+        save_cache()
+
+        return merchant
+    
+    except Exception:
+        print("❌ Bad output:", raw)
+        return "unknown"
+
+
+def add_merchants(df):
+    df["merchant"] = df["description"].apply(get_merchant)
+    save_cache()
+    return df
+
 
 # Root folder containing bank folders
 folder = ".data"
-
-# Full path to Ollama executable
-ollama_path = r"C:\Users\Savanna\AppData\Local\Programs\Ollama\ollama.exe"
 
 # Known banks and account types
 known_banks = ["goldenwest", "sofi", "capital one"]
@@ -141,8 +256,15 @@ combined = combined.sort_values("date")
 combined["sub_category"] = np.nan
 combined["main_category"] = np.nan
 
+# Save the origional descriptions
+combined['raw_description'] = combined['description']
+
+# Add a merchant link
+print("Extracting merchants...")
+combined = add_merchants(combined)
+
 # Keep only necessary columns
-columns_to_keep = ["date", "description", "type", "amount", "main_category", "sub_category", "bank", "account"]
+columns_to_keep = ["date", "description", "merchant", "type", "amount", "main_category", "sub_category", "bank", "account"]
 combined = combined[columns_to_keep]
 
 # Final Step: Apply the robust cleaning logic

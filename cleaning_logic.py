@@ -1,6 +1,7 @@
 import re
 import pandas as pd
 import numpy as np
+import subprocess
 
 # --- 1. DESCRIPTION CLEANING MAP ---
 # Patterns are lowercase here for easier matching
@@ -255,11 +256,35 @@ category_hierarchy = {
 # Connects sub to main title
 sub_to_main = {sub: main for main, subs in category_hierarchy.items() for sub in subs}
 
+# Basic cleaning for descriptions
+def clean_description_for_matching(description):
+    raw_desc = str(description).lower()
+
+    # Normalize "withdrawal"
+    raw_desc = re.sub(r'^\s*withdrawal\s*$', 'bank withdrawal', raw_desc)
+
+    # Strip common bank noise
+    raw_desc = re.sub(
+        r'^withdrawal\s*(xx)?\s*x?\b|xx\s*(sq|card|[a-z])?|^recurring\s*withdrawal\s*|provo\s*ut|\borem\b',
+        '',
+        raw_desc
+    ).strip()
+
+    return raw_desc
+
+# Check the regex cleaning first
+def match_description_map(raw_desc):
+    for pattern, replacement in description_map.items():
+        if re.search(pattern, raw_desc):
+            return replacement
+    return None
+
+
 def clean_and_categorize(df):
 
     def process_row(row):
         # Convert to lowercase for pattern matching
-        raw_desc = str(row['description']).lower()
+        raw_desc = str(row['merchant']).lower()
         amt = row['amount']
         clean_name = None
 
