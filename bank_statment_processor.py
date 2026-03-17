@@ -4,7 +4,7 @@ import glob
 import os
 from rapidfuzz import process, fuzz
 import json
-from cleaning_logic import clean_and_categorize, clean_description_for_matching, match_description_map
+from cleaning_logic import clean_and_categorize, clean_description_for_matching, match_description_map, smart_title
 
 # Get Ollama Working
 import ollama
@@ -18,20 +18,6 @@ def call_ollama(prompt, model="gemma3:4b"):
     )
 
     return response["message"]["content"].strip()
-
-# Makes a smart title
-def smart_title(text):
-    words = text.lower().split()
-    fixed = []
-
-    for w in words:
-        if "'" in w:
-            first, rest = w.split("'", 1)
-            fixed.append(first.capitalize() + "'" + rest.lower())
-        else:
-            fixed.append(w.capitalize())
-
-    return " ".join(fixed)
 
 # Add the merchant column stuff
 
@@ -51,7 +37,7 @@ def save_cache():
 def get_merchant(description):
      # --- Step 1: Clean description for matching ---
     raw_desc = clean_description_for_matching(description)
-    cache_key = raw_desc.lower
+    cache_key = raw_desc.lower()
 
     # --- Step 2: Check regex map FIRST (fastest) ---
     match = match_description_map(raw_desc)

@@ -440,7 +440,7 @@ date,description,merchant,type,amount,main_category,sub_category,bank,account
 2025-07-21,Walmart Supercenter,Walmart Supercenter,debit,-86.24,Food / Dining,Groceries,capital one,credit card
 2025-07-22,Maverik,Maverik,debit,-4.6,Automotive & Fuel,Fuel,capital one,credit card
 2025-07-22,Johnny Rockets,Johnny Rockets,debit,-8.71,General Spending,Other,capital one,credit card
-2025-07-24,Hunt/Fish Lic,Hunt/fish Lic,debit,-39.86,General Spending,Other,capital one,credit card
+2025-07-24,Hunt/Fish,Hunt/fish,debit,-39.86,General Spending,Other,capital one,credit card
 2025-07-26,Walmart Supercenter,Walmart Supercenter,debit,-162.4,Food / Dining,Groceries,capital one,credit card
 2025-07-27,Google Services,Google Services,debit,-30.22,Housing & Bills,Service Fees,capital one,credit card
 2025-07-28,Maverik,Maverik,debit,-4.6,Automotive & Fuel,Fuel,capital one,credit card
@@ -475,7 +475,7 @@ date,description,merchant,type,amount,main_category,sub_category,bank,account
 2025-08-12,Home Depot,Home Depot,debit,-1.4,Shopping & Supplies,Home Improvement,capital one,credit card
 2025-08-13,Home Depot,Home Depot,debit,-1.4,Shopping & Supplies,Home Improvement,capital one,credit card
 2025-08-13,Walmart Supercenter,Walmart Supercenter,debit,-147.24,Food / Dining,Groceries,capital one,credit card
-2025-08-14,Leatherby's Family Cream,Leatherby's Family Cream,debit,-23.28,Food / Dining,Fast Food,capital one,credit card
+2025-08-14,Leatherby's,Leatherby's,debit,-23.28,General Spending,Other,capital one,credit card
 2025-08-14,Panda Express,Panda Express,debit,-15.51,Food / Dining,Fast Food,capital one,credit card
 2025-08-15,Payroll Deposit,Payroll Deposit,credit,793.46,Income,Paychecks,goldenwest,checking
 2025-08-16,Internal,Internal,debit,-1100.11,General Spending,Other,capital one,credit card
@@ -496,7 +496,7 @@ date,description,merchant,type,amount,main_category,sub_category,bank,account
 2025-08-25,Utah Career Center,Utah Career Center,debit,-1.65,General Spending,Other,capital one,credit card
 2025-08-27,Costco Wholesale,Costco Wholesale,debit,-147.37,Food / Dining,Groceries,capital one,credit card
 2025-08-27,Costco Wholesale,Costco Wholesale,debit,-54.95,Food / Dining,Groceries,capital one,credit card
-2025-08-27,Winters Custom Hair D,Winters Custom Hair D,debit,-66.0,General Spending,Other,capital one,credit card
+2025-08-27,Winters Custom Hair,Winters Custom Hair,debit,-66.0,General Spending,Other,capital one,credit card
 2025-08-27,Church Donations,Church Donations,debit,-248.0,Gifts & Donations,Tithing,goldenwest,checking
 2025-08-28,Church Donations,Church Donations,debit,-131.0,Gifts & Donations,Tithing,goldenwest,checking
 2025-08-28,Church Donations,Church Donations,debit,-167.0,Gifts & Donations,Tithing,goldenwest,checking
@@ -538,7 +538,7 @@ date,description,merchant,type,amount,main_category,sub_category,bank,account
 2025-09-15,Mcdonald's,McDonald's,debit,-3.3,Food / Dining,Fast Food,capital one,credit card
 2025-09-15,Milk & Cookies,Milk & Cookies,debit,-5.95,Food / Dining,Fast Food,capital one,credit card
 2025-09-16,Church Donations,Church Donations,debit,-173.0,Gifts & Donations,Tithing,goldenwest,checking
-2025-09-16,Sp Charlie Kirk,Sp Charlie Kirk,debit,-44.85,General Spending,Other,capital one,credit card
+2025-09-16,Spoke,Spoke,debit,-44.85,General Spending,Other,capital one,credit card
 2025-09-17,Internal,Internal,credit,2717.4,Other Income,Other,capital one,credit card
 2025-09-17,Costco Wholesale,Costco Wholesale,debit,-51.42,Food / Dining,Groceries,capital one,credit card
 2025-09-17,Costco Wholesale,Costco Wholesale,debit,-146.77,Food / Dining,Groceries,capital one,credit card
@@ -599,14 +599,14 @@ date,description,merchant,type,amount,main_category,sub_category,bank,account
 2025-10-24,Mcdonald's,McDonald's,debit,-5.18,Food / Dining,Fast Food,capital one,credit card
 2025-10-24,Maverik,Maverik,debit,-55.37,Automotive & Fuel,Fuel,capital one,credit card
 2025-10-24,Shopcornbellys,Shopcornbellys,debit,-73.85,General Spending,Other,capital one,credit card
-2025-10-25,Springville,Springville,debit,-52.25,General Spending,Other,capital one,credit card
+2025-10-25,Internal,Internal,debit,-52.25,General Spending,Other,capital one,credit card
 2025-10-25,Ross,Ross,debit,-67.36,Shopping & Supplies,General Retail,capital one,credit card
 2025-10-25,Walmart Supercenter,Walmart Supercenter,debit,-165.62,Food / Dining,Groceries,capital one,credit card
 2025-10-25,Shopcornbellys,Shopcornbellys,debit,-15.16,General Spending,Other,capital one,credit card
 2025-10-26,Jiffy Lube,Jiffy Lube,debit,-470.51,Automotive & Fuel,Maintenance,capital one,credit card
 2025-10-28,Byu (Campus Services),BYU (Campus Services),debit,-25.0,Education,Education,goldenwest,checking
 2025-10-29,Walmart Supercenter,Walmart Supercenter,debit,-39.39,Food / Dining,Groceries,capital one,credit card
-2025-10-29,Zephyr Lot,Zephyr Lot,debit,-12.0,Automotive & Fuel,Maintenance,capital one,credit card
+2025-10-29,Zephyr,Zephyr,debit,-12.0,General Spending,Other,capital one,credit card
 2025-10-29,Maverik,Maverik,debit,-3.95,Automotive & Fuel,Fuel,capital one,credit card
 2025-10-30,Byu (Campus Services),BYU (Campus Services),debit,-177.0,Education,Education,goldenwest,checking
 2025-10-30,Internal,Internal,debit,-30.03,General Spending,Other,capital one,credit card
@@ -636,7 +636,7 @@ date,description,merchant,type,amount,main_category,sub_category,bank,account
 2025-11-11,Hilton,Hilton,debit,-111.22,General Spending,Other,capital one,credit card
 2025-11-12,Costco Wholesale,Costco Wholesale,debit,-262.89,Food / Dining,Groceries,capital one,credit card
 2025-11-13,Byu (Campus Services),BYU (Campus Services),debit,-25.0,Education,Education,goldenwest,checking
-2025-11-14,Capital One,Capital One,credit,500.0,Other Income,Other,capital one,credit card
+2025-11-14,Internal,Internal,credit,500.0,Other Income,Other,capital one,credit card
 2025-11-14,Credit-Travel,Credit-travel,credit,82.83,Other Income,Other,capital one,credit card
 2025-11-16,Autozone,Autozone,credit,23.64,Automotive & Fuel,Auto Parts,capital one,credit card
 2025-11-16,Autozone,Autozone,debit,-254.65,Automotive & Fuel,Auto Parts,capital one,credit card
@@ -646,7 +646,7 @@ date,description,merchant,type,amount,main_category,sub_category,bank,account
 2025-11-18,Church Donations,Church Donations,debit,-150.0,Gifts & Donations,Tithing,goldenwest,checking
 2025-11-19,Bear River Insurance,Bear River Insurance,debit,-178.0,Automotive & Fuel,Insurance,goldenwest,checking
 2025-11-19,Panda Express,Panda Express,debit,-16.51,Food / Dining,Fast Food,capital one,credit card
-2025-11-19,Winters Custom Hair D,Winters Custom Hair D,debit,-66.0,General Spending,Other,capital one,credit card
+2025-11-19,Winters Custom Hair,Winters Custom Hair,debit,-66.0,General Spending,Other,capital one,credit card
 2025-11-19,Walmart Supercenter,Walmart Supercenter,debit,-91.91,Food / Dining,Groceries,capital one,credit card
 2025-11-21,Walmart Supercenter,Walmart Supercenter,debit,-47.64,Food / Dining,Groceries,capital one,credit card
 2025-11-21,Walmart Supercenter,Walmart Supercenter,debit,-3.54,Food / Dining,Groceries,capital one,credit card
@@ -663,7 +663,7 @@ date,description,merchant,type,amount,main_category,sub_category,bank,account
 2025-11-25,Internal,Internal,debit,-67.0,General Spending,Other,capital one,credit card
 2025-11-26,Saturn,Saturn,debit,-22.57,General Spending,Other,capital one,credit card
 2025-11-26,Saturn,Saturn,debit,-1.15,General Spending,Other,capital one,credit card
-2025-11-26,Ristorante Calice Doro,Ristorante Calice Doro,debit,-17.38,Food / Dining,Restaurants/Dining,capital one,credit card
+2025-11-26,Calice Doro,Calice Doro,debit,-17.38,General Spending,Other,capital one,credit card
 2025-11-26,Areas,Areas,debit,-10.37,General Spending,Other,capital one,credit card
 2025-11-26,Byu (Campus Services),BYU (Campus Services),debit,-172.0,Education,Education,goldenwest,checking
 2025-11-26,Hotel Johann,Hotel Johann,debit,-140.13,General Spending,Other,capital one,credit card
@@ -676,7 +676,7 @@ date,description,merchant,type,amount,main_category,sub_category,bank,account
 2025-11-28,Aldi,Aldi,debit,-12.13,General Spending,Other,capital one,credit card
 2025-11-28,Dolce Freddo,Dolce Freddo,debit,-6.62,General Spending,Other,capital one,credit card
 2025-11-28,Rossmann,Rossmann,debit,-29.33,Health & Wellness,Personal Care,capital one,credit card
-2025-11-28,Arcotel,Arcotel,debit,-31.51,General Spending,Other,capital one,credit card
+2025-11-28,Arcohotel,Arcohotel,debit,-31.51,General Spending,Other,capital one,credit card
 2025-11-28,Voelkerschlachtdenkmal,Voelkerschlachtdenkmal,debit,-37.52,General Spending,Other,capital one,credit card
 2025-11-28,Voelkerschlachtdenkmal,Voelkerschlachtdenkmal,debit,-30.2,General Spending,Other,capital one,credit card
 2025-11-29,Burger King,Burger King,debit,-18.55,General Spending,Other,capital one,credit card
@@ -711,18 +711,18 @@ date,description,merchant,type,amount,main_category,sub_category,bank,account
 2025-12-01,Kamps,Kamps,debit,-3.08,General Spending,Other,capital one,credit card
 2025-12-01,Mcpaper,Mcpaper,debit,-48.7,General Spending,Other,capital one,credit card
 2025-12-01,Confiserie Felicitas,Confiserie Felicitas,debit,-11.61,Food / Dining,Fast Food,capital one,credit card
-2025-12-02,Hms Host,Hms Host,debit,-3.5,General Spending,Other,capital one,credit card
+2025-12-02,Hms Host International,Hms Host International,debit,-3.5,Travel & Lodging,Travel & Commute,capital one,credit card
 2025-12-02,Enticon Shops,Enticon Shops,debit,-17.42,Shopping & Supplies,General Retail,capital one,credit card
 2025-12-02,Espn,Espn,debit,-32.21,Entertainment,Streaming/Movies,capital one,credit card
 2025-12-02,Flughafen Berlin,Flughafen Berlin,debit,-16.31,General Spending,Other,capital one,credit card
-2025-12-02,Nordvpn,Nordvpn,debit,-85.86,General Spending,Other,capital one,credit card
+2025-12-02,Nord,Nord,debit,-85.86,General Spending,Other,capital one,credit card
 2025-12-02,Schengen Fashion,Schengen Fashion,debit,-26.51,General Spending,Other,capital one,credit card
 2025-12-02,Klm Airline,Klm Airline,debit,-81.57,Travel & Lodging,Airfare,capital one,credit card
 2025-12-03,Walmart Supercenter,Walmart Supercenter,debit,-203.32,Food / Dining,Groceries,capital one,credit card
 2025-12-04,Credit-Travel,Credit-travel,credit,24.55,Other Income,Other,capital one,credit card
 2025-12-04,Capital One,Capital One,credit,700.0,Other Income,Other,capital one,credit card
 2025-12-04,Capital One,Capital One,debit,-700.0,General Spending,Other,goldenwest,checking
-2025-12-05,Capital One,Capital One,credit,300.93,Other Income,Other,capital one,credit card
+2025-12-05,Internal,Internal,credit,300.93,Other Income,Other,capital one,credit card
 2025-12-05,Capital One,Capital One,debit,-300.93,General Spending,Other,goldenwest,checking
 2025-12-05,Church Donations,Church Donations,debit,-150.0,Gifts & Donations,Tithing,goldenwest,checking
 2025-12-05,Church Donations,Church Donations,debit,-140.0,Gifts & Donations,Tithing,goldenwest,checking
@@ -730,7 +730,7 @@ date,description,merchant,type,amount,main_category,sub_category,bank,account
 2025-12-06,Cafe Zupas,Cafe Zupas,debit,-14.09,Food / Dining,Restaurants/Dining,capital one,credit card
 2025-12-06,Hearts Nail Spa,Hearts Nail Spa,debit,-67.65,Health & Wellness,Personal Care,capital one,credit card
 2025-12-06,Maverik,Maverik,debit,-44.07,Automotive & Fuel,Fuel,capital one,credit card
-2025-12-06,Leatherby's Family Cream,Leatherby's Family Cream,debit,-16.79,Food / Dining,Fast Food,capital one,credit card
+2025-12-06,Leatherby's,Leatherby's,debit,-16.79,General Spending,Other,capital one,credit card
 2025-12-07,T-Mobile,T-Mobile,debit,-27.95,Housing & Bills,Phone,capital one,credit card
 2025-12-09,Walmart Supercenter,Walmart Supercenter,debit,-32.69,Food / Dining,Groceries,capital one,credit card
 2025-12-09,Walmart Supercenter,Walmart Supercenter,debit,-13.6,Food / Dining,Groceries,capital one,credit card
@@ -769,7 +769,7 @@ date,description,merchant,type,amount,main_category,sub_category,bank,account
 2025-12-29,Amazon,Amazon,credit,3.9,Shopping & Supplies,General Retail,goldenwest,checking
 2025-12-29,Cafe Zupas,Cafe Zupas,debit,-14.09,Food / Dining,Restaurants/Dining,capital one,credit card
 2025-12-29,Walmart Supercenter,Walmart Supercenter,debit,-39.62,Food / Dining,Groceries,capital one,credit card
-2025-12-30,Hrb Online,Hrb Online,debit,-10.0,General Spending,Other,capital one,credit card
+2025-12-30,Hrb,Hrb,debit,-10.0,General Spending,Other,capital one,credit card
 2025-12-31,Interest Earned,Interest Earned,credit,0.01,Savings & Investments,Dividends,goldenwest,money market
 2025-12-31,Interest Earned,Interest Earned,credit,1.91,Savings & Investments,Dividends,goldenwest,gold account
 2025-12-31,Golden,Golden,credit,20.05,Other Income,Other,goldenwest,gold account

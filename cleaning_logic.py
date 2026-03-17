@@ -256,6 +256,20 @@ category_hierarchy = {
 # Connects sub to main title
 sub_to_main = {sub: main for main, subs in category_hierarchy.items() for sub in subs}
 
+# Makes a smart title
+def smart_title(text):
+    words = text.lower().split()
+    fixed = []
+
+    for w in words:
+        if "'" in w:
+            first, rest = w.split("'", 1)
+            fixed.append(first.capitalize() + "'" + rest.lower())
+        else:
+            fixed.append(w.capitalize())
+
+    return " ".join(fixed)
+
 # Basic cleaning for descriptions
 def clean_description_for_matching(description):
     raw_desc = str(description).lower()
@@ -274,9 +288,9 @@ def clean_description_for_matching(description):
 
 # Check the regex cleaning first
 def match_description_map(raw_desc):
-    for pattern, replacement in description_map.items():
+    for pattern, merchant in description_map.items():
         if re.search(pattern, raw_desc):
-            return replacement
+            return merchant
     return None
 
 
