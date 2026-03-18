@@ -1,7 +1,6 @@
 import re
 import pandas as pd
 import numpy as np
-import subprocess
 
 # --- 1. DESCRIPTION CLEANING MAP ---
 # Patterns are lowercase here for easier matching
@@ -173,7 +172,7 @@ sub_category_map = {
     "Amazon": "General Retail",
     "Ross": "General Retail",
     "Barnes & Noble": "General Retail",
-    "Dick'S Sporting Goods": "General Retail",
+    "Dick's Sporting Goods": "General Retail",
     "Downeast": "Clothing",
     "Jcpenney": "Clothing",
     "Maurices": "Clothing",
@@ -232,25 +231,25 @@ sub_category_map = {
     # --- Income ---
     "Payroll Deposit": "Paychecks",
     "BYU Refund": "Refunds",
-    "Apple Services": "Refunds",
     "Credit-Travel Reward": "CC Rewards",
     "Youth Engagement Promo": "Other Income",
 }
 
 # --- 3. CATEGORY HIERARCHY ---
 category_hierarchy = {
-    "Food / Dining": ["Groceries", "Restaurants/Dining", "Fast Food"],
-    "Automotive & Fuel": ["Fuel", "Insurance", "Maintenance", "Auto Parts"],
-    "Health & Wellness": ["Medical", "Personal Care", "Pharmacy"],
+    "Food & Dining": ["Groceries", "Restaurants/Dining", "Fast Food", "Snacks"],
+    "Transportation": ["Vehicle Payments", "Auto Insurance", "Fuel", "Licensing", "Parking", "Repairs", "Maintenance"],
+    "Health & Wellness": ["Doctor/Dentist", "Medicine/Drugs", "Personal Care", "Pharmacy", "Health Insurance"],
     "Travel & Lodging": ["Airfare", "Lodging", "Travel & Commute"],
     "Shopping & Supplies": ["General Retail", "Home Improvement", "Hobbies", "Clothing"], 
-    "Housing & Bills": ["Mortgage/Rent", "Phone", "Cable/Internet", "Service Fees", "Utilities"],
-    "Gifts & Donations": ["Tithing", "Gift"],
-    "Education": ["Education"],
-    "Entertainment": ["Gaming", "Streaming/Movies", "Recreation"],
-    "Savings & Investments": ["Dividends", "Investments"],
+    "Housing & Bills": ["Mortgage/Rent", "Phone", "Cable/Internet", "Service Fees", "Utilities", "Maintenance/Repairs"],
+    "Gifts & Donations": ["Tithing", "Fast Offerings", "Hum Aid", "Gift"],
+    "Education": ["Tutition", "Books"],
+    "Entertainment": ["Gaming", "Subscriptions", "Recreation"],
+    "Savings & Investments": ["Dividends", "Investments", "Emergency Fund", "Retirement", "House Down Payment"],
     "Income": ["Paychecks", "Refunds", "CC Rewards", "Other Income"],
-    "Miscellaneous": ["Fees & Charges", "Other Services"]         
+    "Miscellaneous": ["Fees & Charges", "Other Services"], 
+    "Vacations / Travel": ["Travel", "Lodging", "Food", "Entertainment", "Souvenirs"]    
 }
 
 # Connects sub to main title
@@ -258,6 +257,7 @@ sub_to_main = {sub: main for main, subs in category_hierarchy.items() for sub in
 
 # Makes a smart title
 def smart_title(text):
+
     words = text.lower().split()
     fixed = []
 
@@ -274,16 +274,26 @@ def smart_title(text):
 def clean_description_for_matching(description):
     raw_desc = str(description).lower()
 
-    # Normalize "withdrawal"
+    # Remove bank noise
     raw_desc = re.sub(r'^\s*withdrawal\s*$', 'bank withdrawal', raw_desc)
 
-    # Strip common bank noise
     raw_desc = re.sub(
         r'^withdrawal\s*(xx)?\s*x?\b|xx\s*(sq|card|[a-z])?|^recurring\s*withdrawal\s*|provo\s*ut|\borem\b',
         '',
         raw_desc
-    ).strip()
+    )
 
+    # 🔥 ADD THIS
+    raw_desc = re.sub(r'[^a-z\s]', '', raw_desc)  # removes numbers + symbols
+
+    # Normalize spacing
+    raw_desc = " ".join(raw_desc.split())
+
+     # Filter Internal Noise (Transfers/Roundups)
+    noise_list = ["transfer to sofi", "to checking", "angel funding", "roundup", "home banking transfer", "pymt", "payment to", "north capital", "internal transfer"]
+    if any(noise in raw_desc for noise in noise_list):
+        return None
+    
     return raw_desc
 
 # Check the regex cleaning first
@@ -297,28 +307,9 @@ def match_description_map(raw_desc):
 def clean_and_categorize(df):
 
     def process_row(row):
-        # Convert to lowercase for pattern matching
-        raw_desc = str(row['merchant']).lower()
         amt = row['amount']
-        clean_name = None
 
-        # Strip Bank Noise (Withdrawal, Xx, trailing locations)
-
-        # \b ensures it's the whole word, and ^/$ ensures it's the ONLY thing in the string
-        raw_desc = re.sub(r'^\s*withdrawal\s*$', 'bank withdrawal', raw_desc)
-
-        # This turns "Withdrawal Xx Subway Provo Ut" -> "subway"
-        raw_desc = re.sub(r'^withdrawal\s*(xx)?\s*x?\b|xx\s*(sq|card|[a-z])?|^recurring\s*withdrawal\s*|provo\s*ut|\borem\b', '', raw_desc).strip()    
-        # Regex Matching (Checks against lowercase raw_desc)
-        for pattern, replacement in description_map.items():
-            if re.search(pattern, raw_desc):
-                clean_name = replacement
-                break
-        
-        # Fallback Cleaning (Strip numbers/special chars and Squish)
-        if not clean_name:
-            clean = re.sub(r'[0-9#*]', '', raw_desc)
-            clean_name = " ".join(clean.split()).title()
+        clean_name = clean_description_for_matching(row['description'])
 
         # Determine Sub-Category
         sub = sub_category_map.get(clean_name, "Other")
@@ -330,20 +321,19 @@ def clean_and_categorize(df):
             main = "General Spending"
         else:
             main = "Other Income"
+        
+        if clean_name is None:
+            return pd.Series([None, None, None])
             
         return pd.Series([clean_name, main, sub])
 
     # Apply across rows
     df[['description', 'main_category', 'sub_category']] = df.apply(process_row, axis=1)
-    
-    # Filter Internal Noise (Transfers/Roundups)
-    noise_list = ["transfer to sofi", "to checking", "angel funding", "roundup", "home banking transfer", "pymt", "payment to", "north capital", "internal transfer"]
-    df = df[~df['description'].str.lower().str.contains('|'.join(noise_list), na=False)]
 
+    # Remove rows marked for deletion
+    df = df.dropna(subset=["description"])
+    
     # Ensure description is Title Case for final output
-    df['description'] = df['description'].str.title()
+    df['description'] = df['description'].apply(smart_title)
 
-    # 2. Specifically fix the lowercase 's' after apostrophes
-    df['description'] = df['description'].str.replace(r"'S\b", "'s", regex=True)
-    
     return df

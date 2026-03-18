@@ -1,777 +1,573 @@
 date,description,merchant,type,amount,main_category,sub_category,bank,account
-2025-01-02,Internal,Internal,debit,-5.3,General Spending,Other,sofi,savings
-2025-01-03,Payroll Deposit,Payroll Deposit,credit,632.09,Income,Paychecks,goldenwest,checking
-2025-01-04,Internal,Internal,debit,-64.6,General Spending,Other,sofi,savings
-2025-01-04,Internal,Internal,debit,-30.99,General Spending,Other,sofi,savings
-2025-01-07,Byu (Campus Services),BYU (Campus Services),debit,-60.0,Education,Education,sofi,savings
-2025-01-08,Internal,Internal,debit,-47.65,General Spending,Other,sofi,savings
-2025-01-08,Internal,Internal,debit,-161.16,General Spending,Other,sofi,savings
-2025-01-10,Internal,Internal,debit,-6.38,General Spending,Other,sofi,savings
-2025-01-10,Internal,Internal,debit,-37.88,General Spending,Other,sofi,savings
-2025-01-10,Byu Refund,BYU Refund,credit,353.0,Income,Refunds,sofi,savings
-2025-01-12,Internal,Internal,debit,-28.15,General Spending,Other,sofi,savings
-2025-01-13,Internal,Internal,debit,-134.35,General Spending,Other,sofi,savings
-2025-01-14,Byu (Campus Services),BYU (Campus Services),debit,-158.0,Education,Education,sofi,savings
-2025-01-16,Internal,Internal,debit,-64.34,General Spending,Other,sofi,savings
-2025-01-17,Payroll Deposit,Payroll Deposit,credit,682.91,Income,Paychecks,goldenwest,checking
-2025-01-19,Internal,Internal,debit,-9.97,General Spending,Other,sofi,savings
-2025-01-20,Internal,Internal,debit,-58.44,General Spending,Other,sofi,savings
-2025-01-21,Bear River Insurance,Bear River Insurance,debit,-189.34,Automotive & Fuel,Insurance,sofi,savings
-2025-01-21,Internal,Internal,debit,-75.0,General Spending,Other,sofi,savings
-2025-01-21,Internal,Internal,debit,-50.21,General Spending,Other,sofi,savings
-2025-01-21,Kerby,Kerby,credit,769.16,Other Income,Other,goldenwest,checking
-2025-01-22,Internal,Internal,debit,-16.08,General Spending,Other,sofi,savings
-2025-01-27,Internal,Internal,debit,-92.35,General Spending,Other,sofi,savings
-2025-01-28,Internal,Internal,debit,-53.02,General Spending,Other,sofi,savings
-2025-01-28,Byu (Campus Services),BYU (Campus Services),debit,-281.9,Education,Education,sofi,savings
-2025-01-28,Internal,Internal,debit,-6.92,General Spending,Other,sofi,savings
-2025-01-29,Church Donations,Church Donations,debit,-185.0,Gifts & Donations,Tithing,sofi,savings
-2025-01-29,Church Donations,Church Donations,debit,-145.0,Gifts & Donations,Tithing,sofi,savings
-2025-01-31,Interest Earned,Interest Earned,credit,15.49,Savings & Investments,Dividends,sofi,savings
-2025-01-31,Interest Earned,Interest Earned,credit,0.18,Savings & Investments,Dividends,goldenwest,checking
-2025-01-31,Payroll Deposit,Payroll Deposit,credit,613.56,Income,Paychecks,goldenwest,checking
-2025-01-31,Walmart Supercenter,Walmart Supercenter,debit,-198.23,Food / Dining,Groceries,goldenwest,checking
-2025-01-31,Interest Earned,Interest Earned,credit,0.26,Savings & Investments,Dividends,goldenwest,gold account
-2025-02-01,Internal,Internal,debit,-0.77,General Spending,Other,goldenwest,checking
-2025-02-01,Internal,Internal,credit,0.77,Other Income,Other,goldenwest,gold account
-2025-02-02,T-Mobile,T-Mobile,debit,-11.16,Housing & Bills,Phone,goldenwest,checking
-2025-02-03,Internal,Internal,credit,0.84,Other Income,Other,goldenwest,gold account
-2025-02-03,Internal,Internal,debit,-0.84,General Spending,Other,goldenwest,checking
-2025-02-04,Internal,Internal,debit,-52.96,General Spending,Other,sofi,savings
-2025-02-06,Internal,Internal,debit,-1319.43,General Spending,Other,sofi,savings
-2025-02-09,Internal,Internal,debit,-9.65,General Spending,Other,sofi,savings
-2025-02-10,Internal,Internal,debit,-183.66,General Spending,Other,sofi,savings
-2025-02-10,Internal,Internal,debit,-23.01,General Spending,Other,sofi,savings
-2025-02-10,Internal,Internal,debit,-134.32,General Spending,Other,sofi,savings
-2025-02-11,Costco Wholesale,Costco Wholesale,credit,26.77,Food / Dining,Groceries,goldenwest,checking
-2025-02-11,Internal,Internal,debit,-13.95,General Spending,Other,sofi,savings
-2025-02-12,Byu (Campus Services),BYU (Campus Services),debit,-163.0,Education,Education,sofi,savings
-2025-02-12,Internal,Internal,credit,0.77,Other Income,Other,goldenwest,gold account
-2025-02-12,Walmart Supercenter,Walmart Supercenter,debit,-244.25,Food / Dining,Groceries,goldenwest,checking
-2025-02-12,Internal,Internal,debit,-0.77,General Spending,Other,goldenwest,checking
-2025-02-13,Internal,Internal,credit,0.75,Other Income,Other,goldenwest,gold account
-2025-02-13,Maverik,Maverik,debit,-49.24,Automotive & Fuel,Fuel,goldenwest,checking
-2025-02-13,Internal,Internal,debit,-0.75,General Spending,Other,goldenwest,checking
-2025-02-14,Internal,Internal,debit,-0.76,General Spending,Other,goldenwest,checking
-2025-02-14,Payroll Deposit,Payroll Deposit,credit,1119.93,Income,Paychecks,goldenwest,checking
-2025-02-14,Kerby,Kerby,credit,114.8,Other Income,Other,goldenwest,checking
-2025-02-14,Internal,Internal,credit,0.76,Other Income,Other,goldenwest,gold account
-2025-02-16,Internal,Internal,debit,-7.03,General Spending,Other,sofi,savings
-2025-02-18,Internal,Internal,debit,-12.44,General Spending,Other,sofi,savings
-2025-02-19,Bear River Insurance,Bear River Insurance,debit,-189.0,Automotive & Fuel,Insurance,sofi,savings
-2025-02-20,Internal,Internal,debit,-5.73,General Spending,Other,sofi,savings
-2025-02-22,Internal,Internal,debit,-22.0,General Spending,Other,sofi,savings
-2025-02-23,Internal,Internal,debit,-26.94,General Spending,Other,sofi,savings
-2025-02-24,Internal,Internal,debit,-47.83,General Spending,Other,sofi,savings
-2025-02-24,Internal,Internal,debit,-469.06,General Spending,Other,sofi,savings
-2025-02-26,Internal,Internal,debit,-192.5,General Spending,Other,sofi,savings
-2025-02-26,Internal,Internal,debit,-48.83,General Spending,Other,sofi,savings
-2025-02-28,Payroll Deposit,Payroll Deposit,credit,627.36,Income,Paychecks,goldenwest,checking
-2025-02-28,Interest Earned,Interest Earned,credit,0.25,Savings & Investments,Dividends,goldenwest,gold account
-2025-02-28,Interest Earned,Interest Earned,credit,0.23,Savings & Investments,Dividends,goldenwest,checking
-2025-02-28,Interest Earned,Interest Earned,credit,5.62,Savings & Investments,Dividends,sofi,savings
-2025-03-01,Internal,Internal,debit,-78.56,General Spending,Other,sofi,savings
-2025-03-01,Internal,Internal,debit,-209.79,General Spending,Other,sofi,savings
-2025-03-03,Internal,Internal,debit,-13.03,General Spending,Other,sofi,savings
-2025-03-03,Walmart Supercenter,Walmart Supercenter,debit,-37.52,Food / Dining,Groceries,goldenwest,checking
-2025-03-03,Walmart Supercenter,Walmart Supercenter,debit,-51.15,Food / Dining,Groceries,goldenwest,checking
-2025-03-04,Internal,Internal,credit,1.33,Other Income,Other,goldenwest,gold account
-2025-03-04,Internal,Internal,debit,-1.33,General Spending,Other,goldenwest,checking
-2025-03-04,Taco Bell,Taco Bell,debit,-19.02,Food / Dining,Fast Food,goldenwest,checking
-2025-03-05,Internal,Internal,debit,-0.98,General Spending,Other,goldenwest,checking
-2025-03-05,Internal,Internal,credit,0.98,Other Income,Other,goldenwest,gold account
-2025-03-06,Oak Hills Pharmacy,Oak Hills Pharmacy,debit,-23.01,Health & Wellness,Pharmacy,goldenwest,checking
-2025-03-07,Internal,Internal,credit,0.99,Other Income,Other,goldenwest,gold account
-2025-03-07,Internal,Internal,debit,-0.99,General Spending,Other,goldenwest,checking
-2025-03-07,Payroll Deposit,Payroll Deposit,debit,-101.63,Income,Paychecks,goldenwest,checking
-2025-03-07,Ross,Ross,debit,-21.3,Shopping & Supplies,General Retail,goldenwest,checking
-2025-03-08,Internal,Internal,credit,0.7,Other Income,Other,goldenwest,gold account
-2025-03-08,T-Mobile,T-Mobile,debit,-27.9,Housing & Bills,Phone,goldenwest,checking
-2025-03-08,Internal,Internal,debit,-0.7,General Spending,Other,goldenwest,checking
-2025-03-08,Walmart Supercenter,Walmart Supercenter,debit,-66.34,Food / Dining,Groceries,goldenwest,checking
-2025-03-09,Internal,Internal,credit,0.66,Other Income,Other,goldenwest,gold account
-2025-03-09,Internal,Internal,debit,-0.66,General Spending,Other,goldenwest,checking
-2025-03-09,Carl's Jr.,Carl's Jr.,debit,-22.5,General Spending,Other,goldenwest,checking
-2025-03-10,Fabulous Freddy's,Fabulous Freddy's,debit,-12.83,General Spending,Other,goldenwest,checking
-2025-03-10,Barnes & Noble,Barnes & Noble,debit,-52.29,Shopping & Supplies,General Retail,goldenwest,checking
-2025-03-10,Bath & Body Works,Bath & Body Works,debit,-46.76,Health & Wellness,Personal Care,goldenwest,checking
-2025-03-10,Victoria's Secret,Victoria's Secret,debit,-45.32,General Spending,Other,goldenwest,checking
-2025-03-10,Jcpenney,Jcpenney,debit,-41.35,Shopping & Supplies,Clothing,goldenwest,checking
-2025-03-10,Dick's Sporting Goods,Dick's Sporting Goods,debit,-32.01,Shopping & Supplies,General Retail,goldenwest,checking
-2025-03-10,Internal,Internal,credit,0.5,Other Income,Other,goldenwest,gold account
-2025-03-10,Internal,Internal,debit,-0.5,General Spending,Other,goldenwest,checking
-2025-03-11,Internal,Internal,debit,-3.44,General Spending,Other,goldenwest,checking
-2025-03-11,Walmart Supercenter,Walmart Supercenter,debit,-55.25,Food / Dining,Groceries,goldenwest,checking
-2025-03-11,Internal,Internal,credit,3.44,Other Income,Other,goldenwest,gold account
-2025-03-12,Taco Bell,Taco Bell,debit,-21.0,Food / Dining,Fast Food,goldenwest,checking
-2025-03-12,Internal,Internal,debit,-0.75,General Spending,Other,goldenwest,checking
-2025-03-12,Internal,Internal,credit,0.75,Other Income,Other,goldenwest,gold account
-2025-03-12,Famous Footwear,Famous Footwear,debit,-98.0,Shopping & Supplies,Clothing,goldenwest,checking
-2025-03-13,Chick-Fil-A,Chick-fil-A,debit,-13.24,Food / Dining,Fast Food,goldenwest,checking
-2025-03-13,Downeast,Downeast,debit,-72.93,Shopping & Supplies,Clothing,goldenwest,checking
-2025-03-13,Downeast,Downeast,debit,-27.75,Shopping & Supplies,Clothing,goldenwest,checking
-2025-03-13,Panda Express,Panda Express,debit,-26.4,Food / Dining,Fast Food,goldenwest,checking
-2025-03-13,Red Cliffs Boba Tea,Red Cliffs Boba Tea,debit,-9.06,Food / Dining,Fast Food,goldenwest,checking
-2025-03-14,Internal,Internal,credit,2.62,Other Income,Other,goldenwest,gold account
-2025-03-14,Payroll Deposit,Payroll Deposit,credit,564.52,Income,Paychecks,goldenwest,checking
-2025-03-14,Internal,Internal,debit,-2.62,General Spending,Other,goldenwest,checking
-2025-03-14,Taco Bell,Taco Bell,debit,-13.0,Food / Dining,Fast Food,goldenwest,checking
-2025-03-15,Maverik,Maverik,debit,-49.01,Automotive & Fuel,Fuel,goldenwest,checking
-2025-03-15,Walmart Supercenter,Walmart Supercenter,debit,-22.28,Food / Dining,Groceries,goldenwest,checking
-2025-03-16,Internal,Internal,debit,-1.71,General Spending,Other,goldenwest,checking
-2025-03-16,Internal,Internal,credit,1.71,Other Income,Other,goldenwest,gold account
-2025-03-17,Internal,Internal,debit,-38.67,General Spending,Other,sofi,savings
-2025-03-19,Walmart Supercenter,Walmart Supercenter,debit,-135.57,Food / Dining,Groceries,goldenwest,checking
-2025-03-19,Bear River Insurance,Bear River Insurance,debit,-189.0,Automotive & Fuel,Insurance,sofi,savings
-2025-03-20,Internal,Internal,debit,-0.43,General Spending,Other,goldenwest,checking
-2025-03-20,Internal,Internal,credit,0.43,Other Income,Other,goldenwest,gold account
-2025-03-23,Taco Bell,Taco Bell,debit,-24.0,Food / Dining,Fast Food,goldenwest,checking
-2025-03-25,Maverik,Maverik,debit,-48.71,Automotive & Fuel,Fuel,goldenwest,checking
-2025-03-26,Byu (Campus Services),BYU (Campus Services),debit,-173.0,Education,Education,sofi,savings
-2025-03-26,Internal,Internal,credit,0.29,Other Income,Other,goldenwest,gold account
-2025-03-26,Subway,Subway,debit,-15.45,Food / Dining,Fast Food,goldenwest,checking
-2025-03-26,Internal,Internal,debit,-15.0,General Spending,Other,sofi,savings
-2025-03-26,Internal,Internal,debit,-0.29,General Spending,Other,goldenwest,checking
-2025-03-27,Internal,Internal,debit,-0.55,General Spending,Other,goldenwest,checking
-2025-03-27,Oak Hills Pharmacy,Oak Hills Pharmacy,debit,-23.01,Health & Wellness,Pharmacy,goldenwest,checking
-2025-03-27,Internal,Internal,credit,0.55,Other Income,Other,goldenwest,gold account
-2025-03-28,Internal,Internal,debit,-0.99,General Spending,Other,goldenwest,checking
-2025-03-28,Internal,Internal,credit,0.99,Other Income,Other,goldenwest,gold account
-2025-03-28,Payroll Deposit,Payroll Deposit,credit,588.64,Income,Paychecks,goldenwest,checking
-2025-03-29,Walmart Supercenter,Walmart Supercenter,debit,-106.48,Food / Dining,Groceries,goldenwest,checking
-2025-03-29,Costco Wholesale,Costco Wholesale,debit,-175.29,Food / Dining,Groceries,goldenwest,checking
-2025-03-30,Internal,Internal,debit,-1.23,General Spending,Other,goldenwest,checking
-2025-03-30,Internal,Internal,credit,1.23,Other Income,Other,goldenwest,gold account
-2025-03-31,Interest Earned,Interest Earned,credit,0.77,Savings & Investments,Dividends,goldenwest,money market
-2025-03-31,Crosspointe Dental,Crosspointe Dental,debit,-158.0,Health & Wellness,Medical,goldenwest,checking
-2025-03-31,Interest Earned,Interest Earned,credit,0.25,Savings & Investments,Dividends,sofi,savings
-2025-03-31,Interest Earned,Interest Earned,credit,0.33,Savings & Investments,Dividends,goldenwest,gold account
-2025-03-31,Interest Earned,Interest Earned,credit,0.24,Savings & Investments,Dividends,goldenwest,checking
-2025-04-01,Church Donations,Church Donations,debit,-205.0,Gifts & Donations,Tithing,goldenwest,checking
-2025-04-01,Walmart Supercenter,Walmart Supercenter,debit,-160.31,Food / Dining,Groceries,goldenwest,checking
-2025-04-01,Church Donations,Church Donations,debit,-320.0,Gifts & Donations,Tithing,goldenwest,checking
-2025-04-02,Internal,Internal,debit,-0.69,General Spending,Other,goldenwest,checking
-2025-04-02,Internal,Internal,credit,0.69,Other Income,Other,goldenwest,gold account
-2025-04-04,Robinhood Investment,Robinhood Investment,debit,-150.0,Savings & Investments,Investments,goldenwest,checking
-2025-04-04,Hobby Lobby,Hobby Lobby,debit,-26.6,Shopping & Supplies,Hobbies,goldenwest,checking
-2025-04-04,Ross,Ross,debit,-33.96,Shopping & Supplies,General Retail,goldenwest,checking
-2025-04-05,Internal,Internal,credit,0.44,Other Income,Other,goldenwest,gold account
-2025-04-05,Internal,Internal,debit,-0.44,General Spending,Other,goldenwest,checking
-2025-04-05,Taco Bell,Taco Bell,debit,-16.0,Food / Dining,Fast Food,goldenwest,checking
-2025-04-06,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-06,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-06,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-06,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-06,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-07,Internal,Internal,credit,4.95,Other Income,Other,goldenwest,gold account
-2025-04-07,Internal,Internal,debit,-4.95,General Spending,Other,goldenwest,checking
-2025-04-07,Sofi,Sofi,debit,-1.01,General Spending,Other,goldenwest,checking
-2025-04-07,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-07,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-07,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-07,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-07,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-07,Maverik,Maverik,debit,-49.92,Automotive & Fuel,Fuel,goldenwest,checking
-2025-04-08,T-Mobile,T-Mobile,debit,-27.9,Housing & Bills,Phone,goldenwest,checking
-2025-04-08,Robinhood Investment,Robinhood Investment,debit,-15.0,Savings & Investments,Investments,goldenwest,money market
-2025-04-08,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-08,Internal,Internal,debit,-5.03,General Spending,Other,goldenwest,checking
-2025-04-08,Robinhood Investment,Robinhood Investment,debit,-500.0,Savings & Investments,Investments,goldenwest,money market
-2025-04-08,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-08,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-08,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-08,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-08,Internal,Internal,credit,5.03,Other Income,Other,goldenwest,gold account
-2025-04-09,Visa Service Fee,Visa Service Fee,debit,-0.37,Housing & Bills,Service Fees,goldenwest,checking
-2025-04-09,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-09,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-09,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-09,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-09,Ebook Academy,Ebook Academy,debit,-37.0,Education,Education,goldenwest,checking
-2025-04-09,Internal,Internal,credit,4.95,Other Income,Other,goldenwest,gold account
-2025-04-09,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-09,Internal,Internal,debit,-4.95,General Spending,Other,goldenwest,checking
-2025-04-10,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-10,Roxberry Juice Co.,Roxberry Juice Co.,debit,-26.43,Food / Dining,Fast Food,goldenwest,checking
-2025-04-10,Internal,Internal,debit,-4.95,General Spending,Other,goldenwest,checking
-2025-04-10,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-10,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-10,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-10,Internal,Internal,credit,4.95,Other Income,Other,goldenwest,gold account
-2025-04-10,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-11,Taco Bell,Taco Bell,debit,-15.83,Food / Dining,Fast Food,goldenwest,checking
-2025-04-11,Payroll Deposit,Payroll Deposit,credit,533.19,Income,Paychecks,goldenwest,checking
-2025-04-11,Internal,Internal,credit,5.52,Other Income,Other,goldenwest,gold account
-2025-04-11,Robinhood Investment,Robinhood Investment,debit,-40.0,Savings & Investments,Investments,goldenwest,money market
-2025-04-11,Robinhood Investment,Robinhood Investment,debit,-324.9,Savings & Investments,Investments,goldenwest,money market
-2025-04-11,Robinhood Investment,Robinhood Investment,debit,-25.0,Savings & Investments,Investments,goldenwest,money market
-2025-04-11,Internal,Internal,debit,-5.52,General Spending,Other,goldenwest,checking
-2025-04-12,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-12,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-12,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-12,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-12,Internal,Internal,debit,-0.17,General Spending,Other,goldenwest,checking
-2025-04-12,Home Depot,Home Depot,debit,-70.32,Shopping & Supplies,Home Improvement,goldenwest,checking
-2025-04-12,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-12,Internal,Internal,credit,0.17,Other Income,Other,goldenwest,gold account
-2025-04-13,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-13,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-13,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-13,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-13,Internal,Internal,credit,5.63,Other Income,Other,goldenwest,gold account
-2025-04-13,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-13,Internal,Internal,debit,-5.63,General Spending,Other,goldenwest,checking
-2025-04-14,Internal,Internal,credit,4.95,Other Income,Other,goldenwest,gold account
-2025-04-14,Internal,Internal,debit,-4.95,General Spending,Other,goldenwest,checking
-2025-04-15,Robinhood Investment,Robinhood Investment,debit,-40.0,Savings & Investments,Investments,goldenwest,money market
-2025-04-15,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-15,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-15,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-15,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-15,Life Starfish,Life Starfish,debit,-500.0,Food / Dining,Groceries,goldenwest,checking
-2025-04-15,Oak Hills Pharmacy,Oak Hills Pharmacy,debit,-23.01,Health & Wellness,Pharmacy,goldenwest,checking
-2025-04-15,Perks Payment,Perks Payment,debit,-227.77,General Spending,Other,goldenwest,checking
-2025-04-15,Walmart Supercenter,Walmart Supercenter,debit,-15.47,Food / Dining,Groceries,goldenwest,checking
-2025-04-15,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-16,Internal,Internal,credit,6.7,Other Income,Other,goldenwest,gold account
-2025-04-16,Internal,Internal,debit,-6.7,General Spending,Other,goldenwest,checking
-2025-04-16,Perks Payment,Perks Payment,debit,-64.47,General Spending,Other,goldenwest,checking
-2025-04-17,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-17,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-17,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-17,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-17,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-17,Internal,Internal,credit,0.53,Other Income,Other,goldenwest,gold account
-2025-04-17,Internal,Internal,debit,-0.53,General Spending,Other,goldenwest,checking
-2025-04-17,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-17,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-17,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-17,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-17,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-18,Internal,Internal,debit,-9.9,General Spending,Other,goldenwest,checking
-2025-04-18,Internal,Internal,credit,9.9,Other Income,Other,goldenwest,gold account
-2025-04-20,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-20,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-20,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-20,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-20,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-21,Internal,Internal,debit,-4.95,General Spending,Other,goldenwest,checking
-2025-04-21,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-21,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-21,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-21,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-21,Walmart Supercenter,Walmart Supercenter,debit,-3.67,Food / Dining,Groceries,goldenwest,checking
-2025-04-21,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-21,Bear River Insurance,Bear River Insurance,debit,-189.0,Automotive & Fuel,Insurance,goldenwest,checking
-2025-04-21,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,money market
-2025-04-21,Internal,Internal,credit,4.95,Other Income,Other,goldenwest,gold account
-2025-04-22,Life Starfish,Life Starfish,debit,-500.0,Food / Dining,Groceries,goldenwest,checking
-2025-04-22,Internal,Internal,credit,5.28,Other Income,Other,goldenwest,gold account
-2025-04-22,Internal,Internal,debit,-5.28,General Spending,Other,goldenwest,checking
-2025-04-23,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-23,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-23,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-23,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-23,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-24,Life Starfish,Life Starfish,debit,-22.0,Food / Dining,Groceries,goldenwest,checking
-2025-04-24,Internal,Internal,credit,4.95,Other Income,Other,goldenwest,gold account
-2025-04-24,Internal,Internal,debit,-4.95,General Spending,Other,goldenwest,checking
-2025-04-25,Payroll Deposit,Payroll Deposit,credit,661.69,Income,Paychecks,goldenwest,checking
-2025-04-26,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-26,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-26,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-26,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-27,Internal,Internal,debit,-3.96,General Spending,Other,goldenwest,checking
-2025-04-27,Google Services,Google Services,debit,-21.48,Housing & Bills,Service Fees,goldenwest,checking
-2025-04-27,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-27,Internal,Internal,credit,3.96,Other Income,Other,goldenwest,gold account
-2025-04-28,Internal,Internal,credit,0.99,Other Income,Other,goldenwest,gold account
-2025-04-28,Life Starfish,Life Starfish,debit,-500.0,Food / Dining,Groceries,goldenwest,checking
-2025-04-28,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-28,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-28,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-28,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-28,Robinhood Investment,Robinhood Investment,debit,-1.01,Savings & Investments,Investments,goldenwest,checking
-2025-04-28,Internal,Internal,debit,-0.99,General Spending,Other,goldenwest,checking
-2025-04-29,Internal,Internal,debit,-4.95,General Spending,Other,goldenwest,checking
-2025-04-29,Internal,Internal,credit,4.95,Other Income,Other,goldenwest,gold account
-2025-04-30,Interest Earned,Interest Earned,credit,0.05,Savings & Investments,Dividends,goldenwest,checking
-2025-04-30,Interest Earned,Interest Earned,credit,2.62,Savings & Investments,Dividends,goldenwest,money market
-2025-04-30,Interest Earned,Interest Earned,credit,0.55,Savings & Investments,Dividends,goldenwest,gold account
-2025-04-30,Interest Earned,Interest Earned,credit,0.01,Savings & Investments,Dividends,sofi,savings
-2025-05-01,Crosspointe Dental,Crosspointe Dental,debit,-360.0,Health & Wellness,Medical,goldenwest,checking
-2025-05-04,Jacksons Food Stores,Jacksons Food Stores,debit,-11.31,Food / Dining,Groceries,goldenwest,checking
-2025-05-05,Cold Stone Creamery,Cold Stone Creamery,debit,-12.97,Food / Dining,Fast Food,goldenwest,checking
-2025-05-05,Internal,Internal,debit,-0.69,General Spending,Other,goldenwest,checking
-2025-05-05,Byu (Campus Services),BYU (Campus Services),debit,-158.0,Education,Education,goldenwest,checking
-2025-05-05,Internal,Internal,credit,0.69,Other Income,Other,goldenwest,gold account
-2025-05-06,Internal,Internal,debit,-0.03,General Spending,Other,goldenwest,checking
-2025-05-06,Internal,Internal,credit,0.03,Other Income,Other,goldenwest,gold account
-2025-05-07,Costco Wholesale,Costco Wholesale,debit,-7.53,Food / Dining,Groceries,goldenwest,checking
-2025-05-07,Costco Wholesale,Costco Wholesale,debit,-92.41,Food / Dining,Groceries,goldenwest,checking
-2025-05-07,Costco Wholesale,Costco Wholesale,debit,-52.98,Food / Dining,Groceries,goldenwest,checking
-2025-05-08,Internal,Internal,debit,-1.08,General Spending,Other,goldenwest,checking
-2025-05-08,Internal,Internal,credit,1.08,Other Income,Other,goldenwest,gold account
-2025-05-08,T-Mobile,T-Mobile,debit,-27.9,Housing & Bills,Phone,goldenwest,checking
-2025-05-09,Payroll Deposit,Payroll Deposit,credit,643.93,Income,Paychecks,goldenwest,checking
-2025-05-10,Internal,Internal,credit,100.0,Other Income,Other,goldenwest,gold account
-2025-05-15,Life Starfish,Life Starfish,debit,-400.0,Food / Dining,Groceries,goldenwest,checking
-2025-05-15,Shoeman Enterprise,Shoeman Enterprise,debit,-16.12,Shopping & Supplies,Clothing,goldenwest,checking
-2025-05-15,Chromis Bakery,Chromis Bakery,debit,-6.0,General Spending,Other,goldenwest,checking
-2025-05-16,Internal,Internal,debit,-0.88,General Spending,Other,goldenwest,checking
-2025-05-16,Internal,Internal,debit,-40.0,General Spending,Other,goldenwest,checking
-2025-05-16,Internal,Internal,credit,0.88,Other Income,Other,goldenwest,gold account
-2025-05-19,Bear River Insurance,Bear River Insurance,debit,-189.0,Automotive & Fuel,Insurance,goldenwest,checking
-2025-05-19,Oak Hills Pharmacy,Oak Hills Pharmacy,debit,-23.01,Health & Wellness,Pharmacy,goldenwest,checking
-2025-05-20,Internal,Internal,credit,0.99,Other Income,Other,goldenwest,gold account
-2025-05-20,Internal,Internal,debit,-0.99,General Spending,Other,goldenwest,checking
-2025-05-21,Life Starfish,Life Starfish,debit,-200.0,Food / Dining,Groceries,goldenwest,checking
-2025-05-22,Perks Payment,Perks Payment,debit,-515.0,General Spending,Other,goldenwest,checking
-2025-05-23,Payroll Deposit,Payroll Deposit,credit,718.78,Income,Paychecks,goldenwest,checking
-2025-05-25,Brookers,Brookers,debit,-13.55,General Spending,Other,goldenwest,checking
-2025-05-26,Internal,Internal,debit,-0.45,General Spending,Other,goldenwest,checking
-2025-05-26,Internal,Internal,debit,-52.49,General Spending,Other,goldenwest,checking
-2025-05-26,Internal,Internal,credit,0.45,Other Income,Other,goldenwest,gold account
-2025-05-27,Fandango/Vudu,Fandango/Vudu,debit,-16.11,Entertainment,Streaming/Movies,goldenwest,checking
-2025-05-27,Internal,Internal,debit,-0.51,General Spending,Other,goldenwest,checking
-2025-05-27,Internal,Internal,credit,0.51,Other Income,Other,goldenwest,gold account
-2025-05-28,Ross,Ross,debit,-89.11,Shopping & Supplies,General Retail,goldenwest,checking
-2025-05-28,Life Starfish,Life Starfish,debit,-400.0,Food / Dining,Groceries,goldenwest,checking
-2025-05-28,Internal,Internal,credit,0.89,Other Income,Other,goldenwest,gold account
-2025-05-28,Internal,Internal,debit,-0.89,General Spending,Other,goldenwest,checking
-2025-05-29,Internal,Internal,credit,0.89,Other Income,Other,goldenwest,gold account
-2025-05-29,Volker's Bakery,Volker's Bakery,debit,-12.75,General Spending,Other,goldenwest,checking
-2025-05-29,Ouelessebougou Alliance,Ouelessebougou Alliance,debit,-5.0,General Spending,Other,goldenwest,checking
-2025-05-29,Popbite Bakery,Popbite Bakery,debit,-8.52,Food / Dining,Fast Food,goldenwest,checking
-2025-05-29,Internal,Internal,debit,-0.89,General Spending,Other,goldenwest,checking
-2025-05-29,Hansen Workshop,Hansen Workshop,debit,-8.6,General Spending,Other,goldenwest,checking
-2025-05-29,Taco Bell,Taco Bell,debit,-17.3,Food / Dining,Fast Food,goldenwest,checking
-2025-05-29,Walmart Supercenter,Walmart Supercenter,debit,-125.64,Food / Dining,Groceries,goldenwest,checking
-2025-05-30,Internal,Internal,credit,2.19,Other Income,Other,goldenwest,gold account
-2025-05-30,Internal,Internal,debit,-2.19,General Spending,Other,goldenwest,checking
-2025-05-31,Interest Earned,Interest Earned,credit,0.04,Savings & Investments,Dividends,goldenwest,checking
-2025-05-31,Interest Earned,Interest Earned,credit,1.42,Savings & Investments,Dividends,goldenwest,money market
-2025-05-31,Interest Earned,Interest Earned,credit,1.15,Savings & Investments,Dividends,goldenwest,gold account
-2025-05-31,Walgreens,Walgreens,debit,-114.37,Health & Wellness,Pharmacy,goldenwest,checking
-2025-05-31,T-Mobile,T-Mobile,debit,-11.16,Housing & Bills,Phone,goldenwest,checking
-2025-05-31,Hobby Lobby,Hobby Lobby,debit,-126.63,Shopping & Supplies,Hobbies,goldenwest,checking
-2025-05-31,Interest Earned,Interest Earned,credit,0.01,Savings & Investments,Dividends,sofi,savings
-2025-06-01,Internal,Internal,credit,1.84,Other Income,Other,goldenwest,gold account
-2025-06-01,Internal,Internal,debit,-1.84,General Spending,Other,goldenwest,checking
-2025-06-04,Byu (Campus Services),BYU (Campus Services),debit,-158.0,Education,Education,goldenwest,checking
-2025-06-05,Costco Wholesale,Costco Wholesale,debit,-50.2,Food / Dining,Groceries,goldenwest,checking
-2025-06-05,Hobby Lobby,Hobby Lobby,debit,-49.01,Shopping & Supplies,Hobbies,goldenwest,checking
-2025-06-05,Costco Wholesale,Costco Wholesale,debit,-124.5,Food / Dining,Groceries,goldenwest,checking
-2025-06-06,Payroll Deposit,Payroll Deposit,credit,766.59,Income,Paychecks,goldenwest,checking
-2025-06-06,Internal,Internal,debit,-2.29,General Spending,Other,goldenwest,checking
-2025-06-06,Hobby Lobby,Hobby Lobby,debit,-11.25,Shopping & Supplies,Hobbies,goldenwest,checking
-2025-06-06,Internal,Internal,credit,2.29,Other Income,Other,goldenwest,gold account
-2025-06-07,Internal,Internal,debit,-0.75,General Spending,Other,goldenwest,checking
-2025-06-07,Internal,Internal,credit,0.75,Other Income,Other,goldenwest,gold account
-2025-06-08,T-Mobile,T-Mobile,debit,-27.9,Housing & Bills,Phone,goldenwest,checking
-2025-06-14,Walmart Supercenter,Walmart Supercenter,debit,-71.31,Food / Dining,Groceries,goldenwest,checking
-2025-06-15,Internal,Internal,debit,-0.69,General Spending,Other,goldenwest,checking
-2025-06-15,Internal,Internal,credit,0.69,Other Income,Other,goldenwest,gold account
-2025-06-16,Oak Hills Pharmacy,Oak Hills Pharmacy,debit,-23.01,Health & Wellness,Pharmacy,goldenwest,checking
-2025-06-17,Internal,Internal,debit,-0.99,General Spending,Other,goldenwest,checking
-2025-06-17,Internal,Internal,credit,0.99,Other Income,Other,goldenwest,gold account
-2025-06-18,Byu (Campus Services),BYU (Campus Services),debit,-170.0,Education,Education,goldenwest,checking
-2025-06-19,Maurices,Maurices,debit,-9.67,Shopping & Supplies,Clothing,goldenwest,checking
-2025-06-20,Internal,Internal,debit,-0.33,General Spending,Other,goldenwest,checking
-2025-06-20,Internal,Internal,credit,0.33,Other Income,Other,goldenwest,gold account
-2025-06-20,Bear River Insurance,Bear River Insurance,debit,-188.0,Automotive & Fuel,Insurance,goldenwest,checking
-2025-06-20,Mcdonald's,McDonald's,debit,-20.5,Food / Dining,Fast Food,goldenwest,checking
-2025-06-20,Payroll Deposit,Payroll Deposit,credit,736.01,Income,Paychecks,goldenwest,checking
-2025-06-21,Internal,Internal,debit,-0.5,General Spending,Other,goldenwest,checking
-2025-06-21,Internal,Internal,credit,0.5,Other Income,Other,goldenwest,gold account
-2025-06-23,Walmart Supercenter,Walmart Supercenter,debit,-14.42,Food / Dining,Groceries,goldenwest,checking
-2025-06-24,Internal,Internal,credit,0.58,Other Income,Other,goldenwest,gold account
-2025-06-24,Internal,Internal,debit,-0.02,General Spending,Other,goldenwest,checking
-2025-06-24,Internal,Internal,debit,-0.58,General Spending,Other,goldenwest,checking
-2025-06-30,Interest Earned,Interest Earned,credit,1.29,Savings & Investments,Dividends,goldenwest,gold account
-2025-06-30,Interest Earned,Interest Earned,credit,0.87,Savings & Investments,Dividends,goldenwest,money market
-2025-06-30,Interest Earned,Interest Earned,credit,0.04,Savings & Investments,Dividends,goldenwest,checking
-2025-06-30,Interest Earned,Interest Earned,credit,0.01,Savings & Investments,Dividends,sofi,savings
-2025-07-03,Byu (Campus Services),BYU (Campus Services),debit,-5.08,Education,Education,goldenwest,checking
-2025-07-03,Byu (Campus Services),BYU (Campus Services),debit,-158.0,Education,Education,goldenwest,checking
-2025-07-03,Payroll Deposit,Payroll Deposit,credit,808.4,Income,Paychecks,goldenwest,checking
-2025-07-04,Internal,Internal,credit,0.92,Other Income,Other,goldenwest,gold account
-2025-07-04,Internal,Internal,debit,-0.92,General Spending,Other,goldenwest,checking
-2025-07-05,Lava Hot Springs,Lava Hot Springs,debit,-7.75,Entertainment,Recreation,goldenwest,checking
-2025-07-06,Internal,Internal,debit,-0.25,General Spending,Other,goldenwest,checking
-2025-07-06,Internal,Internal,credit,0.25,Other Income,Other,goldenwest,gold account
-2025-07-07,Life Starfish,Life Starfish,debit,-300.0,Food / Dining,Groceries,goldenwest,checking
-2025-07-08,T-Mobile,T-Mobile,debit,-27.95,Housing & Bills,Phone,goldenwest,checking
-2025-07-08,Nielsen's Frozen Custard,Nielsen's Frozen Custard,debit,-7.57,General Spending,Other,goldenwest,checking
-2025-07-08,Grandma Becky Payment,Grandma Becky Payment,debit,-60.0,Travel & Lodging,Lodging,goldenwest,checking
-2025-07-09,Internal,Internal,credit,0.43,Other Income,Other,goldenwest,gold account
-2025-07-09,Internal,Internal,debit,-0.43,General Spending,Other,goldenwest,checking
-2025-07-10,Walmart Supercenter,Walmart Supercenter,debit,-32.04,Food / Dining,Groceries,goldenwest,checking
-2025-07-10,Walmart Supercenter,Walmart Supercenter,debit,-187.3,Food / Dining,Groceries,capital one,credit card
-2025-07-11,Costco Wholesale,Costco Wholesale,debit,-55.49,Food / Dining,Groceries,goldenwest,checking
-2025-07-11,Internal,Internal,debit,-0.96,General Spending,Other,goldenwest,checking
-2025-07-11,Costco Wholesale,Costco Wholesale,debit,-74.28,Food / Dining,Groceries,goldenwest,checking
-2025-07-11,Capital One,Capital One,debit,-395.0,General Spending,Other,capital one,credit card
-2025-07-11,Internal,Internal,credit,0.96,Other Income,Other,goldenwest,gold account
-2025-07-11,Cheesecake Factory,Cheesecake Factory,debit,-104.44,General Spending,Other,capital one,credit card
-2025-07-12,Lagoon,Lagoon,debit,-20.0,General Spending,Other,capital one,credit card
-2025-07-12,Lagoon,Lagoon,debit,-34.3,General Spending,Other,capital one,credit card
-2025-07-12,Lagoon,Lagoon,debit,-5.0,General Spending,Other,capital one,credit card
-2025-07-12,Maverik,Maverik,debit,-8.86,Automotive & Fuel,Fuel,capital one,credit card
-2025-07-12,Internal,Internal,debit,-1.23,General Spending,Other,goldenwest,checking
-2025-07-12,Lagoon,Lagoon,debit,-15.0,General Spending,Other,capital one,credit card
-2025-07-12,Internal,Internal,credit,1.23,Other Income,Other,goldenwest,gold account
-2025-07-14,Mcdonald's,McDonald's,debit,-12.63,Food / Dining,Fast Food,capital one,credit card
-2025-07-14,Oak Hills Pharmacy,Oak Hills Pharmacy,debit,-23.01,Health & Wellness,Pharmacy,capital one,credit card
-2025-07-14,Maverik,Maverik,debit,-3.96,Automotive & Fuel,Fuel,capital one,credit card
-2025-07-16,Slc Airport Parking,Slc Airport Parking,debit,-10.0,Automotive & Fuel,Maintenance,capital one,credit card
-2025-07-17,Salt Lake City Airport Parking,Salt Lake City Airport Parking,debit,-2.0,Automotive & Fuel,Maintenance,goldenwest,checking
-2025-07-17,Yogurtland,Yogurtland,debit,-6.1,General Spending,Other,capital one,credit card
-2025-07-18,Payroll Deposit,Payroll Deposit,credit,761.81,Income,Paychecks,goldenwest,checking
-2025-07-18,Mcdonald's,McDonald's,debit,-19.52,Food / Dining,Fast Food,capital one,credit card
-2025-07-18,Home Depot,Home Depot,debit,-2.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-07-19,Home Depot,Home Depot,debit,-2.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-07-19,Walmart Supercenter,Walmart Supercenter,debit,-45.17,Food / Dining,Groceries,capital one,credit card
-2025-07-20,Walmart Supercenter,Walmart Supercenter,debit,-57.21,Food / Dining,Groceries,capital one,credit card
-2025-07-21,Costco Wholesale,Costco Wholesale,debit,-45.68,Food / Dining,Groceries,capital one,credit card
-2025-07-21,Costco Wholesale,Costco Wholesale,debit,-127.7,Food / Dining,Groceries,capital one,credit card
-2025-07-21,Walmart Supercenter,Walmart Supercenter,debit,-35.01,Food / Dining,Groceries,capital one,credit card
-2025-07-21,Bear River Insurance,Bear River Insurance,debit,-186.38,Automotive & Fuel,Insurance,goldenwest,checking
-2025-07-21,Walmart Supercenter,Walmart Supercenter,debit,-86.24,Food / Dining,Groceries,capital one,credit card
-2025-07-22,Maverik,Maverik,debit,-4.6,Automotive & Fuel,Fuel,capital one,credit card
-2025-07-22,Johnny Rockets,Johnny Rockets,debit,-8.71,General Spending,Other,capital one,credit card
-2025-07-24,Hunt/Fish,Hunt/fish,debit,-39.86,General Spending,Other,capital one,credit card
-2025-07-26,Walmart Supercenter,Walmart Supercenter,debit,-162.4,Food / Dining,Groceries,capital one,credit card
-2025-07-27,Google Services,Google Services,debit,-30.22,Housing & Bills,Service Fees,capital one,credit card
-2025-07-28,Maverik,Maverik,debit,-4.6,Automotive & Fuel,Fuel,capital one,credit card
-2025-07-30,T-Mobile,T-Mobile,debit,-11.18,Housing & Bills,Phone,capital one,credit card
-2025-07-31,Interest Earned,Interest Earned,credit,0.07,Savings & Investments,Dividends,goldenwest,checking
-2025-07-31,Interest Earned,Interest Earned,credit,1.36,Savings & Investments,Dividends,goldenwest,gold account
-2025-07-31,Interest Earned,Interest Earned,credit,0.9,Savings & Investments,Dividends,goldenwest,money market
-2025-07-31,Mcdonald's,McDonald's,debit,-14.14,Food / Dining,Fast Food,capital one,credit card
-2025-07-31,Interest Earned,Interest Earned,credit,0.01,Savings & Investments,Dividends,sofi,savings
-2025-07-31,Home Depot,Home Depot,debit,-2.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-07-31,Costco Wholesale,Costco Wholesale,debit,-51.04,Food / Dining,Groceries,capital one,credit card
-2025-07-31,Payroll Deposit,Payroll Deposit,credit,749.01,Income,Paychecks,goldenwest,checking
-2025-07-31,Home Depot,Home Depot,debit,-2.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-08-01,Cinemark,Cinemark,debit,-4.18,General Spending,Other,capital one,credit card
-2025-08-01,Provo City,Provo City,debit,-3.0,General Spending,Other,capital one,credit card
-2025-08-01,Maverik,Maverik,debit,-4.6,Automotive & Fuel,Fuel,capital one,credit card
-2025-08-01,Cafe Zupas,Cafe Zupas,debit,-14.94,Food / Dining,Restaurants/Dining,capital one,credit card
-2025-08-01,Chevron,Chevron,debit,-54.47,Automotive & Fuel,Fuel,capital one,credit card
-2025-08-01,Home Depot,Home Depot,debit,-2.4,Shopping & Supplies,Home Improvement,capital one,credit card
+2025-01-03,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,632.09,Other Income,Other,goldenwest,checking
+2025-01-07,Byu,BYU (Campus Services),debit,-60.0,General Spending,Other,sofi,savings
+2025-01-10,Brigham Young Un,BYU Refund,credit,353.0,Other Income,Other,sofi,savings
+2025-01-14,Byu,BYU (Campus Services),debit,-158.0,General Spending,Other,sofi,savings
+2025-01-17,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,682.91,Other Income,Other,goldenwest,checking
+2025-01-21,Bear River,Bear River Insurance,debit,-189.34,General Spending,Other,sofi,savings
+2025-01-21,Deposit S Kerby Reim For Training Mileage,Kerby,credit,769.16,Other Income,Other,goldenwest,checking
+2025-01-28,Byu,BYU (Campus Services),debit,-281.9,General Spending,Other,sofi,savings
+2025-01-29,Ch Jesuschrist,Church Donations,debit,-185.0,General Spending,Other,sofi,savings
+2025-01-29,Ch Jesuschrist,Church Donations,debit,-145.0,General Spending,Other,sofi,savings
+2025-01-31,Interest Earned,Interest Earned,credit,15.49,Other Income,Other,sofi,savings
+2025-01-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.18,Other Income,Other,goldenwest,checking
+2025-01-31,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,613.56,Other Income,Other,goldenwest,checking
+2025-01-31,Walmart,Walmart Supercenter,debit,-198.23,General Spending,Other,goldenwest,checking
+2025-01-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.26,Other Income,Other,goldenwest,gold account
+2025-02-11,Costco,Costco Wholesale,credit,26.77,Other Income,Other,goldenwest,checking
+2025-02-12,Byu,BYU (Campus Services),debit,-163.0,General Spending,Other,sofi,savings
+2025-02-12,Walmart,Walmart Supercenter,debit,-244.25,General Spending,Other,goldenwest,checking
+2025-02-13,Maverik,Maverik,debit,-49.24,General Spending,Other,goldenwest,checking
+2025-02-14,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,1119.93,Other Income,Other,goldenwest,checking
+2025-02-14,Deposit S Kerby Reim For Training Mileage,Kerby,credit,114.8,Other Income,Other,goldenwest,checking
+2025-02-19,Bear River,Bear River Insurance,debit,-189.0,General Spending,Other,sofi,savings
+2025-02-28,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,627.36,Other Income,Other,goldenwest,checking
+2025-02-28,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.25,Other Income,Other,goldenwest,gold account
+2025-02-28,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.23,Other Income,Other,goldenwest,checking
+2025-02-28,Interest Earned,Interest Earned,credit,5.62,Other Income,Other,sofi,savings
+2025-03-03,Walmart,Walmart Supercenter,debit,-37.52,General Spending,Other,goldenwest,checking
+2025-03-03,Walmart,Walmart Supercenter,debit,-51.15,General Spending,Other,goldenwest,checking
+2025-03-04,Taco Bell,Taco Bell,debit,-19.02,General Spending,Other,goldenwest,checking
+2025-03-06,Oak Hills Pharmacy Card,Oak Hills Pharmacy,debit,-23.01,General Spending,Other,goldenwest,checking
+2025-03-07,Payroll Withdraw,Payroll Deposit,debit,-101.63,General Spending,Other,goldenwest,checking
+2025-03-07,Ross Stores,Ross,debit,-21.3,General Spending,Other,goldenwest,checking
+2025-03-08,Walmart,Walmart Supercenter,debit,-66.34,General Spending,Other,goldenwest,checking
+2025-03-09,Carls Jr,Carl's Jr.,debit,-22.5,General Spending,Other,goldenwest,checking
+2025-03-10,Fabulous Freddys,Fabulous Freddy's,debit,-12.83,General Spending,Other,goldenwest,checking
+2025-03-10,Barnes Noble,Barnes & Noble,debit,-52.29,General Spending,Other,goldenwest,checking
+2025-03-10,Bath Body Works,Bath & Body Works,debit,-46.76,General Spending,Other,goldenwest,checking
+2025-03-10,Victorias Secret,Victoria's Secret,debit,-45.32,General Spending,Other,goldenwest,checking
+2025-03-10,Jcpenney,Jcpenney,debit,-41.35,General Spending,Other,goldenwest,checking
+2025-03-10,Dicks Sporting Goods,Dick's Sporting Goods,debit,-32.01,General Spending,Other,goldenwest,checking
+2025-03-11,Walmart,Walmart Supercenter,debit,-55.25,General Spending,Other,goldenwest,checking
+2025-03-12,Taco Bell,Taco Bell,debit,-21.0,General Spending,Other,goldenwest,checking
+2025-03-12,Famous Footwear,Famous Footwear,debit,-98.0,General Spending,Other,goldenwest,checking
+2025-03-13,Chickfila,Chick-fil-a,debit,-13.24,General Spending,Other,goldenwest,checking
+2025-03-13,Downeast,Downeast,debit,-72.93,General Spending,Other,goldenwest,checking
+2025-03-13,Downeast,Downeast,debit,-27.75,General Spending,Other,goldenwest,checking
+2025-03-13,Panda Express,Panda Express,debit,-26.4,General Spending,Other,goldenwest,checking
+2025-03-13,Red Cliffs Boba Tea Co St George Ut Date Card,Red Cliffs Boba Tea,debit,-9.06,General Spending,Other,goldenwest,checking
+2025-03-14,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,564.52,Other Income,Other,goldenwest,checking
+2025-03-14,Taco Bell,Taco Bell,debit,-13.0,General Spending,Other,goldenwest,checking
+2025-03-15,Maverik,Maverik,debit,-49.01,General Spending,Other,goldenwest,checking
+2025-03-15,Walmart,Walmart Supercenter,debit,-22.28,General Spending,Other,goldenwest,checking
+2025-03-19,Walmart,Walmart Supercenter,debit,-135.57,General Spending,Other,goldenwest,checking
+2025-03-19,Bear River,Bear River Insurance,debit,-189.0,General Spending,Other,sofi,savings
+2025-03-23,Taco Bell,Taco Bell,debit,-24.0,General Spending,Other,goldenwest,checking
+2025-03-25,Maverik,Maverik,debit,-48.71,General Spending,Other,goldenwest,checking
+2025-03-26,Byu,BYU (Campus Services),debit,-173.0,General Spending,Other,sofi,savings
+2025-03-26,Subway,Subway,debit,-15.45,General Spending,Other,goldenwest,checking
+2025-03-27,Oak Hills Pharmacy Card,Oak Hills Pharmacy,debit,-23.01,General Spending,Other,goldenwest,checking
+2025-03-28,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,588.64,Other Income,Other,goldenwest,checking
+2025-03-29,Walmart,Walmart Supercenter,debit,-106.48,General Spending,Other,goldenwest,checking
+2025-03-29,Costco,Costco Wholesale,debit,-175.29,General Spending,Other,goldenwest,checking
+2025-03-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.77,Other Income,Other,goldenwest,money market
+2025-03-31,Gdpcrosspointe Dental In Ut Date Card,Crosspointe Dental,debit,-158.0,General Spending,Other,goldenwest,checking
+2025-03-31,Interest Earned,Interest Earned,credit,0.25,Other Income,Other,sofi,savings
+2025-03-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.33,Other Income,Other,goldenwest,gold account
+2025-03-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.24,Other Income,Other,goldenwest,checking
+2025-04-01,Ach Ch Jesuschrist Type Donation Id Data Co Ch Jesuschrist Name Savanna Brooke Kerby,Church Donations,debit,-205.0,General Spending,Other,goldenwest,checking
+2025-04-01,Walmart,Walmart Supercenter,debit,-160.31,General Spending,Other,goldenwest,checking
+2025-04-01,Ach Ch Jesuschrist Type Donation Id Data Co Ch Jesuschrist Name Savanna Brooke Kerby,Church Donations,debit,-320.0,General Spending,Other,goldenwest,checking
+2025-04-04,Robinhood Securities Llc,Robinhood Investment,debit,-150.0,General Spending,Other,goldenwest,checking
+2025-04-04,Hobby Lobby,Hobby Lobby,debit,-26.6,General Spending,Other,goldenwest,checking
+2025-04-04,Ross Stores,Ross,debit,-33.96,General Spending,Other,goldenwest,checking
+2025-04-05,Taco Bell,Taco Bell,debit,-16.0,General Spending,Other,goldenwest,checking
+2025-04-06,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-06,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-06,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-06,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-06,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-07,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-07,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-07,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-07,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-07,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-07,Maverik,Maverik,debit,-49.92,General Spending,Other,goldenwest,checking
+2025-04-08,Robinhood,Robinhood Investment,debit,-15.0,General Spending,Other,goldenwest,money market
+2025-04-08,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-08,Robinhood,Robinhood Investment,debit,-500.0,General Spending,Other,goldenwest,money market
+2025-04-08,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-08,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-08,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-08,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-09,Card Fee Visa International Service Assessment Date Card,Visa Service Fee,debit,-0.37,General Spending,Other,goldenwest,checking
+2025-04-09,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-09,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-09,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-09,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-09,Ebook Accademy London Gb Date Card,Ebook Academy,debit,-37.0,General Spending,Other,goldenwest,checking
+2025-04-09,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-10,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-10,Roxberry Juice Co,Roxberry Juice Co.,debit,-26.43,General Spending,Other,goldenwest,checking
+2025-04-10,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-10,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-10,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-10,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-11,Taco Bell,Taco Bell,debit,-15.83,General Spending,Other,goldenwest,checking
+2025-04-11,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,533.19,Other Income,Other,goldenwest,checking
+2025-04-11,Robinhood,Robinhood Investment,debit,-40.0,General Spending,Other,goldenwest,money market
+2025-04-11,Robinhood,Robinhood Investment,debit,-324.9,General Spending,Other,goldenwest,money market
+2025-04-11,Robinhood,Robinhood Investment,debit,-25.0,General Spending,Other,goldenwest,money market
+2025-04-12,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-12,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-12,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-12,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-12,The Home Depot,Home Depot,debit,-70.32,General Spending,Other,goldenwest,checking
+2025-04-12,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-13,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-13,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-13,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-13,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-13,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-15,Robinhood,Robinhood Investment,debit,-40.0,General Spending,Other,goldenwest,money market
+2025-04-15,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-15,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-15,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-15,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-15,Ach Life Starfish Type Id U Data Su Co Life Starfish Name Savanna Kerby,Life Starfish,debit,-500.0,General Spending,Other,goldenwest,checking
+2025-04-15,Oak Hills Pharmacy Card,Oak Hills Pharmacy,debit,-23.01,General Spending,Other,goldenwest,checking
+2025-04-15,Walmart,Walmart Supercenter,debit,-15.47,General Spending,Other,goldenwest,checking
+2025-04-15,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-17,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-17,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-17,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-17,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-17,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-17,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-17,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-17,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-17,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-17,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-20,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-20,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-20,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-20,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-20,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-21,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-21,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-21,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-21,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-21,Walmart,Walmart Supercenter,debit,-3.67,General Spending,Other,goldenwest,checking
+2025-04-21,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-21,Robinhood,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,money market
+2025-04-22,Ach Life Starfish Type Id U Data Su Co Life Starfish Name Savanna Kerby,Life Starfish,debit,-500.0,General Spending,Other,goldenwest,checking
+2025-04-23,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-23,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-23,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-23,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-23,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-24,Overdrawn Ach In The Amount Life Starfish,Life Starfish,debit,-22.0,General Spending,Other,goldenwest,checking
+2025-04-25,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,661.69,Other Income,Other,goldenwest,checking
+2025-04-26,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-26,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-26,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-26,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-27,Google Dancefitme Fun Ca Card,Google,debit,-21.48,General Spending,Other,goldenwest,checking
+2025-04-27,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-28,Ach Life Starfish Type Id U Data Su Co Life Starfish Name Savanna Kerby,Life Starfish,debit,-500.0,General Spending,Other,goldenwest,checking
+2025-04-28,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-28,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-28,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-28,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-28,Robinhood Securities Llc,Robinhood Investment,debit,-1.01,General Spending,Other,goldenwest,checking
+2025-04-30,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.05,Other Income,Other,goldenwest,checking
+2025-04-30,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,2.62,Other Income,Other,goldenwest,money market
+2025-04-30,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.55,Other Income,Other,goldenwest,gold account
+2025-04-30,Interest Earned,Interest Earned,credit,0.01,Other Income,Other,sofi,savings
+2025-05-01,Gdpcrosspointe Dental In Ut Date Card,Crosspointe Dental,debit,-360.0,General Spending,Other,goldenwest,checking
+2025-05-04,Jacksons Food Stores,Jacksons Food Stores,debit,-11.31,General Spending,Other,goldenwest,checking
+2025-05-05,Cold Stone Creamery,Cold Stone Creamery,debit,-12.97,General Spending,Other,goldenwest,checking
+2025-05-05,Ach Byu Type Mfc Echeck Id Co Byu Data Byuprod Name Kerby Savanna Brooke,BYU (Campus Services),debit,-158.0,General Spending,Other,goldenwest,checking
+2025-05-07,Costco,Costco Wholesale,debit,-7.53,General Spending,Other,goldenwest,checking
+2025-05-07,Costco,Costco Wholesale,debit,-92.41,General Spending,Other,goldenwest,checking
+2025-05-07,Costco Gas Stations,Costco Wholesale,debit,-52.98,General Spending,Other,goldenwest,checking
+2025-05-09,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,643.93,Other Income,Other,goldenwest,checking
+2025-05-10,Deposit Promo Deposit Youth Engagement Smart Money,Internal,credit,100.0,Other Income,Other,goldenwest,gold account
+2025-05-15,Ach Life Starfish Type Id U Data Su Co Life Starfish Name Savanna Kerby,Life Starfish,debit,-400.0,General Spending,Other,goldenwest,checking
+2025-05-15,Shoeman Enterprise One Date Card,Shoeman Enterprise,debit,-16.12,General Spending,Other,goldenwest,checking
+2025-05-15,Sq Chromis Bakery Square Ut Card,Chromis Bakery,debit,-6.0,General Spending,Other,goldenwest,checking
+2025-05-16,Bank Withdrawal,Internal,debit,-40.0,General Spending,Other,goldenwest,checking
+2025-05-19,Oak Hills Pharmacy Card,Oak Hills Pharmacy,debit,-23.01,General Spending,Other,goldenwest,checking
+2025-05-21,Ach Life Starfish Type Id U Data Su Co Life Starfish Name Savanna Kerby,Life Starfish,debit,-200.0,General Spending,Other,goldenwest,checking
+2025-05-23,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,718.78,Other Income,Other,goldenwest,checking
+2025-05-25,Tstbrookers Provo J Date Card,Brookers Ice Cream,debit,-13.55,General Spending,Other,goldenwest,checking
+2025-05-26,West Jordan Ut Card,Internal,debit,-52.49,General Spending,Other,goldenwest,checking
+2025-05-27,Fandango At Home,Fandango/Vudu,debit,-16.11,General Spending,Other,goldenwest,checking
+2025-05-28,Ross Stores,Ross,debit,-89.11,General Spending,Other,goldenwest,checking
+2025-05-28,Ach Life Starfish Type Id U Data Su Co Life Starfish Name Savanna Kerby,Life Starfish,debit,-400.0,General Spending,Other,goldenwest,checking
+2025-05-29,Volkers Bakery,Volker's Bakery,debit,-12.75,General Spending,Other,goldenwest,checking
+2025-05-29,Ouelessebougoualliance Ut Date Card,Ouelessebougou Alliance,debit,-5.0,General Spending,Other,goldenwest,checking
+2025-05-29,Sq Popbite Square Card,Popbite Bakery,debit,-8.52,General Spending,Other,goldenwest,checking
+2025-05-29,Pphansen Workshop Llc Lindon Ut Date Card,Hansen Workshop,debit,-8.6,General Spending,Other,goldenwest,checking
+2025-05-29,Taco Bell,Taco Bell,debit,-17.3,General Spending,Other,goldenwest,checking
+2025-05-29,Walmart,Walmart Supercenter,debit,-125.64,General Spending,Other,goldenwest,checking
+2025-05-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.04,Other Income,Other,goldenwest,checking
+2025-05-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,1.42,Other Income,Other,goldenwest,money market
+2025-05-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,1.15,Other Income,Other,goldenwest,gold account
+2025-05-31,Walgreens,Walgreens,debit,-114.37,General Spending,Other,goldenwest,checking
+2025-05-31,Hobby Lobby,Hobby Lobby,debit,-126.63,General Spending,Other,goldenwest,checking
+2025-05-31,Interest Earned,Interest Earned,credit,0.01,Other Income,Other,sofi,savings
+2025-06-04,Ach Byu Type Mfc Echeck Id Co Byu Data Byuprod Name Kerby Savanna Brooke,BYU (Campus Services),debit,-158.0,General Spending,Other,goldenwest,checking
+2025-06-05,Costco Gas Stations,Costco Wholesale,debit,-50.2,General Spending,Other,goldenwest,checking
+2025-06-05,Hobby Lobby,Hobby Lobby,debit,-49.01,General Spending,Other,goldenwest,checking
+2025-06-05,Costco,Costco Wholesale,debit,-124.5,General Spending,Other,goldenwest,checking
+2025-06-06,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,766.59,Other Income,Other,goldenwest,checking
+2025-06-06,Hobby Lobby,Hobby Lobby,debit,-11.25,General Spending,Other,goldenwest,checking
+2025-06-14,Walmart,Walmart Supercenter,debit,-71.31,General Spending,Other,goldenwest,checking
+2025-06-16,Oak Hills Pharmacy Card,Oak Hills Pharmacy,debit,-23.01,General Spending,Other,goldenwest,checking
+2025-06-18,Ach Byu Type Mfc Echeck Id Co Byu Data Byuprod Name Kerby Savanna Brooke,BYU (Campus Services),debit,-170.0,General Spending,Other,goldenwest,checking
+2025-06-19,Maurices,Maurices,debit,-9.67,General Spending,Other,goldenwest,checking
+2025-06-20,Mcdonalds,McDonald's,debit,-20.5,General Spending,Other,goldenwest,checking
+2025-06-20,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,736.01,Other Income,Other,goldenwest,checking
+2025-06-23,Walmart,Walmart Supercenter,debit,-14.42,General Spending,Other,goldenwest,checking
+2025-06-24,Bank Withdrawal,Internal,debit,-0.02,General Spending,Other,goldenwest,checking
+2025-06-30,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,1.29,Other Income,Other,goldenwest,gold account
+2025-06-30,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.87,Other Income,Other,goldenwest,money market
+2025-06-30,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.04,Other Income,Other,goldenwest,checking
+2025-06-30,Interest Earned,Interest Earned,credit,0.01,Other Income,Other,sofi,savings
+2025-07-03,Byu Creamery,BYU (Campus Services),debit,-5.08,General Spending,Other,goldenwest,checking
+2025-07-03,Ach Byu Type Mfc Echeck Id Co Byu Data Byuprod Name Kerby Savanna Brooke,BYU (Campus Services),debit,-158.0,General Spending,Other,goldenwest,checking
+2025-07-03,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,808.4,Other Income,Other,goldenwest,checking
+2025-07-05,Sq Portneuf Rapids Tube Square Lava Hot Spri Id Card,Lava Hot Springs,debit,-7.75,General Spending,Other,goldenwest,checking
+2025-07-07,Ach Life Starfish Type Id U Data Su Co Life Starfish Name Savanna Kerby,Life Starfish,debit,-300.0,General Spending,Other,goldenwest,checking
+2025-07-08,Nielsens Frozen Custard,Nielsen's Frozen Custard,debit,-7.57,General Spending,Other,goldenwest,checking
+2025-07-08,Bill Paidgrandma Becky Conf,Grandma Becky Payment,debit,-60.0,General Spending,Other,goldenwest,checking
+2025-07-10,Walmart,Walmart Supercenter,debit,-32.04,General Spending,Other,goldenwest,checking
+2025-07-10,Walmartcom,Walmart Supercenter,debit,-187.3,General Spending,Other,capital one,credit card
+2025-07-11,Costco Gas Stations,Costco Wholesale,debit,-55.49,General Spending,Other,goldenwest,checking
+2025-07-11,Costco,Costco Wholesale,debit,-74.28,General Spending,Other,goldenwest,checking
+2025-07-11,Capital One Member Fee,Capital One,debit,-395.0,General Spending,Other,capital one,credit card
+2025-07-11,Cheesecake,Cheesecake Factory,debit,-104.44,General Spending,Other,capital one,credit card
+2025-07-12,Lagoon Ticag,Lagoon,debit,-20.0,General Spending,Other,capital one,credit card
+2025-07-12,Lagoon Rfm,Lagoon,debit,-34.3,General Spending,Other,capital one,credit card
+2025-07-12,Lagoon Rfm,Lagoon,debit,-5.0,General Spending,Other,capital one,credit card
+2025-07-12,Maverik,Maverik,debit,-8.86,General Spending,Other,capital one,credit card
+2025-07-12,Lagoon Rfm,Lagoon,debit,-15.0,General Spending,Other,capital one,credit card
+2025-07-14,Mcdonalds F,McDonald's,debit,-12.63,General Spending,Other,capital one,credit card
+2025-07-14,Oak Hills Pharmacy,Oak Hills Pharmacy,debit,-23.01,General Spending,Other,capital one,credit card
+2025-07-14,Maverik,Maverik,debit,-3.96,General Spending,Other,capital one,credit card
+2025-07-16,Slc Airport Parking,Slc Airport Parking,debit,-10.0,General Spending,Other,capital one,credit card
+2025-07-17,Salt Lake City Airport Parking,Salt Lake City Airport Parking,debit,-2.0,General Spending,Other,goldenwest,checking
+2025-07-17,Yogurtland Ut,Yogurtland,debit,-6.1,General Spending,Other,capital one,credit card
+2025-07-18,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,761.81,Other Income,Other,goldenwest,checking
+2025-07-18,Mcdonalds F,McDonald's,debit,-19.52,General Spending,Other,capital one,credit card
+2025-07-18,Home Depot Riverton,Home Depot,debit,-2.4,General Spending,Other,capital one,credit card
+2025-07-19,Home Depot Riverton,Home Depot,debit,-2.4,General Spending,Other,capital one,credit card
+2025-07-19,Wm Supercenter,Walmart Supercenter,debit,-45.17,General Spending,Other,capital one,credit card
+2025-07-20,Wm Supercenter,Walmart Supercenter,debit,-57.21,General Spending,Other,capital one,credit card
+2025-07-21,Costco Gas,Costco Wholesale,debit,-45.68,General Spending,Other,capital one,credit card
+2025-07-21,Costco Whse,Costco Wholesale,debit,-127.7,General Spending,Other,capital one,credit card
+2025-07-21,Walmart,Walmart Supercenter,debit,-35.01,General Spending,Other,capital one,credit card
+2025-07-21,Walmartcom,Walmart Supercenter,debit,-86.24,General Spending,Other,capital one,credit card
+2025-07-22,Maverik,Maverik,debit,-4.6,General Spending,Other,capital one,credit card
+2025-07-22,Py Johnny Rockets,Johnny Rockets,debit,-8.71,General Spending,Other,capital one,credit card
+2025-07-24,Ut Huntfish Lic Onli,Hunt/fish,debit,-39.86,General Spending,Other,capital one,credit card
+2025-07-26,Wm Supercenter,Walmart Supercenter,debit,-162.4,General Spending,Other,capital one,credit card
+2025-07-27,Google Minimalist Pho,Google,debit,-30.22,General Spending,Other,capital one,credit card
+2025-07-28,Maverik,Maverik,debit,-4.6,General Spending,Other,capital one,credit card
+2025-07-30,Tmobileprepaid Web,T-Mobile,debit,-11.18,General Spending,Other,capital one,credit card
+2025-07-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.07,Other Income,Other,goldenwest,checking
+2025-07-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,1.36,Other Income,Other,goldenwest,gold account
+2025-07-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.9,Other Income,Other,goldenwest,money market
+2025-07-31,Mcdonalds F,McDonald's,debit,-14.14,General Spending,Other,capital one,credit card
+2025-07-31,Interest Earned,Interest Earned,credit,0.01,Other Income,Other,sofi,savings
+2025-07-31,Home Depot Riverton,Home Depot,debit,-2.4,General Spending,Other,capital one,credit card
+2025-07-31,Costco Gas,Costco Wholesale,debit,-51.04,General Spending,Other,capital one,credit card
+2025-07-31,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,749.01,Other Income,Other,goldenwest,checking
+2025-07-31,Home Depot Riverton,Home Depot,debit,-2.4,General Spending,Other,capital one,credit card
+2025-08-01,Cinemark Boxcon,Cinemark,debit,-4.18,General Spending,Other,capital one,credit card
+2025-08-01,Provo City Cntr Temple,Provo City,debit,-3.0,General Spending,Other,capital one,credit card
+2025-08-01,Maverik,Maverik,debit,-4.6,General Spending,Other,capital one,credit card
+2025-08-01,Cafe Zupas Lehi,Cafe Zupas,debit,-14.94,General Spending,Other,capital one,credit card
+2025-08-01,Chevron,Chevron,debit,-54.47,General Spending,Other,capital one,credit card
+2025-08-01,Home Depot Riverton,Home Depot,debit,-2.4,General Spending,Other,capital one,credit card
 2025-08-04,Utah Career Center,Utah Career Center,debit,-1.3,General Spending,Other,capital one,credit card
-2025-08-04,Home Depot,Home Depot,debit,-2.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-08-04,Maverik,Maverik,debit,-5.78,Automotive & Fuel,Fuel,capital one,credit card
-2025-08-05,Walmart Supercenter,Walmart Supercenter,debit,-98.08,Food / Dining,Groceries,capital one,credit card
-2025-08-06,Byu Refund,BYU Refund,debit,-238.65,Income,Refunds,capital one,credit card
-2025-08-07,T-Mobile,T-Mobile,debit,-27.95,Housing & Bills,Phone,capital one,credit card
-2025-08-07,Internal,Internal,credit,1.0,Other Income,Other,goldenwest,checking
-2025-08-09,Fye,Fye,debit,-107.43,General Spending,Other,capital one,credit card
-2025-08-09,Texas Roadhouse,Texas Roadhouse,debit,-65.26,Food / Dining,Restaurants/Dining,capital one,credit card
-2025-08-12,Walmart Supercenter,Walmart Supercenter,debit,-47.09,Food / Dining,Groceries,capital one,credit card
-2025-08-12,Costco Wholesale,Costco Wholesale,debit,-46.08,Food / Dining,Groceries,capital one,credit card
-2025-08-12,Costco Wholesale,Costco Wholesale,debit,-188.8,Food / Dining,Groceries,capital one,credit card
-2025-08-12,Home Depot,Home Depot,debit,-1.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-08-13,Home Depot,Home Depot,debit,-1.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-08-13,Walmart Supercenter,Walmart Supercenter,debit,-147.24,Food / Dining,Groceries,capital one,credit card
-2025-08-14,Leatherby's,Leatherby's,debit,-23.28,General Spending,Other,capital one,credit card
-2025-08-14,Panda Express,Panda Express,debit,-15.51,Food / Dining,Fast Food,capital one,credit card
-2025-08-15,Payroll Deposit,Payroll Deposit,credit,793.46,Income,Paychecks,goldenwest,checking
-2025-08-16,Internal,Internal,debit,-1100.11,General Spending,Other,capital one,credit card
-2025-08-17,Internal,Internal,credit,1246.93,Other Income,Other,capital one,credit card
-2025-08-19,Home Depot,Home Depot,debit,-2.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-08-19,Capital One,Capital One,debit,-1246.93,General Spending,Other,goldenwest,checking
-2025-08-19,Bear River Insurance,Bear River Insurance,debit,-179.0,Automotive & Fuel,Insurance,goldenwest,checking
-2025-08-20,Home Depot,Home Depot,debit,-2.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-08-20,Taco Bell,Taco Bell,debit,-21.0,Food / Dining,Fast Food,capital one,credit card
-2025-08-21,Internal,Internal,debit,-1.5,General Spending,Other,capital one,credit card
-2025-08-21,Walmart Supercenter,Walmart Supercenter,debit,-46.35,Food / Dining,Groceries,capital one,credit card
-2025-08-21,Mcdonald's,McDonald's,debit,-13.22,Food / Dining,Fast Food,capital one,credit card
-2025-08-21,Utah County Clerk,Utah County Clerk,debit,-45.0,General Spending,Other,capital one,credit card
-2025-08-22,Tie One,Tie One,debit,-52.63,General Spending,Other,capital one,credit card
-2025-08-22,Tricked Out Accessories,Tricked Out Accessories,debit,-85.81,General Spending,Other,capital one,credit card
-2025-08-22,Maverik,Maverik,debit,-4.6,Automotive & Fuel,Fuel,capital one,credit card
-2025-08-23,Walmart Supercenter,Walmart Supercenter,debit,-116.33,Food / Dining,Groceries,capital one,credit card
+2025-08-04,Home Depot Riverton,Home Depot,debit,-2.4,General Spending,Other,capital one,credit card
+2025-08-04,Maverik,Maverik,debit,-5.78,General Spending,Other,capital one,credit card
+2025-08-05,Walmart,Walmart Supercenter,debit,-98.08,General Spending,Other,capital one,credit card
+2025-08-06,Brigham Young Univ Web,BYU Refund,debit,-238.65,General Spending,Other,capital one,credit card
+2025-08-07,Tmobileprepd Autopy,T-Mobile,debit,-27.95,General Spending,Other,capital one,credit card
+2025-08-07,Deposit Transfer From Cummardcooper Hare,Internal,credit,1.0,Other Income,Other,goldenwest,checking
+2025-08-09,Fye University Place,Fye,debit,-107.43,General Spending,Other,capital one,credit card
+2025-08-09,Texas Roadhouse,Texas Roadhouse,debit,-65.26,General Spending,Other,capital one,credit card
+2025-08-12,Walmart Gas Se,Walmart Supercenter,debit,-47.09,General Spending,Other,capital one,credit card
+2025-08-12,Costco Gas,Costco Wholesale,debit,-46.08,General Spending,Other,capital one,credit card
+2025-08-12,Costco Whse,Costco Wholesale,debit,-188.8,General Spending,Other,capital one,credit card
+2025-08-12,Home Depot Riverton,Home Depot,debit,-1.4,General Spending,Other,capital one,credit card
+2025-08-13,Home Depot Riverton,Home Depot,debit,-1.4,General Spending,Other,capital one,credit card
+2025-08-13,Walmart,Walmart Supercenter,debit,-147.24,General Spending,Other,capital one,credit card
+2025-08-14,Leatherbys Family Cream,Leatherby's Family Cream,debit,-23.28,General Spending,Other,capital one,credit card
+2025-08-14,Panda Express,Panda Express,debit,-15.51,General Spending,Other,capital one,credit card
+2025-08-15,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,793.46,Other Income,Other,goldenwest,checking
+2025-08-16,Cotflt,Internal,debit,-1100.11,General Spending,Other,capital one,credit card
+2025-08-19,Home Depot Riverton,Home Depot,debit,-2.4,General Spending,Other,capital one,credit card
+2025-08-20,Home Depot Riverton,Home Depot,debit,-2.4,General Spending,Other,capital one,credit card
+2025-08-20,Taco Bell,Taco Bell,debit,-21.0,General Spending,Other,capital one,credit card
+2025-08-21,Cbtsvc Fee Utah Cnty,Internal,debit,-1.5,General Spending,Other,capital one,credit card
+2025-08-21,Wm Supercenter,Walmart Supercenter,debit,-46.35,General Spending,Other,capital one,credit card
+2025-08-21,Mcdonalds F,McDonald's,debit,-13.22,General Spending,Other,capital one,credit card
+2025-08-21,Cbtutah County Clerk,Utah County Clerk,debit,-45.0,General Spending,Other,capital one,credit card
+2025-08-22,Sq Tie One On,Tie One,debit,-52.63,General Spending,Other,capital one,credit card
+2025-08-22,Tricked Out Accessories U,Tricked Out Accessories,debit,-85.81,General Spending,Other,capital one,credit card
+2025-08-22,Maverik,Maverik,debit,-4.6,General Spending,Other,capital one,credit card
+2025-08-23,Walmart,Walmart Supercenter,debit,-116.33,General Spending,Other,capital one,credit card
 2025-08-25,Utah Career Center,Utah Career Center,debit,-1.65,General Spending,Other,capital one,credit card
-2025-08-27,Costco Wholesale,Costco Wholesale,debit,-147.37,Food / Dining,Groceries,capital one,credit card
-2025-08-27,Costco Wholesale,Costco Wholesale,debit,-54.95,Food / Dining,Groceries,capital one,credit card
-2025-08-27,Winters Custom Hair,Winters Custom Hair,debit,-66.0,General Spending,Other,capital one,credit card
-2025-08-27,Church Donations,Church Donations,debit,-248.0,Gifts & Donations,Tithing,goldenwest,checking
-2025-08-28,Church Donations,Church Donations,debit,-131.0,Gifts & Donations,Tithing,goldenwest,checking
-2025-08-28,Church Donations,Church Donations,debit,-167.0,Gifts & Donations,Tithing,goldenwest,checking
-2025-08-29,Church Donations,Church Donations,debit,-135.0,Gifts & Donations,Tithing,goldenwest,checking
-2025-08-29,Church Donations,Church Donations,debit,-152.0,Gifts & Donations,Tithing,goldenwest,checking
-2025-08-29,Payroll Deposit,Payroll Deposit,credit,781.92,Income,Paychecks,goldenwest,checking
-2025-08-29,Byu (Campus Services),BYU (Campus Services),debit,-202.98,Education,Education,capital one,credit card
-2025-08-31,Credit-Travel,Credit-travel,credit,823.08,Other Income,Other,capital one,credit card
-2025-08-31,Walmart Supercenter,Walmart Supercenter,debit,-48.34,Food / Dining,Groceries,capital one,credit card
-2025-08-31,Interest Earned,Interest Earned,credit,0.12,Savings & Investments,Dividends,goldenwest,checking
-2025-08-31,Interest Earned,Interest Earned,credit,0.01,Savings & Investments,Dividends,sofi,savings
-2025-08-31,Interest Earned,Interest Earned,credit,1.37,Savings & Investments,Dividends,goldenwest,gold account
-2025-08-31,Interest Earned,Interest Earned,credit,0.44,Savings & Investments,Dividends,goldenwest,money market
-2025-09-01,Maverik,Maverik,debit,-3.96,Automotive & Fuel,Fuel,capital one,credit card
-2025-09-02,Walmart Supercenter,Walmart Supercenter,debit,-45.13,Food / Dining,Groceries,capital one,credit card
-2025-09-03,Byu Refund,BYU Refund,debit,-42.98,Income,Refunds,capital one,credit card
-2025-09-03,Byu Refund,BYU Refund,debit,-60.0,Income,Refunds,capital one,credit card
-2025-09-04,Byu (Campus Services),BYU (Campus Services),debit,-10.0,Education,Education,capital one,credit card
-2025-09-04,Home Depot,Home Depot,debit,-32.58,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-09-05,Internal,Internal,debit,-15.0,General Spending,Other,goldenwest,checking
-2025-09-05,Byu Refund,BYU Refund,credit,254.0,Income,Refunds,sofi,savings
-2025-09-06,Byu Refund,BYU Refund,credit,27.99,Income,Refunds,goldenwest,checking
-2025-09-06,Costco Wholesale,Costco Wholesale,debit,-45.07,Food / Dining,Groceries,capital one,credit card
-2025-09-07,Internal,Internal,debit,-0.99,General Spending,Other,goldenwest,checking
-2025-09-07,T-Mobile,T-Mobile,debit,-27.95,Housing & Bills,Phone,capital one,credit card
-2025-09-07,Internal,Internal,credit,0.99,Other Income,Other,goldenwest,gold account
-2025-09-09,Byu Refund,BYU Refund,debit,-2.89,Income,Refunds,capital one,credit card
-2025-09-10,Domino's Pizza,Domino's Pizza,debit,-36.83,Food / Dining,Fast Food,capital one,credit card
-2025-09-10,Walmart Supercenter,Walmart Supercenter,debit,-48.47,Food / Dining,Groceries,capital one,credit card
-2025-09-10,Byu Refund,BYU Refund,credit,46.99,Income,Refunds,goldenwest,checking
-2025-09-11,Internal,Internal,credit,0.99,Other Income,Other,goldenwest,gold account
-2025-09-11,Internal,Internal,debit,-0.99,General Spending,Other,goldenwest,checking
-2025-09-11,Byu (Campus Services),BYU (Campus Services),debit,-172.0,Education,Education,goldenwest,checking
-2025-09-12,Amazon,Amazon,debit,-16.11,Shopping & Supplies,General Retail,capital one,credit card
-2025-09-12,Payroll Deposit,Payroll Deposit,credit,757.04,Income,Paychecks,goldenwest,checking
-2025-09-15,Walmart Supercenter,Walmart Supercenter,debit,-43.2,Food / Dining,Groceries,capital one,credit card
-2025-09-15,Mcdonald's,McDonald's,debit,-20.01,Food / Dining,Fast Food,capital one,credit card
-2025-09-15,Byu (Campus Services),BYU (Campus Services),debit,-4.0,Education,Education,capital one,credit card
-2025-09-15,Mcdonald's,McDonald's,debit,-3.3,Food / Dining,Fast Food,capital one,credit card
-2025-09-15,Milk & Cookies,Milk & Cookies,debit,-5.95,Food / Dining,Fast Food,capital one,credit card
-2025-09-16,Church Donations,Church Donations,debit,-173.0,Gifts & Donations,Tithing,goldenwest,checking
-2025-09-16,Spoke,Spoke,debit,-44.85,General Spending,Other,capital one,credit card
-2025-09-17,Internal,Internal,credit,2717.4,Other Income,Other,capital one,credit card
-2025-09-17,Costco Wholesale,Costco Wholesale,debit,-51.42,Food / Dining,Groceries,capital one,credit card
-2025-09-17,Costco Wholesale,Costco Wholesale,debit,-146.77,Food / Dining,Groceries,capital one,credit card
-2025-09-18,Capital One,Capital One,debit,-2717.4,General Spending,Other,goldenwest,checking
-2025-09-18,Taco Bell,Taco Bell,debit,-25.87,Food / Dining,Fast Food,capital one,credit card
-2025-09-19,Byu (Campus Services),BYU (Campus Services),debit,-25.0,Education,Education,goldenwest,checking
-2025-09-19,Bear River Insurance,Bear River Insurance,debit,-179.0,Automotive & Fuel,Insurance,goldenwest,checking
-2025-09-19,Nielsens,Nielsens,debit,-8.87,General Spending,Other,capital one,credit card
-2025-09-20,Maverik,Maverik,debit,-50.97,Automotive & Fuel,Fuel,capital one,credit card
-2025-09-22,Crosspointe Dental,Crosspointe Dental,debit,-85.0,Health & Wellness,Medical,capital one,credit card
-2025-09-22,Maverik,Maverik,debit,-1.82,Automotive & Fuel,Fuel,capital one,credit card
+2025-08-27,Costco Whse,Costco Wholesale,debit,-147.37,General Spending,Other,capital one,credit card
+2025-08-27,Costco Gas,Costco Wholesale,debit,-54.95,General Spending,Other,capital one,credit card
+2025-08-27,Sq Winters Custom Hair D,Winters Custom Hair,debit,-66.0,General Spending,Other,capital one,credit card
+2025-08-27,Ach Ch Jesuschrist Type Donation Id Data Co Ch Jesuschrist Name Savanna Brooke Kerby,Church Donations,debit,-248.0,General Spending,Other,goldenwest,checking
+2025-08-28,Ach Ch Jesuschrist Type Donation Id Data Co Ch Jesuschrist Name Savanna Brooke Kerby,Church Donations,debit,-131.0,General Spending,Other,goldenwest,checking
+2025-08-28,Ach Ch Jesuschrist Type Donation Id Data Co Ch Jesuschrist Name Savanna Brooke Kerby,Church Donations,debit,-167.0,General Spending,Other,goldenwest,checking
+2025-08-29,Ach Ch Jesuschrist Type Donation Id Data Co Ch Jesuschrist Name Savanna Brooke Kerby,Church Donations,debit,-135.0,General Spending,Other,goldenwest,checking
+2025-08-29,Ach Ch Jesuschrist Type Donation Id Data Co Ch Jesuschrist Name Savanna Brooke Kerby,Church Donations,debit,-152.0,General Spending,Other,goldenwest,checking
+2025-08-29,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,781.92,Other Income,Other,goldenwest,checking
+2025-08-29,Byu Store,BYU (Campus Services),debit,-202.98,General Spending,Other,capital one,credit card
+2025-08-31,Credittravel Reward,Credit-travel,credit,823.08,Other Income,Other,capital one,credit card
+2025-08-31,Wm Supercenter,Walmart Supercenter,debit,-48.34,General Spending,Other,capital one,credit card
+2025-08-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.12,Other Income,Other,goldenwest,checking
+2025-08-31,Interest Earned,Interest Earned,credit,0.01,Other Income,Other,sofi,savings
+2025-08-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,1.37,Other Income,Other,goldenwest,gold account
+2025-08-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.44,Other Income,Other,goldenwest,money market
+2025-09-01,Maverik,Maverik,debit,-3.96,General Spending,Other,capital one,credit card
+2025-09-02,Wm Supercenter,Walmart Supercenter,debit,-45.13,General Spending,Other,capital one,credit card
+2025-09-03,Brigham Young Universi,BYU Refund,debit,-42.98,General Spending,Other,capital one,credit card
+2025-09-03,Brigham Young Univ Web,BYU Refund,debit,-60.0,General Spending,Other,capital one,credit card
+2025-09-04,Byu Student Id Center,BYU (Campus Services),debit,-10.0,General Spending,Other,capital one,credit card
+2025-09-04,The Home Depot,Home Depot,debit,-32.58,General Spending,Other,capital one,credit card
+2025-09-05,Bank Withdrawal,Internal,debit,-15.0,General Spending,Other,goldenwest,checking
+2025-09-05,Byu Refund,BYU Refund,credit,254.0,Other Income,Other,sofi,savings
+2025-09-06,Adjustment Credit Voucher Brigham Young Universi Date Card,BYU Refund,credit,27.99,Other Income,Other,goldenwest,checking
+2025-09-06,Costco Gas,Costco Wholesale,debit,-45.07,General Spending,Other,capital one,credit card
+2025-09-07,Tmobileprepd Autopy,T-Mobile,debit,-27.95,General Spending,Other,capital one,credit card
+2025-09-09,Brigham Young Universi,BYU Refund,debit,-2.89,General Spending,Other,capital one,credit card
+2025-09-10,Dominos,Domino's Pizza,debit,-36.83,General Spending,Other,capital one,credit card
+2025-09-10,Wm Supercenter,Walmart Supercenter,debit,-48.47,General Spending,Other,capital one,credit card
+2025-09-10,Adjustment Credit Voucher Brigham Young Universi Date Card,BYU Refund,credit,46.99,Other Income,Other,goldenwest,checking
+2025-09-11,Ach Byu Type Mfc Echeck Id Co Byu Data Byuprod Name Kerby Savanna Brooke,BYU (Campus Services),debit,-172.0,General Spending,Other,goldenwest,checking
+2025-09-12,Amazon Mktplsrw,Amazon,debit,-16.11,General Spending,Other,capital one,credit card
+2025-09-12,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,757.04,Other Income,Other,goldenwest,checking
+2025-09-15,Walmart,Walmart Supercenter,debit,-43.2,General Spending,Other,capital one,credit card
+2025-09-15,Mcdonalds F,McDonald's,debit,-20.01,General Spending,Other,capital one,credit card
+2025-09-15,Byu Wsc Cougar Express,BYU (Campus Services),debit,-4.0,General Spending,Other,capital one,credit card
+2025-09-15,Mcdonalds F,McDonald's,debit,-3.3,General Spending,Other,capital one,credit card
+2025-09-15,Milk Cookies,Milk & Cookies,debit,-5.95,General Spending,Other,capital one,credit card
+2025-09-16,Ach Ch Jesuschrist Type Donation Id Data Co Ch Jesuschrist Name Savanna Brooke Kerby,Church Donations,debit,-173.0,General Spending,Other,goldenwest,checking
+2025-09-16,Sp The Charlie Kirk Sh,Spoke,debit,-44.85,General Spending,Other,capital one,credit card
+2025-09-17,Costco Gas,Costco Wholesale,debit,-51.42,General Spending,Other,capital one,credit card
+2025-09-17,Costco Whse,Costco Wholesale,debit,-146.77,General Spending,Other,capital one,credit card
+2025-09-18,Taco Bell,Taco Bell,debit,-25.87,General Spending,Other,capital one,credit card
+2025-09-19,Cougar Cash,BYU (Campus Services),debit,-25.0,General Spending,Other,goldenwest,checking
+2025-09-19,Nielsens Frozen Custar,Nielsens,debit,-8.87,General Spending,Other,capital one,credit card
+2025-09-20,Maverik,Maverik,debit,-50.97,General Spending,Other,capital one,credit card
+2025-09-22,Gdpcrosspointe Dental In,Crosspointe Dental,debit,-85.0,General Spending,Other,capital one,credit card
+2025-09-22,Maverik,Maverik,debit,-1.82,General Spending,Other,capital one,credit card
 2025-09-23,Salem High School,Salem High School,debit,-36.4,General Spending,Other,goldenwest,checking
-2025-09-24,Internal,Internal,credit,0.6,Other Income,Other,goldenwest,gold account
-2025-09-24,Internal,Internal,debit,-0.6,General Spending,Other,goldenwest,checking
-2025-09-24,Taco Bell,Taco Bell,debit,-16.76,Food / Dining,Fast Food,capital one,credit card
-2025-09-26,Payroll Deposit,Payroll Deposit,credit,623.58,Income,Paychecks,goldenwest,checking
-2025-09-26,Byu (Campus Services),BYU (Campus Services),debit,-25.0,Education,Education,goldenwest,checking
-2025-09-27,Walmart Supercenter,Walmart Supercenter,debit,-98.49,Food / Dining,Groceries,capital one,credit card
-2025-09-29,Maverik,Maverik,debit,-16.57,Automotive & Fuel,Fuel,capital one,credit card
-2025-09-30,Interest Earned,Interest Earned,credit,1.34,Savings & Investments,Dividends,goldenwest,gold account
-2025-09-30,Interest Earned,Interest Earned,credit,0.05,Savings & Investments,Dividends,goldenwest,money market
-2025-09-30,Interest Earned,Interest Earned,credit,0.07,Savings & Investments,Dividends,goldenwest,checking
-2025-09-30,Interest Earned,Interest Earned,credit,0.71,Savings & Investments,Dividends,sofi,savings
-2025-10-01,Byu (Campus Services),BYU (Campus Services),debit,-202.0,Education,Education,goldenwest,checking
-2025-10-01,Byu (Campus Services),BYU (Campus Services),debit,-3.7,Education,Education,capital one,credit card
-2025-10-02,Crosspointe Dental,Crosspointe Dental,debit,-105.0,Health & Wellness,Medical,capital one,credit card
-2025-10-02,Walmart Supercenter,Walmart Supercenter,debit,-81.56,Food / Dining,Groceries,capital one,credit card
-2025-10-02,Golden Corral,Golden Corral,debit,-50.42,Food / Dining,Restaurants/Dining,capital one,credit card
-2025-10-02,Maverik,Maverik,debit,-55.89,Automotive & Fuel,Fuel,capital one,credit card
-2025-10-03,Byu (Campus Services),BYU (Campus Services),debit,-25.0,Education,Education,goldenwest,checking
-2025-10-03,Dmv,DMV,debit,-93.5,Automotive & Fuel,Maintenance,capital one,credit card
-2025-10-03,Costco Wholesale,Costco Wholesale,debit,-55.45,Food / Dining,Groceries,capital one,credit card
-2025-10-04,Del Taco,Del Taco,debit,-24.55,Food / Dining,Fast Food,capital one,credit card
-2025-10-06,Walmart Supercenter,Walmart Supercenter,debit,-237.97,Food / Dining,Groceries,capital one,credit card
-2025-10-07,T-Mobile,T-Mobile,debit,-27.95,Housing & Bills,Phone,capital one,credit card
-2025-10-08,Fandango/Vudu,Fandango/Vudu,debit,-10.73,Entertainment,Streaming/Movies,goldenwest,checking
-2025-10-09,Internal,Internal,credit,0.27,Other Income,Other,goldenwest,gold account
-2025-10-09,Internal,Internal,debit,-0.27,General Spending,Other,goldenwest,checking
-2025-10-10,Byu (Campus Services),BYU (Campus Services),debit,-7.52,Education,Education,capital one,credit card
-2025-10-10,Payroll Deposit,Payroll Deposit,credit,607.08,Income,Paychecks,goldenwest,checking
-2025-10-10,Papa John's,Papa John's,debit,-25.14,General Spending,Other,capital one,credit card
-2025-10-14,Steam (Gaming),Steam (Gaming),debit,-3.21,Entertainment,Gaming,capital one,credit card
-2025-10-14,Walmart Supercenter,Walmart Supercenter,debit,-41.17,Food / Dining,Groceries,capital one,credit card
-2025-10-14,Costco Wholesale,Costco Wholesale,debit,-55.87,Food / Dining,Groceries,capital one,credit card
-2025-10-16,Mcdonald's,McDonald's,debit,-14.75,Food / Dining,Fast Food,capital one,credit card
-2025-10-16,Byu (Campus Services),BYU (Campus Services),debit,-25.0,Education,Education,goldenwest,checking
-2025-10-17,Internal,Internal,credit,682.13,Other Income,Other,capital one,credit card
-2025-10-18,Internal,Internal,credit,100.0,Other Income,Other,goldenwest,gold account
-2025-10-18,Walmart Supercenter,Walmart Supercenter,debit,-134.67,Food / Dining,Groceries,capital one,credit card
-2025-10-20,Capital One,Capital One,debit,-682.13,General Spending,Other,goldenwest,checking
-2025-10-20,Bear River Insurance,Bear River Insurance,debit,-179.0,Automotive & Fuel,Insurance,goldenwest,checking
-2025-10-20,Maverik,Maverik,debit,-53.86,Automotive & Fuel,Fuel,capital one,credit card
-2025-10-21,Byu (Campus Services),BYU (Campus Services),debit,-25.0,Education,Education,goldenwest,checking
-2025-10-22,Credit-Travel,Credit-travel,credit,41.27,Other Income,Other,capital one,credit card
-2025-10-23,Byu (Campus Services),BYU (Campus Services),debit,-5.14,Education,Education,capital one,credit card
-2025-10-24,Home Depot,Home Depot,debit,-1.05,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-10-24,Payroll Deposit,Payroll Deposit,credit,640.37,Income,Paychecks,goldenwest,checking
-2025-10-24,Mcdonald's,McDonald's,debit,-5.18,Food / Dining,Fast Food,capital one,credit card
-2025-10-24,Maverik,Maverik,debit,-55.37,Automotive & Fuel,Fuel,capital one,credit card
-2025-10-24,Shopcornbellys,Shopcornbellys,debit,-73.85,General Spending,Other,capital one,credit card
-2025-10-25,Internal,Internal,debit,-52.25,General Spending,Other,capital one,credit card
-2025-10-25,Ross,Ross,debit,-67.36,Shopping & Supplies,General Retail,capital one,credit card
-2025-10-25,Walmart Supercenter,Walmart Supercenter,debit,-165.62,Food / Dining,Groceries,capital one,credit card
-2025-10-25,Shopcornbellys,Shopcornbellys,debit,-15.16,General Spending,Other,capital one,credit card
-2025-10-26,Jiffy Lube,Jiffy Lube,debit,-470.51,Automotive & Fuel,Maintenance,capital one,credit card
-2025-10-28,Byu (Campus Services),BYU (Campus Services),debit,-25.0,Education,Education,goldenwest,checking
-2025-10-29,Walmart Supercenter,Walmart Supercenter,debit,-39.39,Food / Dining,Groceries,capital one,credit card
-2025-10-29,Zephyr,Zephyr,debit,-12.0,General Spending,Other,capital one,credit card
-2025-10-29,Maverik,Maverik,debit,-3.95,Automotive & Fuel,Fuel,capital one,credit card
-2025-10-30,Byu (Campus Services),BYU (Campus Services),debit,-177.0,Education,Education,goldenwest,checking
-2025-10-30,Internal,Internal,debit,-30.03,General Spending,Other,capital one,credit card
-2025-10-31,Interest Earned,Interest Earned,credit,1.62,Savings & Investments,Dividends,goldenwest,gold account
-2025-10-31,Interest Earned,Interest Earned,credit,0.84,Savings & Investments,Dividends,sofi,savings
-2025-10-31,Interest Earned,Interest Earned,credit,0.05,Savings & Investments,Dividends,goldenwest,money market
-2025-10-31,Taco Bell,Taco Bell,debit,-15.03,Food / Dining,Fast Food,capital one,credit card
-2025-10-31,Spirit Halloween,Spirit Halloween,debit,-19.0,Shopping & Supplies,Clothing,capital one,credit card
-2025-10-31,Byu (Campus Services),BYU (Campus Services),debit,-25.0,Education,Education,goldenwest,checking
-2025-10-31,Interest Earned,Interest Earned,credit,0.04,Savings & Investments,Dividends,goldenwest,checking
-2025-11-01,Papa John's,Papa John's,debit,-39.8,General Spending,Other,capital one,credit card
-2025-11-01,Fandango/Vudu,Fandango/Vudu,debit,-5.37,Entertainment,Streaming/Movies,capital one,credit card
-2025-11-01,Walmart Supercenter,Walmart Supercenter,debit,-89.82,Food / Dining,Groceries,capital one,credit card
-2025-11-02,Espn,Espn,debit,-32.21,Entertainment,Streaming/Movies,capital one,credit card
-2025-11-03,Maverik,Maverik,debit,-3.95,Automotive & Fuel,Fuel,capital one,credit card
-2025-11-03,Walmart Supercenter,Walmart Supercenter,debit,-117.38,Food / Dining,Groceries,capital one,credit card
-2025-11-04,Taco Bell,Taco Bell,debit,-25.87,Food / Dining,Fast Food,capital one,credit card
-2025-11-05,Byu (Campus Services),BYU (Campus Services),debit,-25.0,Education,Education,goldenwest,checking
-2025-11-05,Maverik,Maverik,debit,-52.02,Automotive & Fuel,Fuel,capital one,credit card
-2025-11-07,Payroll Deposit,Payroll Deposit,credit,626.51,Income,Paychecks,goldenwest,checking
-2025-11-07,T-Mobile,T-Mobile,debit,-27.95,Housing & Bills,Phone,capital one,credit card
-2025-11-07,Mcdonald's,McDonald's,debit,-19.2,Food / Dining,Fast Food,capital one,credit card
-2025-11-08,Taco Bell,Taco Bell,debit,-18.15,Food / Dining,Fast Food,capital one,credit card
-2025-11-08,Walmart Supercenter,Walmart Supercenter,debit,-49.47,Food / Dining,Groceries,capital one,credit card
-2025-11-11,Hilton,Hilton,debit,-662.69,General Spending,Other,capital one,credit card
-2025-11-11,Mcdonald's,McDonald's,debit,-9.11,Food / Dining,Fast Food,capital one,credit card
-2025-11-11,Hilton,Hilton,debit,-111.22,General Spending,Other,capital one,credit card
-2025-11-12,Costco Wholesale,Costco Wholesale,debit,-262.89,Food / Dining,Groceries,capital one,credit card
-2025-11-13,Byu (Campus Services),BYU (Campus Services),debit,-25.0,Education,Education,goldenwest,checking
-2025-11-14,Internal,Internal,credit,500.0,Other Income,Other,capital one,credit card
-2025-11-14,Credit-Travel,Credit-travel,credit,82.83,Other Income,Other,capital one,credit card
-2025-11-16,Autozone,Autozone,credit,23.64,Automotive & Fuel,Auto Parts,capital one,credit card
-2025-11-16,Autozone,Autozone,debit,-254.65,Automotive & Fuel,Auto Parts,capital one,credit card
-2025-11-17,Internal,Internal,credit,749.55,Other Income,Other,capital one,credit card
-2025-11-17,Costco Wholesale,Costco Wholesale,debit,-49.78,Food / Dining,Groceries,capital one,credit card
-2025-11-17,Capital One,Capital One,debit,-500.0,General Spending,Other,goldenwest,checking
-2025-11-18,Church Donations,Church Donations,debit,-150.0,Gifts & Donations,Tithing,goldenwest,checking
-2025-11-19,Bear River Insurance,Bear River Insurance,debit,-178.0,Automotive & Fuel,Insurance,goldenwest,checking
-2025-11-19,Panda Express,Panda Express,debit,-16.51,Food / Dining,Fast Food,capital one,credit card
-2025-11-19,Winters Custom Hair,Winters Custom Hair,debit,-66.0,General Spending,Other,capital one,credit card
-2025-11-19,Walmart Supercenter,Walmart Supercenter,debit,-91.91,Food / Dining,Groceries,capital one,credit card
-2025-11-21,Walmart Supercenter,Walmart Supercenter,debit,-47.64,Food / Dining,Groceries,capital one,credit card
-2025-11-21,Walmart Supercenter,Walmart Supercenter,debit,-3.54,Food / Dining,Groceries,capital one,credit card
-2025-11-21,Home Depot,Home Depot,debit,-1.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-11-21,Papa Murphy's,Papa Murphy's,debit,-35.31,General Spending,Other,capital one,credit card
-2025-11-21,Ross,Ross,debit,-118.17,Shopping & Supplies,General Retail,capital one,credit card
-2025-11-21,Payroll Deposit,Payroll Deposit,credit,622.01,Income,Paychecks,goldenwest,checking
-2025-11-24,Delta,Delta,debit,-75.0,General Spending,Other,capital one,credit card
-2025-11-24,Walmart Supercenter,Walmart Supercenter,debit,-26.41,Food / Dining,Groceries,capital one,credit card
-2025-11-25,Internal,Internal,debit,-67.0,General Spending,Other,capital one,credit card
-2025-11-25,Panda Express,Panda Express,debit,-21.35,Food / Dining,Fast Food,capital one,credit card
-2025-11-25,Byu (Campus Services),BYU (Campus Services),debit,-25.0,Education,Education,goldenwest,checking
-2025-11-25,Credit-Travel,Credit-travel,credit,13.23,Other Income,Other,capital one,credit card
-2025-11-25,Internal,Internal,debit,-67.0,General Spending,Other,capital one,credit card
-2025-11-26,Saturn,Saturn,debit,-22.57,General Spending,Other,capital one,credit card
-2025-11-26,Saturn,Saturn,debit,-1.15,General Spending,Other,capital one,credit card
-2025-11-26,Calice Doro,Calice Doro,debit,-17.38,General Spending,Other,capital one,credit card
-2025-11-26,Areas,Areas,debit,-10.37,General Spending,Other,capital one,credit card
-2025-11-26,Byu (Campus Services),BYU (Campus Services),debit,-172.0,Education,Education,goldenwest,checking
-2025-11-26,Hotel Johann,Hotel Johann,debit,-140.13,General Spending,Other,capital one,credit card
-2025-11-27,Elaya,Elaya,debit,-3.76,General Spending,Other,capital one,credit card
-2025-11-27,Rewe,Rewe,debit,-3.92,General Spending,Other,capital one,credit card
-2025-11-27,Salti Gmbh,Salti Gmbh,debit,-34.81,General Spending,Other,capital one,credit card
-2025-11-27,Wiener Feinbackerei,Wiener Feinbackerei,debit,-4.41,Food / Dining,Fast Food,capital one,credit card
-2025-11-27,Mcdonald's,McDonald's,debit,-20.16,Food / Dining,Fast Food,capital one,credit card
-2025-11-27,Rewe,Rewe,debit,-1.5,General Spending,Other,capital one,credit card
-2025-11-28,Aldi,Aldi,debit,-12.13,General Spending,Other,capital one,credit card
-2025-11-28,Dolce Freddo,Dolce Freddo,debit,-6.62,General Spending,Other,capital one,credit card
-2025-11-28,Rossmann,Rossmann,debit,-29.33,Health & Wellness,Personal Care,capital one,credit card
-2025-11-28,Arcohotel,Arcohotel,debit,-31.51,General Spending,Other,capital one,credit card
-2025-11-28,Voelkerschlachtdenkmal,Voelkerschlachtdenkmal,debit,-37.52,General Spending,Other,capital one,credit card
-2025-11-28,Voelkerschlachtdenkmal,Voelkerschlachtdenkmal,debit,-30.2,General Spending,Other,capital one,credit card
-2025-11-29,Burger King,Burger King,debit,-18.55,General Spending,Other,capital one,credit card
-2025-11-29,Le Crobag,Le Crobag,debit,-5.22,General Spending,Other,capital one,credit card
-2025-11-29,Weihnachtsland,Weihnachtsland,debit,-30.13,General Spending,Other,capital one,credit card
-2025-11-29,Sweetwater,Sweetwater,debit,-46.38,General Spending,Other,capital one,credit card
-2025-11-29,City-Apotheken,City-apotheken,debit,-10.21,General Spending,Other,capital one,credit card
-2025-11-29,Rossmann,Rossmann,debit,-1.38,Health & Wellness,Personal Care,capital one,credit card
-2025-11-29,Le Crobag,Le Crobag,debit,-9.52,General Spending,Other,capital one,credit card
-2025-11-29,Willy Danny,Willy Danny,debit,-5.81,General Spending,Other,capital one,credit card
-2025-11-29,Gastro,Gastro,debit,-5.81,General Spending,Other,capital one,credit card
-2025-11-30,Oergon Design,Oergon Design,debit,-22.06,General Spending,Other,capital one,credit card
-2025-11-30,Rossmann,Rossmann,debit,-13.49,Health & Wellness,Personal Care,capital one,credit card
+2025-09-24,Taco Bell,Taco Bell,debit,-16.76,General Spending,Other,capital one,credit card
+2025-09-26,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,623.58,Other Income,Other,goldenwest,checking
+2025-09-26,Cougar Cash,BYU (Campus Services),debit,-25.0,General Spending,Other,goldenwest,checking
+2025-09-27,Wm Supercenter,Walmart Supercenter,debit,-98.49,General Spending,Other,capital one,credit card
+2025-09-29,Maverik,Maverik,debit,-16.57,General Spending,Other,capital one,credit card
+2025-09-30,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,1.34,Other Income,Other,goldenwest,gold account
+2025-09-30,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.05,Other Income,Other,goldenwest,money market
+2025-09-30,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.07,Other Income,Other,goldenwest,checking
+2025-09-30,Interest Earned,Interest Earned,credit,0.71,Other Income,Other,sofi,savings
+2025-10-01,Ach Byu Type Mfc Echeck Id Co Byu Data Byuprod Name Kerby Savanna Brooke,BYU (Campus Services),debit,-202.0,General Spending,Other,goldenwest,checking
+2025-10-01,Byu Library Cafe,BYU (Campus Services),debit,-3.7,General Spending,Other,capital one,credit card
+2025-10-02,Gdpcrosspointe Dental In,Crosspointe Dental,debit,-105.0,General Spending,Other,capital one,credit card
+2025-10-02,Wm Supercenter,Walmart Supercenter,debit,-81.56,General Spending,Other,capital one,credit card
+2025-10-02,Golden Corral,Golden Corral,debit,-50.42,General Spending,Other,capital one,credit card
+2025-10-02,Maverik,Maverik,debit,-55.89,General Spending,Other,capital one,credit card
+2025-10-03,Cougar Cash,BYU (Campus Services),debit,-25.0,General Spending,Other,goldenwest,checking
+2025-10-03,Utahdmv Renewal Expre,DMV,debit,-93.5,General Spending,Other,capital one,credit card
+2025-10-03,Costco Gas,Costco Wholesale,debit,-55.45,General Spending,Other,capital one,credit card
+2025-10-04,Del Taco,Del Taco,debit,-24.55,General Spending,Other,capital one,credit card
+2025-10-06,Walmart,Walmart Supercenter,debit,-237.97,General Spending,Other,capital one,credit card
+2025-10-07,Tmobileprepd Autopy,T-Mobile,debit,-27.95,General Spending,Other,capital one,credit card
+2025-10-08,Fandango At Home,Fandango/Vudu,debit,-10.73,General Spending,Other,goldenwest,checking
+2025-10-10,Byu Library Cafe,BYU (Campus Services),debit,-7.52,General Spending,Other,capital one,credit card
+2025-10-10,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,607.08,Other Income,Other,goldenwest,checking
+2025-10-10,Papa Johns,Papa John's,debit,-25.14,General Spending,Other,capital one,credit card
+2025-10-14,Steamgamescom,Steam Games,debit,-3.21,General Spending,Other,capital one,credit card
+2025-10-14,Wm Supercenter,Walmart Supercenter,debit,-41.17,General Spending,Other,capital one,credit card
+2025-10-14,Costco Gas,Costco Wholesale,debit,-55.87,General Spending,Other,capital one,credit card
+2025-10-16,Mcdonalds F,McDonald's,debit,-14.75,General Spending,Other,capital one,credit card
+2025-10-16,Ach Byu Type Cougarcash Id Co Byu Name Kerby Savanna Brooke,BYU (Campus Services),debit,-25.0,General Spending,Other,goldenwest,checking
+2025-10-18,Deposit Promo Deposit Youth Engagement Promo Year Reward,Internal,credit,100.0,Other Income,Other,goldenwest,gold account
+2025-10-18,Wm Supercenter,Walmart Supercenter,debit,-134.67,General Spending,Other,capital one,credit card
+2025-10-20,Ach Bear River Type Ins Paymt Id Data Insurance Co Bear River,Bear River Insurance,debit,-179.0,General Spending,Other,goldenwest,checking
+2025-10-20,Maverik,Maverik,debit,-53.86,General Spending,Other,capital one,credit card
+2025-10-21,Ach Byu Type Cougarcash Id Co Byu Name Kerby Savanna Brooke,BYU (Campus Services),debit,-25.0,General Spending,Other,goldenwest,checking
+2025-10-22,Credittravel Reward,Credit-travel,credit,41.27,Other Income,Other,capital one,credit card
+2025-10-23,Byu Creamery On Ninth,BYU (Campus Services),debit,-5.14,General Spending,Other,capital one,credit card
+2025-10-24,The Home Depot,Home Depot,debit,-1.05,General Spending,Other,capital one,credit card
+2025-10-24,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,640.37,Other Income,Other,goldenwest,checking
+2025-10-24,Mcdonalds F,McDonald's,debit,-5.18,General Spending,Other,capital one,credit card
+2025-10-24,Maverik,Maverik,debit,-55.37,General Spending,Other,capital one,credit card
+2025-10-24,Sp Shopcornbellys,Shopcornbellys,debit,-73.85,General Spending,Other,capital one,credit card
+2025-10-25,Springville Di,Internal,debit,-52.25,General Spending,Other,capital one,credit card
+2025-10-25,Ross Stores,Ross,debit,-67.36,General Spending,Other,capital one,credit card
+2025-10-25,Wm Supercenter,Walmart Supercenter,debit,-165.62,General Spending,Other,capital one,credit card
+2025-10-25,Sp Shopcornbellys,Shopcornbellys,debit,-15.16,General Spending,Other,capital one,credit card
+2025-10-26,Jiffy Lube,Jiffy Lube,debit,-470.51,General Spending,Other,capital one,credit card
+2025-10-28,Cougar Cash,BYU (Campus Services),debit,-25.0,General Spending,Other,goldenwest,checking
+2025-10-29,Wm Supercenter,Walmart Supercenter,debit,-39.39,General Spending,Other,capital one,credit card
+2025-10-29,Zephyr Lot,Zephyr,debit,-12.0,General Spending,Other,capital one,credit card
+2025-10-29,Maverik,Maverik,debit,-3.95,General Spending,Other,capital one,credit card
+2025-10-30,Ach Byu Type Mfc Echeck Id Co Byu Data Byuprod Name Kerby Savanna Brooke,BYU (Campus Services),debit,-177.0,General Spending,Other,goldenwest,checking
+2025-10-30,We Geek Together,Internal,debit,-30.03,General Spending,Other,capital one,credit card
+2025-10-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,1.62,Other Income,Other,goldenwest,gold account
+2025-10-31,Interest Earned,Interest Earned,credit,0.84,Other Income,Other,sofi,savings
+2025-10-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.05,Other Income,Other,goldenwest,money market
+2025-10-31,Taco Bell,Taco Bell,debit,-15.03,General Spending,Other,capital one,credit card
+2025-10-31,Spirit Halloween,Spirit Halloween,debit,-19.0,General Spending,Other,capital one,credit card
+2025-10-31,Cougar Cash,BYU (Campus Services),debit,-25.0,General Spending,Other,goldenwest,checking
+2025-10-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.04,Other Income,Other,goldenwest,checking
+2025-11-01,Papa Johns,Papa John's,debit,-39.8,General Spending,Other,capital one,credit card
+2025-11-01,Google Fandango At Ho,Fandango/Vudu,debit,-5.37,General Spending,Other,capital one,credit card
+2025-11-01,Walmart,Walmart Supercenter,debit,-89.82,General Spending,Other,capital one,credit card
+2025-11-02,Espn,Espn,debit,-32.21,General Spending,Other,capital one,credit card
+2025-11-03,Maverik,Maverik,debit,-3.95,General Spending,Other,capital one,credit card
+2025-11-03,Wm Supercenter,Walmart Supercenter,debit,-117.38,General Spending,Other,capital one,credit card
+2025-11-04,Taco Bell,Taco Bell,debit,-25.87,General Spending,Other,capital one,credit card
+2025-11-05,Cougar Cash,BYU (Campus Services),debit,-25.0,General Spending,Other,goldenwest,checking
+2025-11-05,Maverik,Maverik,debit,-52.02,General Spending,Other,capital one,credit card
+2025-11-07,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,626.51,Other Income,Other,goldenwest,checking
+2025-11-07,Tmobileprepd Autopy,T-Mobile,debit,-27.95,General Spending,Other,capital one,credit card
+2025-11-07,Mcdonalds F,McDonald's,debit,-19.2,General Spending,Other,capital one,credit card
+2025-11-08,Taco Bell,Taco Bell,debit,-18.15,General Spending,Other,capital one,credit card
+2025-11-08,Wm Supercenter,Walmart Supercenter,debit,-49.47,General Spending,Other,capital one,credit card
+2025-11-11,Cothtl,Hilton,debit,-662.69,General Spending,Other,capital one,credit card
+2025-11-11,Mcdonalds F,McDonald's,debit,-9.11,General Spending,Other,capital one,credit card
+2025-11-11,Cothtl,Hilton,debit,-111.22,General Spending,Other,capital one,credit card
+2025-11-12,Costco Whse,Costco Wholesale,debit,-262.89,General Spending,Other,capital one,credit card
+2025-11-13,Cougar Cash,BYU (Campus Services),debit,-25.0,General Spending,Other,goldenwest,checking
+2025-11-14,Credittravel Reward,Credit-travel,credit,82.83,Other Income,Other,capital one,credit card
+2025-11-16,Autozone,Autozone,credit,23.64,Other Income,Other,capital one,credit card
+2025-11-16,Autozone,Autozone,debit,-254.65,General Spending,Other,capital one,credit card
+2025-11-17,Costco Gas,Costco Wholesale,debit,-49.78,General Spending,Other,capital one,credit card
+2025-11-18,Ach Ch Jesuschrist Type Donation Id Data Co Ch Jesuschrist Name Savanna Brooke Kerby,Church Donations,debit,-150.0,General Spending,Other,goldenwest,checking
+2025-11-19,Panda Express,Panda Express,debit,-16.51,General Spending,Other,capital one,credit card
+2025-11-19,Sq Winters Custom Hair D,Winters Custom Hair,debit,-66.0,General Spending,Other,capital one,credit card
+2025-11-19,Wm Supercenter,Walmart Supercenter,debit,-91.91,General Spending,Other,capital one,credit card
+2025-11-21,Wm Supercenter,Walmart Supercenter,debit,-47.64,General Spending,Other,capital one,credit card
+2025-11-21,Walmart,Walmart Supercenter,debit,-3.54,General Spending,Other,capital one,credit card
+2025-11-21,Home Depot Riverton,Home Depot,debit,-1.4,General Spending,Other,capital one,credit card
+2025-11-21,Papa Murphys Ut Olo,Papa Murphy's,debit,-35.31,General Spending,Other,capital one,credit card
+2025-11-21,Ross Stores,Ross,debit,-118.17,General Spending,Other,capital one,credit card
+2025-11-21,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,622.01,Other Income,Other,goldenwest,checking
+2025-11-24,Delta Air Baggage Fee,Delta,debit,-75.0,General Spending,Other,capital one,credit card
+2025-11-24,Walmart,Walmart Supercenter,debit,-26.41,General Spending,Other,capital one,credit card
+2025-11-25,Mopla Bewegt,Internal,debit,-67.0,General Spending,Other,capital one,credit card
+2025-11-25,Slc Panda Express,Panda Express,debit,-21.35,General Spending,Other,capital one,credit card
+2025-11-25,Cougar Cash,BYU (Campus Services),debit,-25.0,General Spending,Other,goldenwest,checking
+2025-11-25,Credittravel Reward,Credit-travel,credit,13.23,Other Income,Other,capital one,credit card
+2025-11-25,Mopla Bewegt,Internal,debit,-67.0,General Spending,Other,capital one,credit card
+2025-11-26,Saturn Electrohandels,Saturn,debit,-22.57,General Spending,Other,capital one,credit card
+2025-11-26,Saturn Electrohandels,Saturn,debit,-1.15,General Spending,Other,capital one,credit card
+2025-11-26,Ristorante Calice Doro,Calice Doro,debit,-17.38,General Spending,Other,capital one,credit card
+2025-11-26,Areas Roissy,Areas,debit,-10.37,General Spending,Other,capital one,credit card
+2025-11-26,Ach Byu Type Mfc Echeck Id Co Byu Data Byuprod Name Kerby Savanna Brooke,BYU (Campus Services),debit,-172.0,General Spending,Other,goldenwest,checking
+2025-11-26,Hotel Johann Berlin Recep,Hotel Johann,debit,-140.13,General Spending,Other,capital one,credit card
+2025-11-27,Elaya Ht Leipzig City,Elaya,debit,-3.76,General Spending,Other,capital one,credit card
+2025-11-27,Rewe Markt Gmbhzwnl Ost,Rewe,debit,-3.92,General Spending,Other,capital one,credit card
+2025-11-27,By Salti Gmbh,Salti Gmbh,debit,-34.81,General Spending,Other,capital one,credit card
+2025-11-27,Wiener Feinbackerei,Wiener Feinbackerei,debit,-4.41,General Spending,Other,capital one,credit card
+2025-11-27,Mcdonalds,McDonald's,debit,-20.16,General Spending,Other,capital one,credit card
+2025-11-27,Rewe Markt Gmbhzwnl Ost,Rewe,debit,-1.5,General Spending,Other,capital one,credit card
+2025-11-28,Aldi Nord,Aldi,debit,-12.13,General Spending,Other,capital one,credit card
+2025-11-28,Dolce Freddo Gmbh,Dolce Freddo,debit,-6.62,General Spending,Other,capital one,credit card
+2025-11-28,Rossmann,Rossmann,debit,-29.33,General Spending,Other,capital one,credit card
+2025-11-28,Arcotel Hafencity Dresden,Arcohotel,debit,-31.51,General Spending,Other,capital one,credit card
+2025-11-28,Voelkerschlachtdenkmal Le,Voelkerschlachtdenkmal,debit,-37.52,General Spending,Other,capital one,credit card
+2025-11-28,Voelkerschlachtdenkmal Le,Voelkerschlachtdenkmal,debit,-30.2,General Spending,Other,capital one,credit card
+2025-11-29,Burger King Sot,Burger King,debit,-18.55,General Spending,Other,capital one,credit card
+2025-11-29,Le Crobag De,Le Crobag,debit,-5.22,General Spending,Other,capital one,credit card
+2025-11-29,Bm Weihnachtsland K,Weihnachtsland,debit,-30.13,General Spending,Other,capital one,credit card
+2025-11-29,Sweetwaterrecordstoreja,Sweetwater,debit,-46.38,General Spending,Other,capital one,credit card
+2025-11-29,Spccityapotheken Dresde,City-apotheken,debit,-10.21,General Spending,Other,capital one,credit card
+2025-11-29,Rossmann,Rossmann,debit,-1.38,General Spending,Other,capital one,credit card
+2025-11-29,Le Crobag De,Le Crobag,debit,-9.52,General Spending,Other,capital one,credit card
+2025-11-29,Willy Dany Restaurantb,Willy Danny,debit,-5.81,General Spending,Other,capital one,credit card
+2025-11-29,Sumup Gastro Veran,Gastro,debit,-5.81,General Spending,Other,capital one,credit card
+2025-11-30,Sumup Oergon Design J,Oergon Design,debit,-22.06,General Spending,Other,capital one,credit card
+2025-11-30,Rossmann,Rossmann,debit,-13.49,General Spending,Other,capital one,credit card
 2025-11-30,Abuzer Caliskan,Abuzer Caliskan,debit,-16.25,General Spending,Other,capital one,credit card
-2025-11-30,Internal,Internal,debit,-8.13,General Spending,Other,capital one,credit card
-2025-11-30,Interest Earned,Interest Earned,credit,0.79,Savings & Investments,Dividends,sofi,savings
-2025-11-30,Frank S Rustik,Frank S Rustik,debit,-9.29,General Spending,Other,capital one,credit card
-2025-11-30,Hilton,Hilton,debit,-68.55,General Spending,Other,capital one,credit card
+2025-11-30,Ing Radek Lukapod Spej,Internal,debit,-8.13,General Spending,Other,capital one,credit card
+2025-11-30,Interest Earned,Interest Earned,credit,0.79,Other Income,Other,sofi,savings
+2025-11-30,Sumup Frank S Rustik,Frank S Rustik,debit,-9.29,General Spending,Other,capital one,credit card
+2025-11-30,Cothtl,Hilton,debit,-68.55,General Spending,Other,capital one,credit card
 2025-11-30,Erzgebirgspraesente Gbr,Erzgebirgspraesente Gbr,debit,-68.5,General Spending,Other,capital one,credit card
-2025-11-30,Interest Earned,Interest Earned,credit,0.05,Savings & Investments,Dividends,goldenwest,money market
-2025-11-30,Interest Earned,Interest Earned,credit,0.05,Savings & Investments,Dividends,goldenwest,checking
-2025-11-30,Interest Earned,Interest Earned,credit,1.84,Savings & Investments,Dividends,goldenwest,gold account
-2025-12-01,United Dresden,United Dresden,debit,-15.66,General Spending,Other,capital one,credit card
-2025-12-01,Backwerk,Backwerk,debit,-4.53,Food / Dining,Fast Food,capital one,credit card
-2025-12-01,Lindt,Lindt,debit,-35.49,General Spending,Other,capital one,credit card
-2025-12-01,Landbaeckerei Schmidt,Landbaeckerei Schmidt,debit,-7.71,Food / Dining,Fast Food,capital one,credit card
-2025-12-01,Internal,Internal,debit,-67.34,General Spending,Other,capital one,credit card
-2025-12-01,Sumup,Sumup,debit,-150.87,General Spending,Other,capital one,credit card
-2025-12-01,Gttgvendinggmbh,Gttgvendinggmbh,debit,-8.13,General Spending,Other,capital one,credit card
-2025-12-01,Internal,Internal,debit,-67.34,General Spending,Other,capital one,credit card
-2025-12-01,Mcdonald's,McDonald's,debit,-11.61,Food / Dining,Fast Food,capital one,credit card
-2025-12-01,Kamps,Kamps,debit,-3.08,General Spending,Other,capital one,credit card
-2025-12-01,Mcpaper,Mcpaper,debit,-48.7,General Spending,Other,capital one,credit card
-2025-12-01,Confiserie Felicitas,Confiserie Felicitas,debit,-11.61,Food / Dining,Fast Food,capital one,credit card
-2025-12-02,Hms Host International,Hms Host International,debit,-3.5,Travel & Lodging,Travel & Commute,capital one,credit card
-2025-12-02,Enticon Shops,Enticon Shops,debit,-17.42,Shopping & Supplies,General Retail,capital one,credit card
-2025-12-02,Espn,Espn,debit,-32.21,Entertainment,Streaming/Movies,capital one,credit card
-2025-12-02,Flughafen Berlin,Flughafen Berlin,debit,-16.31,General Spending,Other,capital one,credit card
-2025-12-02,Nord,Nord,debit,-85.86,General Spending,Other,capital one,credit card
-2025-12-02,Schengen Fashion,Schengen Fashion,debit,-26.51,General Spending,Other,capital one,credit card
-2025-12-02,Klm Airline,Klm Airline,debit,-81.57,Travel & Lodging,Airfare,capital one,credit card
-2025-12-03,Walmart Supercenter,Walmart Supercenter,debit,-203.32,Food / Dining,Groceries,capital one,credit card
-2025-12-04,Credit-Travel,Credit-travel,credit,24.55,Other Income,Other,capital one,credit card
-2025-12-04,Capital One,Capital One,credit,700.0,Other Income,Other,capital one,credit card
-2025-12-04,Capital One,Capital One,debit,-700.0,General Spending,Other,goldenwest,checking
-2025-12-05,Internal,Internal,credit,300.93,Other Income,Other,capital one,credit card
-2025-12-05,Capital One,Capital One,debit,-300.93,General Spending,Other,goldenwest,checking
-2025-12-05,Church Donations,Church Donations,debit,-150.0,Gifts & Donations,Tithing,goldenwest,checking
-2025-12-05,Church Donations,Church Donations,debit,-140.0,Gifts & Donations,Tithing,goldenwest,checking
-2025-12-05,Payroll Deposit,Payroll Deposit,credit,618.73,Income,Paychecks,goldenwest,checking
-2025-12-06,Cafe Zupas,Cafe Zupas,debit,-14.09,Food / Dining,Restaurants/Dining,capital one,credit card
-2025-12-06,Hearts Nail Spa,Hearts Nail Spa,debit,-67.65,Health & Wellness,Personal Care,capital one,credit card
-2025-12-06,Maverik,Maverik,debit,-44.07,Automotive & Fuel,Fuel,capital one,credit card
-2025-12-06,Leatherby's,Leatherby's,debit,-16.79,General Spending,Other,capital one,credit card
-2025-12-07,T-Mobile,T-Mobile,debit,-27.95,Housing & Bills,Phone,capital one,credit card
-2025-12-09,Walmart Supercenter,Walmart Supercenter,debit,-32.69,Food / Dining,Groceries,capital one,credit card
-2025-12-09,Walmart Supercenter,Walmart Supercenter,debit,-13.6,Food / Dining,Groceries,capital one,credit card
-2025-12-09,Walmart Supercenter,Walmart Supercenter,debit,-30.8,Food / Dining,Groceries,capital one,credit card
-2025-12-10,Byu (Campus Services),BYU (Campus Services),debit,-25.0,Education,Education,goldenwest,checking
-2025-12-10,Home Depot,Home Depot,debit,-1.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-12-10,Jiffy Lube,Jiffy Lube,debit,-281.31,Automotive & Fuel,Maintenance,capital one,credit card
-2025-12-10,Walmart Supercenter,Walmart Supercenter,debit,-41.27,Food / Dining,Groceries,capital one,credit card
-2025-12-11,Dmv,DMV,debit,-164.25,Automotive & Fuel,Maintenance,capital one,credit card
-2025-12-12,Costco Wholesale,Costco Wholesale,debit,-172.94,Food / Dining,Groceries,capital one,credit card
-2025-12-12,Costco Wholesale,Costco Wholesale,debit,-21.58,Food / Dining,Groceries,capital one,credit card
-2025-12-13,Walmart Supercenter,Walmart Supercenter,debit,-75.36,Food / Dining,Groceries,capital one,credit card
-2025-12-13,Home Depot,Home Depot,debit,-1.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-12-16,Utah County Clerk,Utah County Clerk,debit,-20.0,General Spending,Other,capital one,credit card
-2025-12-16,Internal,Internal,debit,-1.5,General Spending,Other,capital one,credit card
-2025-12-17,Internal,Internal,credit,2017.33,Other Income,Other,capital one,credit card
-2025-12-17,Home Depot,Home Depot,debit,-1.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-12-19,Home Depot,Home Depot,debit,-21.43,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-12-19,Home Depot,Home Depot,debit,-1.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-12-19,Hobby Lobby,Hobby Lobby,debit,-41.48,Shopping & Supplies,Hobbies,capital one,credit card
-2025-12-19,Payroll Deposit,Payroll Deposit,credit,549.0,Income,Paychecks,goldenwest,checking
-2025-12-19,Bear River Insurance,Bear River Insurance,debit,-178.0,Automotive & Fuel,Insurance,goldenwest,checking
-2025-12-20,Post Mart,Post Mart,debit,-7.97,Shopping & Supplies,General Retail,capital one,credit card
-2025-12-20,Walmart Supercenter,Walmart Supercenter,debit,-124.59,Food / Dining,Groceries,capital one,credit card
-2025-12-20,Chipotle,Chipotle,debit,-20.0,Food / Dining,Fast Food,capital one,credit card
-2025-12-20,Home Depot,Home Depot,debit,-1.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-12-20,Walmart Supercenter,Walmart Supercenter,debit,-36.85,Food / Dining,Groceries,capital one,credit card
-2025-12-22,Domino's Pizza,Domino's Pizza,debit,-17.33,Food / Dining,Fast Food,capital one,credit card
-2025-12-22,Maverik,Maverik,debit,-44.86,Automotive & Fuel,Fuel,capital one,credit card
-2025-12-23,Cinemark,Cinemark,debit,-23.4,General Spending,Other,capital one,credit card
-2025-12-23,Credit-Travel,Credit-travel,credit,3.76,Other Income,Other,capital one,credit card
-2025-12-23,Credit-Travel,Credit-travel,credit,6.96,Other Income,Other,capital one,credit card
-2025-12-23,Credit-Travel,Credit-travel,credit,15.14,Other Income,Other,capital one,credit card
-2025-12-27,Noodles And Company,Noodles And Company,debit,-10.95,Food / Dining,Fast Food,capital one,credit card
-2025-12-27,Home Depot,Home Depot,debit,-1.4,Shopping & Supplies,Home Improvement,capital one,credit card
-2025-12-29,Amazon,Amazon,credit,3.9,Shopping & Supplies,General Retail,goldenwest,checking
-2025-12-29,Cafe Zupas,Cafe Zupas,debit,-14.09,Food / Dining,Restaurants/Dining,capital one,credit card
-2025-12-29,Walmart Supercenter,Walmart Supercenter,debit,-39.62,Food / Dining,Groceries,capital one,credit card
-2025-12-30,Hrb,Hrb,debit,-10.0,General Spending,Other,capital one,credit card
-2025-12-31,Interest Earned,Interest Earned,credit,0.01,Savings & Investments,Dividends,goldenwest,money market
-2025-12-31,Interest Earned,Interest Earned,credit,1.91,Savings & Investments,Dividends,goldenwest,gold account
-2025-12-31,Golden,Golden,credit,20.05,Other Income,Other,goldenwest,gold account
-2025-12-31,Interest Earned,Interest Earned,credit,0.02,Savings & Investments,Dividends,goldenwest,checking
-2025-12-31,Interest Earned,Interest Earned,credit,0.47,Savings & Investments,Dividends,sofi,savings
+2025-11-30,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.05,Other Income,Other,goldenwest,money market
+2025-11-30,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.05,Other Income,Other,goldenwest,checking
+2025-11-30,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,1.84,Other Income,Other,goldenwest,gold account
+2025-12-01,United Dresden Gmbh,United Dresden,debit,-15.66,General Spending,Other,capital one,credit card
+2025-12-01,Backwerk,Backwerk,debit,-4.53,General Spending,Other,capital one,credit card
+2025-12-01,Chocoladefabriken Lindt,Lindt,debit,-35.49,General Spending,Other,capital one,credit card
+2025-12-01,Landbaeckerei Schmidt,Landbaeckerei Schmidt,debit,-7.71,General Spending,Other,capital one,credit card
+2025-12-01,Mopla Bewegt,Internal,debit,-67.34,General Spending,Other,capital one,credit card
+2025-12-01,Sumup Danke Tk Fa R,Sumup,debit,-150.87,General Spending,Other,capital one,credit card
+2025-12-01,Nyxgttgvendinggmbh,Gttgvendinggmbh,debit,-8.13,General Spending,Other,capital one,credit card
+2025-12-01,Mopla Bewegt,Internal,debit,-67.34,General Spending,Other,capital one,credit card
+2025-12-01,Mcdonalds,McDonald's,debit,-11.61,General Spending,Other,capital one,credit card
+2025-12-01,Kamps Berlin,Kamps,debit,-3.08,General Spending,Other,capital one,credit card
+2025-12-01,Mcpaper Dresden,Mcpaper,debit,-48.7,General Spending,Other,capital one,credit card
+2025-12-01,Confiserie Felicitas,Confiserie Felicitas,debit,-11.61,General Spending,Other,capital one,credit card
+2025-12-02,Hms Host International,Hms Host International,debit,-3.5,General Spending,Other,capital one,credit card
+2025-12-02,Enticon Shops,Enticon Shops,debit,-17.42,General Spending,Other,capital one,credit card
+2025-12-02,Espn,Espn,debit,-32.21,General Spending,Other,capital one,credit card
+2025-12-02,Flughafen Berlin Brand,Flughafen Berlin,debit,-16.31,General Spending,Other,capital one,credit card
+2025-12-02,Slnord Vpncom,Nordvpn,debit,-85.86,General Spending,Other,capital one,credit card
+2025-12-02,Shop Schengen Fashion,Schengen Fashion,debit,-26.51,General Spending,Other,capital one,credit card
+2025-12-02,Klm Airline,Klm Airline,debit,-81.57,General Spending,Other,capital one,credit card
+2025-12-03,Walmart,Walmart Supercenter,debit,-203.32,General Spending,Other,capital one,credit card
+2025-12-04,Credittravel Reward,Credit-travel,credit,24.55,Other Income,Other,capital one,credit card
+2025-12-05,Ach Ch Jesuschrist Type Donation Id Data Co Ch Jesuschrist Name Savanna Brooke Kerby,Church Donations,debit,-150.0,General Spending,Other,goldenwest,checking
+2025-12-05,Ach Ch Jesuschrist Type Donation Id Data Co Ch Jesuschrist Name Savanna Brooke Kerby,Church Donations,debit,-140.0,General Spending,Other,goldenwest,checking
+2025-12-05,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,618.73,Other Income,Other,goldenwest,checking
+2025-12-06,Cafe Zupas Saratoga Spr,Cafe Zupas,debit,-14.09,General Spending,Other,capital one,credit card
+2025-12-06,Hearts Nail Spa,Hearts Nail Spa,debit,-67.65,General Spending,Other,capital one,credit card
+2025-12-06,Maverik,Maverik,debit,-44.07,General Spending,Other,capital one,credit card
+2025-12-06,Leatherbys Family Cream,Leatherby's Family Cream,debit,-16.79,General Spending,Other,capital one,credit card
+2025-12-07,Tmobileprepd Autopy,T-Mobile,debit,-27.95,General Spending,Other,capital one,credit card
+2025-12-09,Wm Supercenter,Walmart Supercenter,debit,-32.69,General Spending,Other,capital one,credit card
+2025-12-09,Walmart Se,Walmart Supercenter,debit,-13.6,General Spending,Other,capital one,credit card
+2025-12-09,Walmart,Walmart Supercenter,debit,-30.8,General Spending,Other,capital one,credit card
+2025-12-10,Cougar Cash,BYU (Campus Services),debit,-25.0,General Spending,Other,goldenwest,checking
+2025-12-10,Home Depot Riverton,Home Depot,debit,-1.4,General Spending,Other,capital one,credit card
+2025-12-10,Jiffy Lube,Jiffy Lube,debit,-281.31,General Spending,Other,capital one,credit card
+2025-12-10,Wm Supercenter,Walmart Supercenter,debit,-41.27,General Spending,Other,capital one,credit card
+2025-12-11,Utahdmv Renewal Expre,DMV,debit,-164.25,General Spending,Other,capital one,credit card
+2025-12-12,Costco Whse,Costco Wholesale,debit,-172.94,General Spending,Other,capital one,credit card
+2025-12-12,Costco Whse,Costco Wholesale,debit,-21.58,General Spending,Other,capital one,credit card
+2025-12-13,Walmart,Walmart Supercenter,debit,-75.36,General Spending,Other,capital one,credit card
+2025-12-13,Home Depot Riverton,Home Depot,debit,-1.4,General Spending,Other,capital one,credit card
+2025-12-16,Cbtutah County Clerk,Utah County Clerk,debit,-20.0,General Spending,Other,capital one,credit card
+2025-12-16,Cbtsvc Fee Utah Cnty,Internal,debit,-1.5,General Spending,Other,capital one,credit card
+2025-12-17,Home Depot Riverton,Home Depot,debit,-1.4,General Spending,Other,capital one,credit card
+2025-12-19,The Home Depot,Home Depot,debit,-21.43,General Spending,Other,capital one,credit card
+2025-12-19,Home Depot Riverton,Home Depot,debit,-1.4,General Spending,Other,capital one,credit card
+2025-12-19,Hobby Lobby,Hobby Lobby,debit,-41.48,General Spending,Other,capital one,credit card
+2025-12-19,Salaryregular Income From Goldenwest Credit Union,Payroll Deposit,credit,549.0,Other Income,Other,goldenwest,checking
+2025-12-20,Post Mart,Post,debit,-7.97,General Spending,Other,capital one,credit card
+2025-12-20,Walmart,Walmart Supercenter,debit,-124.59,General Spending,Other,capital one,credit card
+2025-12-20,Chipotle,Chipotle,debit,-20.0,General Spending,Other,capital one,credit card
+2025-12-20,Home Depot Riverton,Home Depot,debit,-1.4,General Spending,Other,capital one,credit card
+2025-12-20,Wm Supercenter,Walmart Supercenter,debit,-36.85,General Spending,Other,capital one,credit card
+2025-12-22,Dominos,Domino's Pizza,debit,-17.33,General Spending,Other,capital one,credit card
+2025-12-22,Maverik,Maverik,debit,-44.86,General Spending,Other,capital one,credit card
+2025-12-23,Cinemark Online,Cinemark,debit,-23.4,General Spending,Other,capital one,credit card
+2025-12-23,Credittravel Reward,Credit-travel,credit,3.76,Other Income,Other,capital one,credit card
+2025-12-23,Credittravel Reward,Credit-travel,credit,6.96,Other Income,Other,capital one,credit card
+2025-12-23,Credittravel Reward,Credit-travel,credit,15.14,Other Income,Other,capital one,credit card
+2025-12-27,Noodles And Company,Noodles And Company,debit,-10.95,General Spending,Other,capital one,credit card
+2025-12-27,Home Depot Riverton,Home Depot,debit,-1.4,General Spending,Other,capital one,credit card
+2025-12-29,Amazon Deposit,Amazon,credit,3.9,Other Income,Other,goldenwest,checking
+2025-12-29,Cafe Zupas Am Fork,Cafe Zupas,debit,-14.09,General Spending,Other,capital one,credit card
+2025-12-29,Wm Supercenter,Walmart Supercenter,debit,-39.62,General Spending,Other,capital one,credit card
+2025-12-30,Hrb Online Tax Product,Hrb Online,debit,-10.0,General Spending,Other,capital one,credit card
+2025-12-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.01,Other Income,Other,goldenwest,money market
+2025-12-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,1.91,Other Income,Other,goldenwest,gold account
+2025-12-31,Rewards From Golden,Golden,credit,20.05,Other Income,Other,goldenwest,gold account
+2025-12-31,Deposit Dividend Annual Percentage Yield Earned From Through,Interest Earned,credit,0.02,Other Income,Other,goldenwest,checking
+2025-12-31,Interest Earned,Interest Earned,credit,0.47,Other Income,Other,sofi,savings

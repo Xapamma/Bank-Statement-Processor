@@ -37,6 +37,10 @@ def save_cache():
 def get_merchant(description):
      # --- Step 1: Clean description for matching ---
     raw_desc = clean_description_for_matching(description)
+    
+    if raw_desc is None:
+        return None
+
     cache_key = raw_desc.lower()
 
     # --- Step 2: Check regex map FIRST (fastest) ---
@@ -124,22 +128,6 @@ account_map = {
     "savings": "savings",
     "imm": "money market",
     "gold": "gold account"
-}
-
-# Optimized categories
-category_map = {
-    "Housing": ["Mortgage/Rent", "Utilities", "Phone", "Cable/Internet", "Waste", "Maintenance/Repairs"],
-    "Transportation": ["Vehicle Payments", "Insurance", "Fuel", "Licensing", "Parking", "Repairs", "Maintenance", "Other"],
-    "Loans / Credit": ["Credit Card", "Student Loan", "House Loan", "Other"],
-    "Insurance": ["Home/Rental", "Health", "Life", "Other"],
-    "Taxes": ["Federal", "State", "Local", "Other"],
-    "Savings / Investments": ["Emergency Fund", "Retirement", "Transfer to Savings", "Investments", "House Down Payment", "Other"],
-    "Food / Dining": ["Groceries", "Restaurants/Dining", "Fast Food", "Snacks", "Other"],
-    "Entertainment": ["Movies/Theater", "Music Platforms", "Concerts/Plays", "Games", "Hobbies", "Outdoor Recreation", "Travel", "Other"],
-    "Personal Care / Health": ["Doctor/Dentist", "Medicine/Drugs", "Hair/Nails", "Health Club", "Discretionary", "Other"],
-    "Education": ["Tuition", "Books", "Other"],
-    "Gifts & Donations": ["Tithing", "Fast Offerings", "Gift", "Other"],
-    "Vacations / Travel": ["Travel", "Lodging", "Food", "Entertainment", "Souvenirs", "Other"]
 }
 
 # List to hold all banks
