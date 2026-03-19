@@ -2,9 +2,10 @@ import pandas as pd
 import numpy as np
 import glob
 import os
+import re
 from rapidfuzz import process, fuzz
 import json
-from cleaning_logic import clean_and_categorize, clean_description_for_matching, match_description_map, smart_title
+from cleaning_logic import add_categories, description_merchants, merchants_list,clean_description_for_matching, match_description_map, smart_title
 
 # Get Ollama Working
 import ollama
@@ -18,6 +19,58 @@ def call_ollama(prompt, model="gemma3:4b"):
     )
 
     return response["message"]["content"].strip()
+
+# Add Rapidfuzz logic
+def fuzzy_match(desc, choices):
+    if not choices:  # handle empty input
+        return None, 0
+
+    # make sure choices is a list
+    choices = list(choices)
+
+    result = process.extractOne(
+        desc,
+        choices,
+        scorer=fuzz.token_set_ratio
+    )
+
+    if result is None:  # handle RapidFuzz returning None
+        return None, 0
+
+    match, score, _ = result
+
+    # Reject weak matches
+    if score < 90:
+        return None, score
+
+    # Reject suspicious short matches
+    if len(match.split()) == 1 and score < 97:
+        return None, score
+
+    # Require word overlap
+    if not any(word in desc for word in match.lower().split()):
+        return None, score
+    
+    # Require **at least 2 token overlaps**
+    desc_words = set(desc.lower().split())
+    match_words = set(match.lower().split())
+    if len(desc_words & match_words) < 2:
+        return None, score
+
+    return match, score
+
+# parse robustly
+def parse_llm_json(raw_text):
+    raw_text = raw_text.replace('```json', '').replace('```', '').strip()
+    try:
+        data = json.loads(raw_text)
+        return data
+    except json.JSONDecodeError:
+        # fallback: extract manually
+        match = re.search(r'"name"\s*:\s*"([^"]+)"', raw_text)
+        if match:
+            return {"name": match.group(1)}
+        return {"name": "unknown"}
 
 # Add the merchant column stuff
 
@@ -41,18 +94,28 @@ def get_merchant(description):
     if raw_desc is None:
         return None
 
-    cache_key = raw_desc.lower()
-
     # --- Step 2: Check regex map FIRST (fastest) ---
     match = match_description_map(raw_desc)
     if match:
         return match
 
     # --- Step 3: Check cache ---
-    if cache_key in merchant_cache:
-        return merchant_cache[cache_key]
+    if raw_desc in merchant_cache:
+        return merchant_cache[raw_desc]
+    
+    # --- Step 4: RapidFuzz Logic ---
+    match, score = fuzzy_match(raw_desc, merchants_list)
+    cache_match_key, cache_score = fuzzy_match(raw_desc, merchant_cache.keys())
+    desc_match, desc_score = fuzzy_match(raw_desc, description_merchants)
 
-    # --- Step 4: LLM fallback ---
+    if score > 96:
+        return match
+    if desc_score >= 96:
+        return desc_match
+    if cache_score > 96:
+        return cache_match_key
+    
+    # --- Step 5: LLM fallback ---
     prompt = f"""
 You are a strict data extraction function.
 
@@ -66,13 +129,27 @@ OUTPUT RULES (MANDATORY):
 - Output must be EXACTLY one JSON object
 - Use this exact format: {{"name": "merchant"}}
 
+CRITICAL MATCHING RULE:
+- You MUST prefer matching one of the KNOWN MERCHANTS EXACTLY when possible
+- If the transaction clearly matches one of them, return it EXACTLY as written
+- Do NOT simplify, shorten, or reformat known merchants
+
+KNOWN MERCHANTS:
+{merchants_list}
+{description_merchants}
+
 EXTRACTION RULES:
 - Extract the real merchant (store, company, or service)
 - Remove locations, states, phone numbers, and IDs
 - Ignore bank names (e.g., credit union, bank)
-- Ignore transaction words (transfer, payment, deposit, withdrawal)
-- If this is NOT a real merchant (e.g., transfer between accounts), return:
-  {{"name": "internal"}}
+- If it does NOT match any known merchant, return the cleaned description itself as the value for "name"
+- Do NOT invent or shorten merchant names
+
+OUTPUT RULES (MANDATORY):
+- Output ONLY valid JSON
+- Do NOT include markdown, code blocks, or ```json
+- Output must be EXACTLY one JSON object
+- Use this exact format: {{"name": "merchant"}}
 
 EXAMPLES:
 
@@ -82,11 +159,11 @@ Output: {{"name": "Amazon"}}
 Input: WALMART SUPERCENTER #1234 UT
 Output: {{"name": "Walmart"}}
 
-Input: TO CHECKING 6818
-Output: {{"name": "internal"}}
-
 Input: SQ *JOES PIZZA 435-555-1234 UT
 Output: {{"name": "Joes Pizza"}}
+
+Input: ING RADEK LUKAPOD SPEJ UT
+Output: {{"name": "ING Radek Lukapod Spej"}}
 
 NOW EXTRACT:
 
@@ -95,19 +172,23 @@ Input: {description}
     
     raw = call_ollama(prompt)
 
+
     try:
-        data = json.loads(raw)
-        merchant = smart_title(data["name"])
+        data = parse_llm_json(raw)
+        merchant = smart_title(data.get("name", "unknown"))
 
         # Save to cache
-        merchant_cache[cache_key] = merchant
+        merchant_cache[raw_desc] = merchant
         save_cache()
 
         return merchant
     
     except Exception:
-        print("❌ Bad output:", raw)
-        return "unknown"
+        # Instead of printing raw, just return raw as fallback
+        merchant = smart_title(raw.strip())
+        merchant_cache[raw_desc] = merchant
+        save_cache()
+        return merchant
 
 
 def add_merchants(df):
@@ -243,7 +324,7 @@ combined = combined[columns_to_keep]
 
 # Final Step: Apply the robust cleaning logic
 print("Applying categorization logic...")
-final_df = clean_and_categorize(combined)
+final_df = add_categories(combined)
 
 # Save
 final_df.to_csv("all_banks_final_categorized.csv", index=False)
