@@ -333,16 +333,12 @@ def clean_description_for_matching(description):
         raw_desc
     )
 
+
     # 🔥 ADD THIS
     raw_desc = re.sub(r"[^a-z&'\-\s]", '', raw_desc)  # removes numbers + symbols
 
     # Normalize spacing
     raw_desc = " ".join(raw_desc.split())
-
-     # Filter Internal Noise (Transfers/Roundups)
-    noise_list = ["transfer to sofi", "to checking", "angel funding", "roundup", "home banking transfer", "pymt", "payment to", "north capital", "internal transfer"]
-    if any(noise in raw_desc for noise in noise_list):
-        return None
     
     return raw_desc
 
@@ -379,9 +375,6 @@ def add_categories(df):
 
     # Apply across rows
     df[['main_category', 'sub_category']] = df.apply(process_row, axis=1)
-
-    # Remove rows marked for deletion
-    df = df.dropna(subset=["description"])
     
     # Ensure description is Title Case for final output
     df['description'] = df['description'].apply(smart_title)

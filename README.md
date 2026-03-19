@@ -1,39 +1,101 @@
-# Bank-Statement-Processor
+# Bank Statement Processor
 
-This repository contains a Python project that automates the process of compiling, cleaning, and categorizing bank transaction data from multiple banks. The goal is to streamline financial analysis and help track spending across different categories efficiently.
+This repository contains a Python-based data pipeline that compiles, cleans, and categorizes bank transaction data from multiple financial institutions.
+
+The project transforms raw CSV exports into a structured dataset suitable for financial analysis by combining rule-based logic, fuzzy matching, and a local large language model (LLM).
 
 ---
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Overview](#overview)
 - [Motivation](#motivation)
+- [Key Features](#key-features)
 - [Ethical Considerations](#ethical-considerations)
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [How It Works](#how-it-works)
+- [Data Pipeline](#data-pipeline)
+- [Output Dataset](#output-dataset)
 
 ---
 
-## Introduction
-For years, manually compiling bank statements into a single Excel sheet was time-consuming and prone to errors. This project automates the process using Python, reading CSV files from multiple banks, cleaning and standardizing the data, categorizing transactions, and compiling them into a single dataset ready for analysis.
+## Overview
+
+Bank transaction data is often messy, inconsistent, and difficult to analyze across multiple accounts. This project automates the process of:
+
+- Combining multiple bank CSV files  
+- Cleaning and standardizing transaction data  
+- Extracting merchant names  
+- Categorizing transactions into meaningful groups  
+
+The final output is a clean dataset that can be used for budgeting, analysis, or visualization.
 
 ---
 
 ## Motivation
-The project was inspired by the need to answer questions like:
-- "Am I spending too much in certain categories?"
-- "How can I optimize my budget?"
 
-By automating transaction categorization and compilation, it is possible to analyze spending habits more accurately and regularly.
+This project was built to answer questions such as:
+
+- How much am I spending in each category?
+- Where can I reduce unnecessary expenses?
+- How can I automate financial tracking instead of doing it manually?
+
+Manually organizing bank data in spreadsheets is time-consuming and error-prone. This system reduces that effort significantly.
+
+---
+
+## Key Features
+
+### Multi-Bank Integration
+
+- Supports multiple institutions (e.g., Goldenwest, SoFi, Capital One)
+- Automatically standardizes different CSV formats
+
+### Rule-Based Cleaning
+
+- Regex-based normalization of transaction descriptions
+- Handles bank-specific noise and formatting inconsistencies
+
+### Fuzzy Matching (RapidFuzz)
+
+- Matches similar or misspelled merchant names
+- Reduces duplicate merchant entries
+
+### LLM-Based Merchant Extraction (Ollama)
+
+- Uses a local large language model to extract merchant names when rules fail
+- Enforces structured JSON outputs for reliability
+
+### Merchant Caching System
+
+- Stores extracted merchants in `merchant_cache.json`
+- Prevents repeated LLM calls
+- Improves speed and consistency over time
+
+### Categorization Engine
+
+- Assigns transactions to sub-categories and main categories
+- Uses a predefined mapping system
+
+### Noise Filtering
+
+- Removes non-spending transactions such as:
+  - Internal transfers  
+  - Account payments  
+  - Round-ups  
 
 ---
 
 ## Ethical Considerations
-Financial data is sensitive. This project prioritizes privacy and security:
-- All data processing occurs locally.
-- No personal financial information is shared with third parties.
-- CSV files are manually downloaded from bank accounts rather than scraping websites, avoiding potential security or legal issues.
+
+This project uses personal financial data and follows responsible data practices:
+
+- All processing is done locally  
+- No private financial data is shared  
+- No APIs or scraping are used  
+- No sensitive information (e.g., account numbers) is included in outputs  
+
+If sharing this repository publicly, it is recommended to exclude raw financial data files.
 
 ---
 
@@ -46,9 +108,15 @@ Financial data is sensitive. This project prioritizes privacy and security:
 
     - ...
 
-- all_banks_final_categorized.csv # Output file with cleaned and categorized transactions
+- cleaning_logic.py # Cleaning + categorization logic
+
+- bank_statement_processor.py # Main pipeline script
 
 - bank_statement.py # Python script for cleaning and categorizing
+
+- merchant_cache.json # Cached merchant results (auto-generated)
+
+- all_banks_final_categorized.csv # Final output dataset
 
 - README.md
 
@@ -58,19 +126,30 @@ Financial data is sensitive. This project prioritizes privacy and security:
 - Python 3.10+
 - Libraries:
   - `pandas`
+  - `numpy`
   - `rapidfuzz`
-  - `subprocess` (standard library)
+  - `ollama`
   - `json` (standard library)
   - `re` (standard library)
-- [Ollama](https://ollama.com) installed locally for AI-assisted categorization
+
+### Additional Setup
+
+Install and run Ollama locally:
+
+👉 [Ollama Link](https://ollama.com)
+
+Then pull your model:
+```bash
+ollama pull gemma3:4b
+```
 
 ---
 
 ## Usage
+
 1. Place CSV files from your banks into the `.data` folder, separated by bank.
 2. Adjust the `known_banks` and `account_types` lists in `bank_statement_processor.py` if needed.
-3. Update the `ollama_path` variable to your local Ollama executable.
-4. Run the script:
+3. Run the script:
 ```bash
 python bank_statement_processor.py
 ```

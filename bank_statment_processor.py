@@ -314,6 +314,21 @@ combined["main_category"] = np.nan
 # Save the origional descriptions
 combined['raw_description'] = combined['description']
 
+# --- 0️⃣ Define noise patterns ---
+noise_patterns = [
+    "transfer to sofi", "to checking", "angel funding", "roundup",
+    "home banking transfer", "pymt", "payment to", "north capital", "internal transfer"
+]
+
+# --- 1️⃣ Lowercase descriptions for matching ---
+desc_lower = combined["description"].str.lower()
+
+# --- 2️⃣ Create a mask to keep only rows that do NOT match any noise ---
+mask = ~desc_lower.apply(lambda x: any(noise in x for noise in noise_patterns))
+
+# --- 3️⃣ Apply the mask BEFORE calling add_merchants ---
+combined = combined[mask].copy()
+
 # Add a merchant link
 print("Extracting merchants...")
 combined = add_merchants(combined)
@@ -322,7 +337,7 @@ combined = add_merchants(combined)
 columns_to_keep = ["date", "description", "merchant", "type", "amount", "main_category", "sub_category", "bank", "account"]
 combined = combined[columns_to_keep]
 
-# Final Step: Apply the robust cleaning logic
+# Final Step: Apply the robust categorization logic
 print("Applying categorization logic...")
 final_df = add_categories(combined)
 
