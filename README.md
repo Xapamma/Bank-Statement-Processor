@@ -150,8 +150,14 @@ ollama pull gemma3:4b
 1. Place CSV files from your banks into the `.data` folder, separated by bank.
 2. Adjust the `known_banks` and `account_types` lists in `bank_statement_processor.py` if needed.
 3. Run the script:
+
 ```bash
 python bank_statement_processor.py
+```
+4. Output will be saved as:
+
+```
+all_banks_final_categorized.csv
 ```
 
 The script outputs all_banks_final_categorized.csv with the following columns:
@@ -165,13 +171,80 @@ The script outputs all_banks_final_categorized.csv with the following columns:
 - bank
 - account
 
+---
 
-## How It Works
+## Data Pipeline
 
-Data Collection: CSV files are manually downloaded from each bank for the relevant time period.
+The processing workflow follows a structured pipeline:
 
-Data Cleaning: The script standardizes column names, formats dates, and converts amounts to floats.
+1. **Load Data**
+   - Read CSV files from multiple banks
+   - Normalize column names
 
-String Matching & Categorization: Transaction descriptions are categorized using fuzzy string matching (RapidFuzz) and AI-assisted categorization via Ollama.
+2. **Standardize Data**
+   - Convert dates into consistent datetime format  
+   - Clean and normalize transaction amounts  
 
-Data Compilation: Transactions from all banks are combined into a single dataset and sorted by date for analysis.
+3. **Clean Descriptions**
+   - Remove symbols, numbers, and bank-specific noise  
+   - Normalize text for matching  
+
+4. **Merchant Detection**
+   - Regex-based matching (fast, high-confidence)
+   - Fuzzy matching using RapidFuzz
+   - LLM fallback (Ollama) for unknown merchants  
+
+5. **Caching**
+   - Store results in `merchant_cache.json`
+   - Avoid repeated LLM calls  
+
+6. **Noise Filtering**
+   - Remove internal transfers and non-spending transactions  
+
+7. **Categorization**
+   - Assign sub-categories and main categories  
+
+8. **Export**
+   - Save final cleaned dataset  
+
+---
+
+## Output Dataset
+
+The final dataset contains:
+
+- **500+ transactions (varies depending on input data)**
+- **9 features (columns):**
+
+| Column           | Description |
+|------------------|------------|
+| date             | Transaction date |
+| description      | Cleaned transaction description |
+| merchant         | Extracted merchant name |
+| type             | Debit or credit |
+| amount           | Transaction value |
+| main_category    | High-level category |
+| sub_category     | Detailed category |
+| bank             | Source bank |
+| account          | Account type |
+
+---
+
+## Notes & Limitations
+
+- LLM outputs may occasionally be inconsistent  
+- New merchants must be processed once before being cached  
+- Some transactions may fall into "Other" categories  
+- Results depend on the quality and consistency of input data  
+- Dataset reflects personal spending, which introduces bias  
+
+---
+
+## Future Improvements
+
+- Add embedding-based merchant clustering  
+- Improve categorization with machine learning models  
+- Build a dashboard for visualization  
+- Add user feedback loop for correcting classifications  
+
+---
