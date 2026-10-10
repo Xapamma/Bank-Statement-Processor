@@ -147,7 +147,7 @@ ollama pull gemma3:4b
 
 ## Usage
 
-1. Place CSV files from your banks into the `.data` folder, separated by bank.
+1. Place CSV files from your banks into the `.data` folder, separated by bank or just use the example bank statments.
 2. Adjust the `known_banks` and `account_types` lists in `bank_statement_processor.py` if needed.
 3. Run the script:
 
